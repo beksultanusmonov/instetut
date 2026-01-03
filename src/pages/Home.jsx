@@ -1,10 +1,15 @@
-import React from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
+import Quiz from "../Quiz";
+import { quizQuestions, quizTarmoq } from "../data/quizQuestions";
 
 function Home() {
+  const [quiz, setQuiz] = useState(false);
   return (
-    <div>
-      <div className="flex justify-center py-6">
+    <div className="relative">
+      <img src="https://img.freepik.com/premium-photo/blue-pink-purple-abstract-wallpaper-vivid-light-glow-elements-modern-minimalist-digital-wallpaper_657790-27532.jpg?semt=ais_hybrid&w=740&q=80" className="top-0 left-0 absolute w-screen h-[calc(100vh-70px)] object-cover -z-10" />
+      {!quiz && <>
+        <div className="flex justify-center py-6">
         <label className="input">
           <svg
             className="h-[1em] opacity-50"
@@ -26,18 +31,31 @@ function Home() {
         </label>
       </div>
       <div className="flex flex-wrap gap-5 px-[5%]">
-        <div class="card sm:max-w-sm shadow-xl max-w-[96vw] hover:cursor-pointer transition-all duration-500 hover:scale-105">
-            <div class="card-body">
-            <h5 class="card-title mb-2.5">Malumotlar bazasi</h5>
-            <p class="mb-4">
+        <div className="card sm:max-w-sm shadow-xl max-w-[96vw] hover:cursor-pointer transition-all duration-500 hover:scale-105 bg-white">
+            <div className="card-body">
+            <h5 className="card-title mb-2.5">Kampuyuter Tarmoqlari</h5>
+            <p className="mb-4">
+                Yakuniy nazorat uchun
+            </p>
+            <div className="card-actions">
+                <p onClick={() => setQuiz(quizTarmoq)} className="btn btn-primary">Ishlash</p>
+            </div>
+            </div>
+        </div>
+        <div className="card sm:max-w-sm shadow-xl max-w-[96vw] hover:cursor-pointer transition-all duration-500 hover:scale-105 bg-white">
+            <div className="card-body">
+            <h5 className="card-title mb-2.5">Malumotlar bazasi</h5>
+            <p className="mb-4">
                 21-kunlik test oraliq sinov uchun
             </p>
-            <div class="card-actions">
-                <Link to={'test/'} class="btn btn-primary">Ishlash</Link>
+            <div className="card-actions">
+                <p onClick={() => setQuiz(quizQuestions)} className="btn btn-primary">Ishlash</p>
             </div>
             </div>
         </div>
       </div>
+      </>}
+      {quiz && <Quiz quiz={quiz} setQuiz={setQuiz} />}
     </div>
   );
 }
