@@ -2818,3 +2818,1410 @@ export const quizTarmoq = [
     ],
   }
 ];
+
+export const bazaQuiz = [
+  {
+    questionText: "Bilimlar bazasi ta'rifini tanlang.",
+    answerOptions: [
+      { answerText: "axborotni qayta ishlaydigan ixtiyoriy tizimni tushunish mumkin", isCorrect: false },
+      { answerText: "ba'zi bir muammo sohada murakkab vazifalarning yechimini topish uchun tahlil va xulosalarni yaratuvchi modellar, qoidalar va omillar (ma'lumotlar)ning majmuidir", isCorrect: true },
+      { answerText: "Strukturalashgan so'rovlar tili", isCorrect: false },
+      { answerText: "kompyuterning tashqi xotirasida saqlanadigan, har qanday jismoniy, ijtimoiy, statistik, tashkiliy va boshqa ob'ektlar, jarayonlar, holatlarning o'zaro bog'liq va tartiblashtirilgan majmuidir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi ta'rif ma'lumotlar bazasi tushunchasiga tegishli emas?",
+    answerOptions: [
+      { answerText: "o'zaro bog'langan va tartiblangan ma'lumotlar majmuasi bo'lib, u ko'rilayotgan ob'ektlarning xususiyatini, holatini va ob'ektlar o'rtasidagi munosabatni ma'lum sohada tavsiflaydi", isCorrect: false },
+      { answerText: "kompyuterning tashqi xotirasida saqlanadigan, har qanday jismoniy, ijtimoiy, statistik, tashkiliy va boshqa ob'ektlar, jarayonlar, holatlarning o'zaro bog'liq va tartiblashtirilgan majmuidir", isCorrect: false },
+      { answerText: "diskda saqlanadigan va maxsus ravishda tashkil qilingan ma'lumotlar turkumlarining jamlanmasidir", isCorrect: false },
+      { answerText: "ba'zi bir muammo sohada murakkab vazifalarning yechimini topish uchun tahlil va xulosalarni yaratuvchi modellar, qoidalar va omillar (ma'lumotlar)ning majmuidir", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini obyektning … deb qarash mumkin. Nuqtalar o'rniga mos javobni tanlang.",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi modeli", isCorrect: false },
+      { answerText: "Axborot modeli", isCorrect: true },
+      { answerText: "Bilimlar bazasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasi ma'lumotlar to'plamini necha marta ishlata olish uchun kerak?",
+    answerOptions: [
+      { answerText: "1", isCorrect: false },
+      { answerText: "cheksiz", isCorrect: true },
+      { answerText: "8", isCorrect: false },
+      { answerText: "256", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar banki tushunchasi ta'rifini tanlang",
+    answerOptions: [
+      { answerText: "kompyuterning tashqi xotirasida saqlanadigan, har qanday jismoniy, ijtimoiy, statistik, tashkiliy va boshqa ob'ektlar, jarayonlar, holatlarning o'zaro bog'liq va tartiblashtirilgan majmuidir", isCorrect: false },
+      { answerText: "o'zaro bog'langan va tartiblangan ma'lumotlar majmuasi bo'lib, u ko'rilayotgan ob'ektlarning xususiyatini, holatini va ob'ektlar o'rtasidagi munosabatni ma'lum sohada tavsiflaydi", isCorrect: false },
+      { answerText: "ma'lumotlarni markazlashtirilgan holda saqlash va jamoa bo'lib foydalanishning avtomatlashtirilgan tizimidir. Uning tarkibiga texnik vositalar, MB yoki ularning majmualari, MBBT hamda amaliy dasturlar paketi kiradi", isCorrect: true },
+      { answerText: "ba'zi bir muammo sohada murakkab vazifalarning yechimini topish uchun tahlil va xulosalarni yaratuvchi modellar, qoidalar va omillar (ma'lumotlar)ning majmuidir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini tuzishda qaysi talablarga rioya qilish lozim?",
+    answerOptions: [
+      { answerText: "Natijaviylik, diskretlilik, javobgarlik, xavfsizlik, yo'nalganlik, tezlik", isCorrect: false },
+      { answerText: "Oqimlilik, tartiblanganlik, xavfsizlik, tahlil, sinalganlik, integratsiyalanganlik", isCorrect: false },
+      { answerText: "Unumdorlik, ortiqchalik, butunlik, xavfsizlik, maxfiylik, eng kam sarf va himoya", isCorrect: true },
+      { answerText: "Xavfsizlik, qo'llab-quvvatlanganlik, yo'nalganlik, diskretlilik, natijaviylik, himoyalanganlik", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan UNUMDORLIK talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "MBda har bir ma`lumot faqat bir joyda saqlanishi va u takrorlanmasligi lozim.", isCorrect: false },
+      { answerText: "Foydalanuvchini MB bilan bog`lovchi, maxsus ishlab chiqilgan ilovalar foydalanuvchi bilan muloqotni qanoatlantiradigan vaqtni ta`minlab berishi zarur", isCorrect: true },
+      { answerText: "Agar MB tarkibida ko`p foydalanuvchilar ishlatadigan ma`lumotlar bo`lsa, unda ma`lumotlar elementlari va ular orasidagi bog`lanish mumkin qadar buzilmasligi kerak", isCorrect: false },
+      { answerText: "Ma`lumotlar yashirilishi va maxfiy saqlanmoqligi lozim", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan ORTIQCHALIK talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "Foydalanuvchini MB bilan bog`lovchi, maxsus ishlab chiqilgan ilovalar foydalanuvchi bilan muloqotni qanoatlantiradigan vaqtni ta`minlab berishi zarur", isCorrect: false },
+      { answerText: "Agar MB tarkibida ko`p foydalanuvchilar ishlatadigan ma`lumotlar bo`lsa, unda ma`lumotlar elementlari va ular orasidagi bog`lanish mumkin qadar buzilmasligi kerak", isCorrect: false },
+      { answerText: "Ma`lumotlar yashirilishi va maxfiy saqlanmoqligi lozim", isCorrect: false },
+      { answerText: "MBda har bir ma`lumot faqat bir joyda saqlanishi va u takrorlanmasligi lozim", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan BUTUNLIK talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "Ma`lumotlar yashirilishi va maxfiy saqlanmoqligi lozim", isCorrect: false },
+      { answerText: "Agar MB tarkibida ko`p foydalanuvchilar ishlatadigan ma`lumotlar bo`lsa, unda ma`lumotlar elementlari va ular orasidagi bog`lanish mumkin qadar buzilmasligi kerak", isCorrect: true },
+      { answerText: "MBda har bir ma`lumot faqat bir joyda saqlanishi va u takrorlanmasligi lozim", isCorrect: false },
+      { answerText: "Foydalanuvchini MB bilan bog`lovchi, maxsus ishlab chiqilgan ilovalar foydalanuvchi bilan muloqotni qanoatlantiradigan vaqtni ta`minlab berishi zarur", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan XAVFSIZLIK VA MAXFIYLIK talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "Agar MB tarkibida ko`p foydalanuvchilar ishlatadigan ma`lumotlar bo`lsa, unda ma`lumotlar elementlari va ular orasidagi bog`lanish mumkin qadar buzilmasligi kerak", isCorrect: false },
+      { answerText: "MBda har bir ma`lumot faqat bir joyda saqlanishi va u takrorlanmasligi lozim", isCorrect: false },
+      { answerText: "Foydalanuvchini MB bilan bog`lovchi, maxsus ishlab chiqilgan ilovalar foydalanuvchi bilan muloqotni qanoatlantiradigan vaqtni ta`minlab berishi zarur", isCorrect: false },
+      { answerText: "Ma`lumotlar yashirilishi va maxfiy saqlanmoqligi lozim", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan ENG KAM SARF talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "MBdan foydalanuvchi MBga, turli xil shakldagi ma`lumotlarni olish uchun murojaat qilishi mumkin", isCorrect: false },
+      { answerText: "MBni tuzish va undan foydalanishdagi xarajatlarni kamaytirish maqsadida, tashkil qilishni shunday usullari tanlanadiki, ular vaqt va xarajatlarni imkon darajada kamaytirsin", isCorrect: true },
+      { answerText: "Tashkilot ixtiyoriy vaqtda oldingi, eski ma`lumotlarini ko`ra olishi lozim", isCorrect: false },
+      { answerText: "Ma`lumotlarning unumdorligini yaxshilash maqsadida uning bazasini qayta qurish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan QIDIRUV IMKONIYATLARI talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "Tashkilot ixtiyoriy vaqtda oldingi, eski ma`lumotlarini ko`ra olishi lozim", isCorrect: false },
+      { answerText: "MBdan foydalanuvchi MBga, turli xil shakldagi ma`lumotlarni olish uchun murojaat qilishi mumkin", isCorrect: true },
+      { answerText: "Ma`lumotlarning unumdorligini yaxshilash maqsadida uning bazasini qayta qurish", isCorrect: false },
+      { answerText: "MBni tuzish va undan foydalanishdagi xarajatlarni kamaytirish maqsadida, tashkil qilishni shunday usullari tanlanadiki, ular vaqt va xarajatlarni imkon darajada kamaytirsin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan O`TGAN ZAMON BILAN BOG`LANISH talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "Ma`lumotlarning unumdorligini yaxshilash maqsadida uning bazasini qayta qurish", isCorrect: false },
+      { answerText: "Tashkilot ixtiyoriy vaqtda oldingi, eski ma`lumotlarini ko`ra olishi lozim", isCorrect: true },
+      { answerText: "MBni tuzish va undan foydalanishdagi xarajatlarni kamaytirish maqsadida, tashkil qilishni shunday usullari tanlanadiki, ular vaqt va xarajatlarni imkon darajada kamaytirsin", isCorrect: false },
+      { answerText: "MBdan foydalanuvchi MBga, turli xil shakldagi ma`lumotlarni olish uchun murojaat qilishi mumkin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasiga qo'yilgan SOZLASH talabiga qaysi javob mos keladi?",
+    answerOptions: [
+      { answerText: "Tashkilot ixtiyoriy vaqtda oldingi, eski ma`lumotlarini ko`ra olishi lozim", isCorrect: false },
+      { answerText: "MBdan foydalanuvchi MBga, turli xil shakldagi ma`lumotlarni olish uchun murojaat qilishi mumkin", isCorrect: false },
+      { answerText: "Ma`lumotlarning unumdorligini yaxshilash maqsadida uning bazasini qayta qurish", isCorrect: true },
+      { answerText: "MBni tuzish va undan foydalanishdagi xarajatlarni kamaytirish maqsadida, tashkil qilishni shunday usullari tanlanadiki, ular vaqt va xarajatlarni imkon darajada kamaytirsin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Predmet sohasi tushunchasi ta'rifi qaysi javobda to'g'ri berilgan?",
+    answerOptions: [
+      { answerText: "o'zaro bog'langan va tartiblangan ma'lumotlar majmuasi bo'lib, u ko'rilayotgan ob'ektlarning xususiyatini, holatini va ob'ektlar o'rtasidagi munosabatni ma'lum sohada tavsiflaydi", isCorrect: false },
+      { answerText: "diskda saqlanadigan va maxsus ravishda tashkil qilingan ma'lumotlar turkumlarining jamlanmasidir", isCorrect: false },
+      { answerText: "boshqarishni tashkil qilish va uni avtomatlashtirish maqsadida o`rganilishi lozim bo`lgan ob`ektiv dunyoning ma`lum bir qismidir", isCorrect: true },
+      { answerText: "ba'zi bir muammo sohada murakkab vazifalarning yechimini topish uchun tahlil va xulosalarni yaratuvchi modellar, qoidalar va omillar (ma'lumotlar)ning majmuidir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma`lumotlar semantikasini tasvirlashning asosiy vositasi nima?",
+    answerOptions: [
+      { answerText: "Dasturlash tili", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasini boshqarish tizimlari", isCorrect: false },
+      { answerText: "tabiiy til", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Obyekt tushunchasiga ta'rif bering.",
+    answerOptions: [
+      { answerText: "ma`lumotlarning o`zaro bog`lanishini tasvirlash usullari haqidagi kelishuvni kiritishdir", isCorrect: false },
+      { answerText: "kompyuterning muhim vazifalaridan biri hisoblanib diskda saqlanadi", isCorrect: false },
+      { answerText: "ma`lumotlarni tashkil etishning oddiy birligi bo`lib, u axborotning alohida, bo`linmas birligidir", isCorrect: false },
+      { answerText: "mavjud va farqlanishi mumkin bo`lgan narsadir", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Tuzilmalash (Strukturalash) tushunchasiga ta'rif bering.",
+    answerOptions: [
+      { answerText: "mavjud va farqlanishi mumkin bo`lgan narsadir", isCorrect: false },
+      { answerText: "kompyuterning muhim vazifalaridan biri hisoblanib diskda saqlanadi", isCorrect: false },
+      { answerText: "ma`lumotlarni tashkil etishning oddiy birligi bo`lib, u axborotning alohida, bo`linmas birligidir", isCorrect: false },
+      { answerText: "ob`ektlar va ma`lumotlarning o`zaro bog`lanishini tasvirlash usullari haqidagi kelishuvni kiritishdir", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasida jadvaldagi ustunlar nima deb ataladi?",
+    answerOptions: [
+      { answerText: "Yozuvlar", isCorrect: false },
+      { answerText: "Obyektlar", isCorrect: false },
+      { answerText: "Satrlar", isCorrect: false },
+      { answerText: "Maydonlar", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "MB tuzilmasining asosiy elementi nima deb ataladi?",
+    answerOptions: [
+      { answerText: "Yozuvlar", isCorrect: false },
+      { answerText: "Maydonlar", isCorrect: true },
+      { answerText: "Obyektlar", isCorrect: false },
+      { answerText: "Satrlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi javoblardan qaysi biri maydonning xususiyati hisoblanmaydi?",
+    answerOptions: [
+      { answerText: "Uzunlik", isCorrect: false },
+      { answerText: "Yozuv", isCorrect: true },
+      { answerText: "Imzo", isCorrect: false },
+      { answerText: "Nom", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Matnli maydonning asosiy xususiyati nima deb ataladi?",
+    answerOptions: [
+      { answerText: "Imzo", isCorrect: false },
+      { answerText: "hajm", isCorrect: true },
+      { answerText: "Nom", isCorrect: false },
+      { answerText: "Yozuv", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini yaratishning qaysi bosqichida ma'lumotlar bazasini yaratish uchun vazifa shakllantiriladi?",
+    answerOptions: [
+      { answerText: "Obyektning tahlili", isCorrect: false },
+      { answerText: "Model sintezi", isCorrect: false },
+      { answerText: "Muammoning qo`yilishi", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasi jadvallarining tuzilmasini yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini yaratishning qaysi bosqichida ma'lumotlar bazasining qanday ob`ektlardan tuzilishi mumkinligi va ularning xususiyatlari, ya`ni ob`ekt qanday parametrlar bilan aniqlanishi ko`rib chiqiladi?",
+    answerOptions: [
+      { answerText: "Muammoning qo`yilishi", isCorrect: false },
+      { answerText: "Obyektning tahlili", isCorrect: true },
+      { answerText: "Model sintezi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi jadvallarining tuzilmasini yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini yaratishning qaysi bosqichida modelning yaratilayotgan ma'lumotlar bazasining talablariga javob berishligi, qo`yilgan masalani echish imkoniyatiga ega bo`lishligi singari xususiyatlari ko`rib chiqiladi?",
+    answerOptions: [
+      { answerText: "Muammoning qo`yilishi", isCorrect: false },
+      { answerText: "Obyektning tahlili", isCorrect: false },
+      { answerText: "Model sintezi", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasi jadvallarining tuzilmasini yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini yaratishning qaysi bosqichida tanlangan modelga muvofiq ma'lumotlar bazasi sxemasi, jadvallar, jadval maydonlari, jadvallar va tugunlar orasidagi bog`lanishlar yaratiladi?",
+    answerOptions: [
+      { answerText: "Muammoning qo`yilishi", isCorrect: false },
+      { answerText: "Obyektning tahlili", isCorrect: false },
+      { answerText: "Model sintezi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi jadvallarining tuzilmasini yaratish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Mohiyat tushunchasi ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+    answerOptions: [
+      { answerText: "Mohiyatning nomlangan tavsifidir", isCorrect: false },
+      { answerText: "Atributlarning kam sonli to`plami bo`lib, ular qiymatlari bo`yicha mohiyatning kerakli nusxasini topish mumkin", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasida saqlanishi kerak bo`lgan ma`lumot, ixtiyoriy bir-biridan farq qiluvchi ob`ekt", isCorrect: true },
+      { answerText: "Ikki yoki undan ortiq mohiyatlarni birlashtirishdir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Atribut tushunchasi ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasida saqlanishi kerak bo`lgan ma`lumot, ixtiyoriy bir-biridan farq qiluvchi ob`ekt", isCorrect: false },
+      { answerText: "Mohiyatning nomlangan tavsifidir", isCorrect: true },
+      { answerText: "Atributlarning kam sonli to`plami bo`lib, ular qiymatlari bo`yicha mohiyatning kerakli nusxasini topish mumkin", isCorrect: false },
+      { answerText: "Ikki yoki undan ortiq mohiyatlarni birlashtirishdir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kalit tushunchasi ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasida saqlanishi kerak bo`lgan ma`lumot, ixtiyoriy bir-biridan farq qiluvchi ob`ekt", isCorrect: false },
+      { answerText: "Mohiyatning nomlangan tavsifidir", isCorrect: false },
+      { answerText: "Atributlarning kam sonli to`plami bo`lib, ular qiymatlari bo`yicha mohiyatning kerakli nusxasini topish mumkin", isCorrect: true },
+      { answerText: "Ikki yoki undan ortiq mohiyatlarni birlashtirishdir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Bog'lanish tushunchasi ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasida saqlanishi kerak bo`lgan ma`lumot, ixtiyoriy bir-biridan farq qiluvchi ob`ekt", isCorrect: false },
+      { answerText: "Mohiyatning nomlangan tavsifidir", isCorrect: false },
+      { answerText: "Atributlarning kam sonli to`plami bo`lib, ular qiymatlari bo`yicha mohiyatning kerakli nusxasini topish mumkin", isCorrect: false },
+      { answerText: "Ikki yoki undan ortiq mohiyatlarni birlashtirishdir", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Qaysi ma'lumotlar modeli shajarali ko'rinishdagi o`zaro bog`liq ob`ektlarning majmuasi sifatida qaraladi?",
+    answerOptions: [
+      { answerText: "To'r (tarmoqlangan)", isCorrect: false },
+      { answerText: "Relyatsion", isCorrect: false },
+      { answerText: "Iyerarxik", isCorrect: true },
+      { answerText: "Struktura", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Agar ma`lumotlar o`rtasidagi munosabatda yaratilgan element bittadan ortiq boshlang`ich elementga ega bo`lsa qaysi ma'lumotlar modeli hisoblanadi?",
+    answerOptions: [
+      { answerText: "Iyerarxik", isCorrect: false },
+      { answerText: "To'r (tarmoqlangan)", isCorrect: true },
+      { answerText: "Relyatsion", isCorrect: false },
+      { answerText: "Struktura", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi ma'lumotlar modelida ma`lumotlar jadval ko`rinishida beriladi?",
+    answerOptions: [
+      { answerText: "Iyerarxik", isCorrect: false },
+      { answerText: "To'r (tarmoqlangan)", isCorrect: false },
+      { answerText: "Relyatsion", isCorrect: true },
+      { answerText: "Struktura", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi me'yoriy shaklda jadval atributlarining har biri bo`linmas (atomar) qiymat qabul qiladi?",
+    answerOptions: [
+      { answerText: "Ikkinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Uchinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "To'rtinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Birinchi me'yoriy shakl", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Qaysi me'yoriy shaklda birlamchi kalitga ega bo`lib, kalit bo`lmagan atributlar birlamchi kalitga to`liq funktsional bog`liq bo`ladi?",
+    answerOptions: [
+      { answerText: "Birinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Ikkinchi me'yoriy shakl", isCorrect: true },
+      { answerText: "Uchinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "To'rtinchi me'yoriy shakl", isCorrect: false },
+    ]
+  },
+  {
+    questionText: "Qaysi me'yoriy shaklda uning kalitsiz atributlari boshqa bir kalitsiz atributlarga funktsional bog`liq bo`lmaydi?",
+    answerOptions: [
+      { answerText: "Birinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Ikkinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Uchinchi me'yoriy shakl", isCorrect: true },
+      { answerText: "To'rtinchi me'yoriy shakl", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi me'yoriy shaklda to`liq dekompozitsiya ikkita proektsiya birlashmasidan iborat bo`ladi?",
+    answerOptions: [
+      { answerText: "Birinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Ikkinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "Uchinchi me'yoriy shakl", isCorrect: false },
+      { answerText: "To'rtinchi me'yoriy shakl", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma`lumotlarni biror bir jismonan aspektda tadbiq qilishni ko`zlamagan holda, tashkilotda foydalanilayotganligiga muvofiq modelini yaratish Ma'lumotlar bazasini qaysi loyihalashi hisoblanadi?",
+    answerOptions: [
+      { answerText: "Mantiqiy", isCorrect: false },
+      { answerText: "Jismoniy", isCorrect: false },
+      { answerText: "Kontseptual", isCorrect: true },
+      { answerText: "Xaqqoniy", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maqsadli, MBBT tipini hisobga olgan holda biror bir jismonan aspektga tadbiq qilish modelini yaratish Ma'lumotlar bazasini qaysi loyihalashi hisoblanadi?",
+    answerOptions: [
+      { answerText: "Kontseptual", isCorrect: false },
+      { answerText: "Mantiqiy", isCorrect: true },
+      { answerText: "Jismoniy", isCorrect: false },
+      { answerText: "Xaqqoniy", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Predmet soha ma`lumotlarini MBBT yordamida kompyuter jismoniy xotirasiga kiritish, saqlash hamda kerakli ma`lumotlarni olish va ma`lumotlarga ishlov berishda ma`lum bir usullarni qo`llashni tashkil qilish Ma'lumotlar bazasini qaysi loyihalashi hisoblanadi?",
+    answerOptions: [
+      { answerText: "Kontseptual", isCorrect: false },
+      { answerText: "Mantiqiy", isCorrect: false },
+      { answerText: "Jismoniy", isCorrect: true },
+      { answerText: "Xaqqoniy", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini loyihalash bosqichlarini tanlang.",
+    answerOptions: [
+      { answerText: "Strukturali, konseptual, jismoniy", isCorrect: false },
+      { answerText: "Konseptual, mantiqiy, jismoniy", isCorrect: true },
+      { answerText: "Strukturali, mantiqiy, jismoniy", isCorrect: false },
+      { answerText: "Strukturali, konseptual, mantiqiy", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CASE-vositalarini joriy etish jarayonidagi 1-bosqichni tanlang",
+    answerOptions: [
+      { answerText: "CASE-vositalarini baholash va tanlash", isCorrect: false },
+      { answerText: "Mustahkam loyihani ishlab chiqish", isCorrect: false },
+      { answerText: "CASE-vositalariga bo'lgan talabni aniqlash", isCorrect: true },
+      { answerText: "CASE-vositalarini amaliy joriy etish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CASE-vositalarini joriy etish jarayonidagi 2-bosqichni tanlang",
+    answerOptions: [
+      { answerText: "CASE-vositalariga bo'lgan talabni aniqlash", isCorrect: false },
+      { answerText: "CASE-vositalarini baholash va tanlash", isCorrect: true },
+      { answerText: "Mustahkam loyihani ishlab chiqish", isCorrect: false },
+      { answerText: "CASE-vositalarini amaliy joriy etish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CASE-vositalarini joriy etish jarayonidagi 3-bosqichni tanlang",
+    answerOptions: [
+      { answerText: "CASE-vositalariga bo'lgan talabni aniqlash", isCorrect: false },
+      { answerText: "CASE-vositalarini baholash va tanlash", isCorrect: false },
+      { answerText: "Mustahkam loyihani ishlab chiqish", isCorrect: true },
+      { answerText: "CASE-vositalarini amaliy joriy etish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CASE-vositalarini joriy etish jarayonidagi 4-bosqichni tanlang",
+    answerOptions: [
+      { answerText: "CASE-vositalariga bo'lgan talabni aniqlash", isCorrect: false },
+      { answerText: "CASE-vositalarini baholash va tanlash", isCorrect: false },
+      { answerText: "Mustahkam loyihani ishlab chiqish", isCorrect: false },
+      { answerText: "CASE-vositalarini amaliy joriy etish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasining qaysi arxitekturasida MB, MBBT va dasturiy ta`minot (ilovalar) bitta kompyuterda (meynfreym yoki personal kompyuterda) joylashgan bo`ladi?",
+    answerOptions: [
+      { answerText: "Fayl-server", isCorrect: false },
+      { answerText: "Kliyent-server", isCorrect: false },
+      { answerText: "markazlashgan", isCorrect: true },
+      { answerText: "taqsimlangan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasining qaysi arxitekturasida MB va MBBT serverda hamda dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi?",
+    answerOptions: [
+      { answerText: "markazlashgan", isCorrect: false },
+      { answerText: "Fayl-server", isCorrect: false },
+      { answerText: "Kliyent-server", isCorrect: true },
+      { answerText: "taqsimlangan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasining qaysi arxitekturasida MB serverda hamda MBBT va dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi?",
+    answerOptions: [
+      { answerText: "markazlashgan", isCorrect: false },
+      { answerText: "Fayl-server", isCorrect: true },
+      { answerText: "Kliyent-server", isCorrect: false },
+      { answerText: "taqsimlangan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasining har bir fragmenti alohida MBBT boshqaruvchi ostida va o`zaro aloqa tarmog`i orqali bog`langan bitta yoki bir nechta kompyuterda saqlanishi qaysi arxitektura hisoblanadi?",
+    answerOptions: [
+      { answerText: "markazlashgan", isCorrect: false },
+      { answerText: "Fayl-server", isCorrect: false },
+      { answerText: "Kliyent-server", isCorrect: false },
+      { answerText: "taqsimlangan", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar bazasini boshqrish tizimlarini tanlang",
+    answerOptions: [
+      { answerText: "Oracle, MySQL, MS Excel", isCorrect: false },
+      { answerText: "MySQL, MariaDB, KongoDB", isCorrect: false },
+      { answerText: "Oracle, SecretDB, MySQL", isCorrect: false },
+      { answerText: "DB2, MySQL, MS Access", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Yulduzcha so'rov optimallashtirishi qaysi MBBTda qo'llaniladi?",
+    answerOptions: [
+      { answerText: "MS SQL Server", isCorrect: true },
+      { answerText: "MongoDB", isCorrect: false },
+      { answerText: "MS Access", isCorrect: false },
+      { answerText: "Oracle", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MS Accessning o'zida ma'lumotlar bazalari bilan ishlaydigan ilovalarni yozish uchun qaysi dasturlash tili o'rnatilgan?",
+    answerOptions: [
+      { answerText: "C++", isCorrect: false },
+      { answerText: "Delphi", isCorrect: false },
+      { answerText: "VBA", isCorrect: true },
+      { answerText: "MS TSQL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Markazlashgan arxitekturaning ta'rifini tanlang",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB va MBBT serverda hamda dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB serverda hamda MBBT va dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB, MBBT va dasturiy ta`minot (ilovalar) bitta kompyuterda joylashgan bo`ladi", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasining har bir fragmenti alohida MBBT boshqaruvchi ostida va o`zaro aloqa tarmog`i orqali bog`langan bitta yoki bir nechta kompyuterda saqlanishi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Fayl-server arxitekturasi ta'rifini tanlang",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB, MBBT va dasturiy ta`minot (ilovalar) bitta kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB va MBBT serverda hamda dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB serverda hamda MBBT va dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasining har bir fragmenti alohida MBBT boshqaruvchi ostida va o`zaro aloqa tarmog`i orqali bog`langan bitta yoki bir nechta kompyuterda saqlanishi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kliyent-server arxitekturasi ta'rifini tanlang",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB, MBBT va dasturiy ta`minot (ilovalar) bitta kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB va MBBT serverda hamda dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB serverda hamda MBBT va dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining har bir fragmenti alohida MBBT boshqaruvchi ostida va o`zaro aloqa tarmog`i orqali bog`langan bitta yoki bir nechta kompyuterda saqlanishi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Taqsimlangan MB arxitekturasi ta'rifini tanlang",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB, MBBT va dasturiy ta`minot (ilovalar) bitta kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB va MBBT serverda hamda dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining ushbu arxitekturasida MB serverda hamda MBBT va dasturiy ta`minot (ilovalar) har bir kompyuterda joylashgan bo`ladi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasining har bir fragmenti alohida MBBT boshqaruvchi ostida va o`zaro aloqa tarmog`i orqali bog`langan bitta yoki bir nechta kompyuterda saqlanishi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "SQL abbreviaturasining kengaytmasi qaysi javobda to'g'ri keltirilgan?",
+    answerOptions: [
+      { answerText: "Structured Query Language", isCorrect: true },
+      { answerText: "Structured Question Language", isCorrect: false },
+      { answerText: "System Query Language", isCorrect: false },
+      { answerText: "System Question Language", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Agarda foydalanuvchi ma'lumotlar bazasidan ma'lumotlarni o'qimoqchi bo'lsa, u buni MBBT dan nima yordamida so'raydi?",
+    answerOptions: [
+      { answerText: "So'rov", isCorrect: true },
+      { answerText: "Makros", isCorrect: false },
+      { answerText: "Forma", isCorrect: false },
+      { answerText: "Hisobot", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning imkoniyatlaridan ma'lumotlar strukturasini tuzishga ta'rif bering",
+    answerOptions: [
+      { answerText: "SQL foydalanuvchilarga ma'lumotlar strukturasini tuzish, o'zgartirish hamda ma'lumotlar bazasi elementlari o'rtasida aloqalarni o'rnatish imkoniyatini beradi", isCorrect: true },
+      { answerText: "SQL foydalanuvchi yoki dasturga berilganlar bazasida saqlanuvchi ma'lumotlarni o'qish va ulardan foydalanish imkonini beradi", isCorrect: false },
+      { answerText: "SQL foydalanuvchiga yoki dasturga ma'lumotlar bazasini o'zgartirish, ya'ni unga yangi ma'lumotlar qo'shish, mavjud ma'lumotlarni o'zgartirish va o'chirish imkonini beradi", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning imkoniyatlaridan ma'lumotlarni o'qishga ta'rif bering",
+    answerOptions: [
+      { answerText: "SQL foydalanuvchilarga ma'lumotlar strukturasini tuzish, o'zgartirish hamda ma'lumotlar bazasi elementlari o'rtasida aloqalarni o'rnatish imkoniyatini beradi", isCorrect: false },
+      { answerText: "SQL foydalanuvchi yoki dasturga berilganlar bazasida saqlanuvchi ma'lumotlarni o'qish va ulardan foydalanish imkonini beradi", isCorrect: true },
+      { answerText: "SQL foydalanuvchiga yoki dasturga ma'lumotlar bazasini o'zgartirish, ya'ni unga yangi ma'lumotlar qo'shish, mavjud ma'lumotlarni o'zgartirish va o'chirish imkonini beradi", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning imkoniyatlaridan ma'lumotlarni qayta ishlashga ta'rif bering",
+    answerOptions: [
+      { answerText: "SQL foydalanuvchilarga ma'lumotlar strukturasini tuzish, o'zgartirish hamda ma'lumotlar bazasi elementlari o'rtasida aloqalarni o'rnatish imkoniyatini beradi", isCorrect: false },
+      { answerText: "SQL foydalanuvchi yoki dasturga berilganlar bazasida saqlanuvchi ma'lumotlarni o'qish va ulardan foydalanish imkonini beradi", isCorrect: false },
+      { answerText: "SQL foydalanuvchiga yoki dasturga ma'lumotlar bazasini o'zgartirish, ya'ni unga yangi ma'lumotlar qo'shish, mavjud ma'lumotlarni o'zgartirish va o'chirish imkonini beradi", isCorrect: true },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQL imkoniyatlaridan qaysi biri foydalanuvchilarga ma'lumotlar strukturasini tuzish, o'zgartirish hamda ma'lumotlar bazasi elementlari o'rtasida aloqalarni o'rnatish imkoniyatini beradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar strukturasini tuzish", isCorrect: true },
+      { answerText: "Ma'lumotlarni o'qish", isCorrect: false },
+      { answerText: "Ma'lumotlarni qayta ishlash", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQL imkoniyatlaridan qaysi biri foydalanuvchi yoki dasturga berilganlar bazasida saqlanuvchi ma'lumotlarni o'qish va ulardan foydalanish imkonini beradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar strukturasini tuzish", isCorrect: false },
+      { answerText: "Ma'lumotlarni o'qish", isCorrect: true },
+      { answerText: "Ma'lumotlarni qayta ishlash", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQL imkoniyatlaridan qaysi biri foydalanuvchiga yoki dasturga ma'lumotlar bazasini o'zgartirish, ya'ni unga yangi ma'lumotlar qo'shish, mavjud ma'lumotlarni o'zgartirish va o'chirish imkonini beradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar strukturasini tuzish", isCorrect: false },
+      { answerText: "Ma'lumotlarni o'qish", isCorrect: false },
+      { answerText: "Ma'lumotlarni qayta ishlash", isCorrect: true },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DDL (Data Definition Language) nimalardan iborat?",
+    answerOptions: [
+      { answerText: "ob'ektlarni (jadvallar, indekslar, tasavvurlar va hokazo) yaratuvchi komandalardan iborat", isCorrect: true },
+      { answerText: "ixtiyoriy daqiqada jadvallarda qanday qiymatlar saqlanishini aniqlovchi komandalar majmuasidir", isCorrect: false },
+      { answerText: "foydalanuvchiga ma'lum ob'ektlar ustida ma'lum ta'sir o'tkazishga ruxsat berish yoki bermaslikni aniqlovchi vositalardan iborat", isCorrect: false },
+      { answerText: "Tranzaksiyalarni boshqarish uchun operatorlar guruhi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DML (Data Manipulation Language) nimalardan iborat?",
+    answerOptions: [
+      { answerText: "ob'ektlarni (jadvallar, indekslar, tasavvurlar va hokazo) yaratuvchi komandalardan iborat", isCorrect: false },
+      { answerText: "ixtiyoriy daqiqada jadvallarda qanday qiymatlar saqlanishini aniqlovchi komandalar majmuasidir", isCorrect: true },
+      { answerText: "foydalanuvchiga ma'lum ob'ektlar ustida ma'lum ta'sir o'tkazishga ruxsat berish yoki bermaslikni aniqlovchi vositalardan iborat", isCorrect: false },
+      { answerText: "Tranzaksiyalarni boshqarish uchun operatorlar guruhi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "TCL (Transaction Control Language) nimalardan iborat?",
+    answerOptions: [
+      { answerText: "ob'ektlarni (jadvallar, indekslar, tasavvurlar va hokazo) yaratuvchi komandalardan iborat", isCorrect: false },
+      { answerText: "ixtiyoriy daqiqada jadvallarda qanday qiymatlar saqlanishini aniqlovchi komandalar majmuasidir", isCorrect: false },
+      { answerText: "foydalanuvchiga ma'lum ob'ektlar ustida ma'lum ta'sir o'tkazishga ruxsat berish yoki bermaslikni aniqlovchi vositalardan iborat", isCorrect: false },
+      { answerText: "Tranzaksiyalarni boshqarish uchun operatorlar guruhi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "DCL(Data Control Language) nimalardan iborat?",
+    answerOptions: [
+      { answerText: "ob'ektlarni (jadvallar, indekslar, tasavvurlar va hokazo) yaratuvchi komandalardan iborat", isCorrect: false },
+      { answerText: "ixtiyoriy daqiqada jadvallarda qanday qiymatlar saqlanishini aniqlovchi komandalar majmuasidir", isCorrect: false },
+      { answerText: "foydalanuvchiga ma'lum ob'ektlar ustida ma'lum ta'sir o'tkazishga ruxsat berish yoki bermaslikni aniqlovchi vositalardan iborat", isCorrect: true },
+      { answerText: "Tranzaksiyalarni boshqarish uchun operatorlar guruhi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning qaysi operatorlar guruhi ob'ektlarni (jadvallar, indekslar, tasavvurlar va hokazo) yaratuvchi komandalardan iborat?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: true },
+      { answerText: "DML", isCorrect: false },
+      { answerText: "DCL", isCorrect: false },
+      { answerText: "TCL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning qaysi operatorlar guruhi ixtiyoriy daqiqada jadvallarda qanday qiymatlar saqlanishini aniqlovchi komandalar majmuasidir?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: false },
+      { answerText: "DML", isCorrect: true },
+      { answerText: "DCL", isCorrect: false },
+      { answerText: "TCL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning qaysi operatorlar guruhi foydalanuvchiga ma'lum ob'ektlar ustida ma'lum ta'sir o'tkazishga ruxsat berish yoki bermaslikni aniqlovchi vositalardan iborat?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: false },
+      { answerText: "DML", isCorrect: false },
+      { answerText: "DCL", isCorrect: true },
+      { answerText: "TCL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning qaysi operatorlar guruhi tranzaksiyalarni boshqarish uchun operatorlar guruhidan iborat?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: false },
+      { answerText: "DML", isCorrect: false },
+      { answerText: "DCL", isCorrect: false },
+      { answerText: "TCL", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "SQLning DDL guruhlangan operatorlari tarkibidagi operatorlarni tanlang",
+    answerOptions: [
+      { answerText: "CREATE, ALTER, DROP", isCorrect: true },
+      { answerText: "INSERT, UPDATE, DELETE", isCorrect: false },
+      { answerText: "GRANT, REVOKE, DENY", isCorrect: false },
+      { answerText: "BEGIN TRANSACTION, COMMIT TRANSACTION, ROLLBACK TRANSACTION", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning DML guruhlangan operatorlari tarkibidagi operatorlarni tanlang",
+    answerOptions: [
+      { answerText: "CREATE, ALTER, DROP", isCorrect: false },
+      { answerText: "INSERT, UPDATE, DELETE", isCorrect: true },
+      { answerText: "GRANT, REVOKE, DENY", isCorrect: false },
+      { answerText: "BEGIN TRANSACTION, COMMIT TRANSACTION, ROLLBACK TRANSACTION", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning DCL guruhlangan operatorlari tarkibidagi operatorlarni tanlang",
+    answerOptions: [
+      { answerText: "CREATE, ALTER, DROP", isCorrect: false },
+      { answerText: "INSERT, UPDATE, DELETE", isCorrect: false },
+      { answerText: "GRANT, REVOKE, DENY", isCorrect: true },
+      { answerText: "BEGIN TRANSACTION, COMMIT TRANSACTION, ROLLBACK TRANSACTION", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQLning TCL guruhlangan operatorlari tarkibidagi operatorlarni tanlang",
+    answerOptions: [
+      { answerText: "CREATE, ALTER, DROP", isCorrect: false },
+      { answerText: "INSERT, UPDATE, DELETE", isCorrect: false },
+      { answerText: "GRANT, REVOKE, DENY", isCorrect: false },
+      { answerText: "BEGIN TRANSACTION, COMMIT TRANSACTION, ROLLBACK TRANSACTION", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "CREATE, ALTER, DROP operatorlari SQLning qaysi guruhlangan operatorlari hisoblanadi?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: true },
+      { answerText: "DML", isCorrect: false },
+      { answerText: "DCL", isCorrect: false },
+      { answerText: "TCL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "INSERT, UPDATE, DELETE operatorlari SQLning qaysi guruhlangan operatorlari hisoblanadi?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: false },
+      { answerText: "DML", isCorrect: true },
+      { answerText: "DCL", isCorrect: false },
+      { answerText: "TCL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "GRANT, REVOKE, DENY operatorlari SQLning qaysi guruhlangan operatorlari hisoblanadi?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: false },
+      { answerText: "DML", isCorrect: false },
+      { answerText: "DCL", isCorrect: true },
+      { answerText: "TCL", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "BEGIN TRANSACTION, COMMIT TRANSACTION, ROLLBACK TRANSACTION operatorlari SQLning qaysi guruhlangan operatorlari hisoblanadi?",
+    answerOptions: [
+      { answerText: "DDL", isCorrect: false },
+      { answerText: "DML", isCorrect: false },
+      { answerText: "DCL", isCorrect: false },
+      { answerText: "TCL", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchiga kirish imkonini boshqarishni beradigan operatorlarni tanlang",
+    answerOptions: [
+      { answerText: "GRANT, REVOKE", isCorrect: true },
+      { answerText: "COMMIT, ROLLBACK", isCorrect: false },
+      { answerText: "DECLARE", isCorrect: false },
+      { answerText: "EXECUTE", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchiga Tranzaktsiyani boshqarish imkoniyatini beradigan operatorlarni tanlang",
+    answerOptions: [
+      { answerText: "GRANT, REVOKE", isCorrect: false },
+      { answerText: "COMMIT, ROLLBACK", isCorrect: true },
+      { answerText: "DECLARE", isCorrect: false },
+      { answerText: "EXECUTE", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchiga kirish imkonini berdigan operatorni tanlang",
+    answerOptions: [
+      { answerText: "GRANT", isCorrect: true },
+      { answerText: "COMMIT", isCorrect: false },
+      { answerText: "DECLARE", isCorrect: false },
+      { answerText: "REVOKE", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchiga kirish imkonini bekor qiladigan operatorni tanlang",
+    answerOptions: [
+      { answerText: "GRANT", isCorrect: false },
+      { answerText: "COMMIT", isCorrect: false },
+      { answerText: "DECLARE", isCorrect: false },
+      { answerText: "REVOKE", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Takrorlangan qiymatlardan faqat bittasini tanlash uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "DISTINCT", isCorrect: true },
+      { answerText: "IN", isCorrect: false },
+      { answerText: "LIMIT", isCorrect: false },
+      { answerText: "BETWEEN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shartga ko'ra bir necha qiymatlardan iborat bo'lgan ustunlarni qaytarish uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "DISTINCT", isCorrect: false },
+      { answerText: "IN", isCorrect: true },
+      { answerText: "AS", isCorrect: false },
+      { answerText: "BETWEEN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Berilgan qiymatlar o'ralig'idagi ustunlarni qaytarish uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "DISTINCT", isCorrect: false },
+      { answerText: "IN", isCorrect: false },
+      { answerText: "LIMIT", isCorrect: false },
+      { answerText: "BETWEEN", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Shartga ko'ra limitda keltirilgan son qiymatidagi eng baland qatorlarni qaytarish uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "DISTINCT", isCorrect: false },
+      { answerText: "IN", isCorrect: false },
+      { answerText: "LIMIT", isCorrect: true },
+      { answerText: "BETWEEN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ustun (jadval) nomini boshqa nomda ko'rsatish uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "DISTINCT", isCorrect: false },
+      { answerText: "IN", isCorrect: false },
+      { answerText: "AS", isCorrect: true },
+      { answerText: "BETWEEN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Berilgan ustunlarga tegishli qiymatlarni birlashtirib qaytarish uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "CONCAT", isCorrect: true },
+      { answerText: "UNION", isCorrect: false },
+      { answerText: "BETWEEN", isCorrect: false },
+      { answerText: "PLUS", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Berilgan jadvallarga tegishli ustunlarni birlashtirib qaytarish uchun SQL operatorlari bilan qaysi kalit so'z birgalikda ishlatiladi?",
+    answerOptions: [
+      { answerText: "CONCAT", isCorrect: false },
+      { answerText: "UNION", isCorrect: true },
+      { answerText: "BETWEEN", isCorrect: false },
+      { answerText: "PLUS", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQL so'rovi INNER JOIN bilan birgalikda qo'llanilganda …",
+    answerOptions: [
+      { answerText: "Ikkala jadvalda mos qiymatlarga ega yozuvlarni qaytaradi", isCorrect: true },
+      { answerText: "Chapdagi jadvaldagi barcha yozuvlarni va o'ngdagi jadvaldagi mos yozuvlarni qaytaradi", isCorrect: false },
+      { answerText: "O'ng jadvaldagi barcha yozuvlarni va chap jadvaldagi mos yozuvlarni qaytaradi", isCorrect: false },
+      { answerText: "Chap yoki o'ng jadvalda mos keladigan barcha yozuvlarni qaytaradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQL so'rovi LEFT JOIN bilan birgalikda qo'llanilganda …",
+    answerOptions: [
+      { answerText: "Ikkala jadvalda mos qiymatlarga ega yozuvlarni qaytaradi", isCorrect: false },
+      { answerText: "Chapdagi jadvaldagi barcha yozuvlarni va o'ngdagi jadvaldagi mos yozuvlarni qaytaradi", isCorrect: true },
+      { answerText: "O'ng jadvaldagi barcha yozuvlarni va chap jadvaldagi mos yozuvlarni qaytaradi", isCorrect: false },
+      { answerText: "Chap yoki o'ng jadvalda mos keladigan barcha yozuvlarni qaytaradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SQL so'rovi RIGHT JOIN bilan birgalikda qo'llanilganda …",
+    answerOptions: [
+      { answerText: "Ikkala jadvalda mos qiymatlarga ega yozuvlarni qaytaradi", isCorrect: false },
+      { answerText: "Chapdagi jadvaldagi barcha yozuvlarni va o'ngdagi jadvaldagi mos yozuvlarni qaytaradi", isCorrect: false },
+      { answerText: "O'ng jadvaldagi barcha yozuvlarni va chap jadvaldagi mos yozuvlarni qaytaradi", isCorrect: true },
+      { answerText: "Chap yoki o'ng jadvalda mos keladigan barcha yozuvlarni qaytaradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jadval uchun NOT NULL cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustun qiymatsiz qolmasligini ta'minlaydi", isCorrect: true },
+      { answerText: "Ustundagi biror-bir qiymatlar takrorlanmasligini ta'minlaydi", isCorrect: false },
+      { answerText: "Jadvaldagi asosiy kalitni belgilaydi", isCorrect: false },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jadval uchun UNIQUE cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustun qiymatsiz qolmasligini ta'minlaydi", isCorrect: false },
+      { answerText: "Ustundagi biror-bir qiymatlar takrorlanmasligini ta'minlaydi", isCorrect: true },
+      { answerText: "Jadvaldagi asosiy kalitni belgilaydi", isCorrect: false },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jadval uchun PRIMARY KEY cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustun qiymatsiz qolmasligini ta'minlaydi", isCorrect: false },
+      { answerText: "Ustundagi biror-bir qiymatlar takrorlanmasligini ta'minlaydi", isCorrect: false },
+      { answerText: "Jadvaldagi asosiy kalitni belgilaydi", isCorrect: true },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jadval uchun FOREIGN KEY cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustun qiymatsiz qolmasligini ta'minlaydi", isCorrect: false },
+      { answerText: "Ustundagi biror-bir qiymatlar takrorlanmasligini ta'minlaydi", isCorrect: false },
+      { answerText: "Jadvaldagi asosiy kalitni belgilaydi", isCorrect: false },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Jadval uchun CHECK cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustundagi qiymatlar ma'lum bir shartni qondirishini ta'minlaydi", isCorrect: true },
+      { answerText: "Agar qiymat belgilanmagan bo'lsa, ustun uchun standart qiymatni o'rnatadi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasidan ma'lumotlarni juda tez yaratish va olish uchun foydalaniladi", isCorrect: false },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jadval uchun DEFAULT cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustundagi qiymatlar ma'lum bir shartni qondirishini ta'minlaydi", isCorrect: false },
+      { answerText: "Agar qiymat belgilanmagan bo'lsa, ustun uchun standart qiymatni o'rnatadi", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasidan ma'lumotlarni juda tez yaratish va olish uchun foydalaniladi", isCorrect: false },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jadval uchun CREATE INDEX cheklovi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ustundagi qiymatlar ma'lum bir shartni qondirishini ta'minlaydi", isCorrect: false },
+      { answerText: "Agar qiymat belgilanmagan bo'lsa, ustun uchun standart qiymatni o'rnatadi", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasidan ma'lumotlarni juda tez yaratish va olish uchun foydalaniladi", isCorrect: true },
+      { answerText: "Jadvallar orasidagi aloqalarni buzadigan harakatlarni oldini oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchilar uchun SQL tilidagi standart imtiyozlarni tanlang",
+    answerOptions: [
+      { answerText: "SELECT, INSERT, UPDATE, DELETE", isCorrect: true },
+      { answerText: "INDEX, SYNONYM, ALTER", isCorrect: false },
+      { answerText: "COMMIT, ROLBACK", isCorrect: false },
+      { answerText: "COMMIT, ROLBACK, DEFAULT", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchilar uchun SQL tilidagi nostandart imtiyozlarni tanlang",
+    answerOptions: [
+      { answerText: "SELECT, INSERT, UPDATE, DELETE", isCorrect: false },
+      { answerText: "INDEX, SYNONYM, ALTER", isCorrect: true },
+      { answerText: "COMMIT, ROLBACK", isCorrect: false },
+      { answerText: "COMMIT, ROLBACK, DEFAULT", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ADOConnection komponentining vazifasini tanlang",
+    answerOptions: [
+      { answerText: "bu komponent ma'lumotlar bazasini C++ dasturlash tili bilan bir –biriga bog'laydi", isCorrect: true },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvalni C++ dasturlash tili bilan bir – biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvaldagi ma'lumotni inson ko'ra oladigan ko'rinishga keltiradi va aksincha", isCorrect: false },
+      { answerText: "bu komponent dastur ilovasida ma'lumotlarni jadval ko'rinishida aks ettiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ADOTable komponentining vazifasini tanlang",
+    answerOptions: [
+      { answerText: "bu komponent ma'lumotlar bazasini C++ dasturlash tili bilan bir –biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvalni C++ dasturlash tili bilan bir – biriga bog'laydi", isCorrect: true },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvaldagi ma'lumotni inson ko'ra oladigan ko'rinishga keltiradi va aksincha", isCorrect: false },
+      { answerText: "bu komponent dastur ilovasida ma'lumotlarni jadval ko'rinishida aks ettiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DataSource komponentining vazifasini tanlang",
+    answerOptions: [
+      { answerText: "bu komponent ma'lumotlar bazasini C++ dasturlash tili bilan bir –biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvalni C++ dasturlash tili bilan bir – biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvaldagi ma'lumotni inson ko'ra oladigan ko'rinishga keltiradi va aksincha", isCorrect: true },
+      { answerText: "bu komponent dastur ilovasida ma'lumotlarni jadval ko'rinishida aks ettiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DBGrid komponentining vazifasini tanlang",
+    answerOptions: [
+      { answerText: "bu komponent ma'lumotlar bazasini C++ dasturlash tili bilan bir –biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvalni C++ dasturlash tili bilan bir – biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvaldagi ma'lumotni inson ko'ra oladigan ko'rinishga keltiradi va aksincha", isCorrect: false },
+      { answerText: "bu komponent dastur ilovasida ma'lumotlarni jadval ko'rinishida aks ettiradi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "ADOQuery komponentining vazifasini tanlang",
+    answerOptions: [
+      { answerText: "bu komponent ma'lumotlar bazasini C++ dasturlash tili bilan bir –biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvalni C++ dasturlash tili bilan bir – biriga bog'laydi", isCorrect: false },
+      { answerText: "bu komponent ma'lumotlar bazasidagi jadvaldagi ma'lumotni inson ko'ra oladigan ko'rinishga keltiradi va aksincha", isCorrect: false },
+      { answerText: "bu komponent so'rov bajaradi va natijasini qaytaradi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ma`lumotlar bazasiga ma`lumotlarni kiritish, o`zgartirish va o`chirish amallarini bajaradigan komponentni tanlang",
+    answerOptions: [
+      { answerText: "ADOConnection", isCorrect: false },
+      { answerText: "ADOQuery", isCorrect: false },
+      { answerText: "DBGrid", isCorrect: false },
+      { answerText: "DBNavigator", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Dastur va ma'lumotlar bazasi o'rtasida tarjimon vazifasini bajaradigan vositani tanlang",
+    answerOptions: [
+      { answerText: "ODBC drayveri", isCorrect: true },
+      { answerText: "SQL tili", isCorrect: false },
+      { answerText: "MBBT", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlar manbalaridagi ma'lumotlarga kirish uchun interfeys vazifasini bajaradigan COM (komponentli obyektlar rejimi) obyektlarining yig'indisi nima deb ataladi?",
+    answerOptions: [
+      { answerText: "ADO", isCorrect: true },
+      { answerText: "SQL tili", isCorrect: false },
+      { answerText: "MBBT", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ADO va ODBC drayverining ma'lumotlar bazasiga ulanish cheklovlarini aniqlang.",
+    answerOptions: [
+      { answerText: "ADO bir vaqtning o'zida bir nechta ma'lumotlar bazalariga ulanishi mumkin, ODBC bir vaqtning o'zida faqat bitta ma'lumotlar bazasiga ulanishi mumkin", isCorrect: true },
+      { answerText: "ODBC bir vaqtning o'zida bir nechta ma'lumotlar bazalariga ulanishi mumkin, ADO bir vaqtning o'zida faqat bitta ma'lumotlar bazasiga ulanishi mumkin", isCorrect: false },
+      { answerText: "ADO va ODBC bir vaqtning o'zida bir nechta ma'lumotlar bazalariga ulanishi mumkin", isCorrect: false },
+      { answerText: "ADO va ODBC bir vaqtning o'zida faqat bitta ma'lumotlar bazasiga ulanishi mumkin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maqsadi har qanday ma'lumotlar bazasi komponentlarini markazlashtirilgan holda saqlash bo'lgan komponentani tanlang",
+    answerOptions: [
+      { answerText: "DataModule", isCorrect: true },
+      { answerText: "ADOConnection", isCorrect: false },
+      { answerText: "DBGrid", isCorrect: false },
+      { answerText: "Console Application", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Bir xil o'lchamdagi tasvirlar to'plamini o'zida saqlovchi komponentani tanlang.",
+    answerOptions: [
+      { answerText: "ImageList", isCorrect: true },
+      { answerText: "ToolBar", isCorrect: false },
+      { answerText: "Panel", isCorrect: false },
+      { answerText: "PageControl", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "mysqli_connect(\"localhost\", \"root\", \"\") funksiyasi qanday vazifa bajaradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasini tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasiga ulanish", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasidagi jadvalni tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasiga ulanishni yopish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "mysqli_select_db($connection, \"users\") funksiyasi qanday vazifa bajaradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasini tanlash", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasiga ulanish", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasidagi jadvalni tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasiga ulanishni yopish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "mysqli_query($connection, $query) funksiyasi qanday vazifa bajaradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasini tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasiga ulanish", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasidagi foydalanuvchini tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasida so'rovni amalga oshirish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "mysqli_close($connection) funksiyasi qanday vazifa bajaradi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasini tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasiga ulanish", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasidagi jadvalni tanlash", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasiga ulanishni yopish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "NoSQL nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Faqat matnli ma'lumotlar bilan ishlash uchun", isCorrect: false },
+      { answerText: "SQL ma'lumotlar bazasini o'rnini bosish uchun", isCorrect: false },
+      { answerText: "Yagona foydalanuvchilar uchun ma'lumot saqlash uchun", isCorrect: false },
+      { answerText: "Katta hajmdagi tuzilmasiz ma'lumotlar bilan ishlash uchun", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Document-oriented NoSQL bazasining mashhur namunasi?",
+    answerOptions: [
+      { answerText: "PostgreSQL", isCorrect: false },
+      { answerText: "MongoDB", isCorrect: true },
+      { answerText: "SQLite", isCorrect: false },
+      { answerText: "Redis", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "NoSQL ma'lumotlar bazalari qanday ma'lumotlar uchun mos?",
+    answerOptions: [
+      { answerText: "Faqat grafik ma'lumotlar", isCorrect: false },
+      { answerText: "Faqat raqamli ma'lumotlar", isCorrect: false },
+      { answerText: "Faqat relatsion ma'lumotlar", isCorrect: false },
+      { answerText: "Tuzilmasiz yoki qisman tuzilmali ma'lumotlar", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Key-value store NoSQL ma'lumotlar bazasiga misol keltiring",
+    answerOptions: [
+      { answerText: "MySQL", isCorrect: false },
+      { answerText: "Redis", isCorrect: true },
+      { answerText: "PostgreSQL", isCorrect: false },
+      { answerText: "Oracle", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Graph-based NoSQL bazasining namunasi nima?",
+    answerOptions: [
+      { answerText: "MongoDB", isCorrect: false },
+      { answerText: "MySQL", isCorrect: false },
+      { answerText: "Redis", isCorrect: false },
+      { answerText: "Neo4j", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "NoSQL ma'lumotlar bazalari qanday turlarga bo'linadi?",
+    answerOptions: [
+      { answerText: "Faqat relatsion va grafik", isCorrect: false },
+      { answerText: "Faqat tuzilmali va hujjatli", isCorrect: false },
+      { answerText: "Kalit-qiymatli, grafik, hujjatga yo'naltirilgan va keng ustunli", isCorrect: true },
+      { answerText: "Faqat grafik va keng ustunli", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "NoSQL qaysi holatlarda ishlatiladi?",
+    answerOptions: [
+      { answerText: "Kichik ma'lumotlar to'plamlarida", isCorrect: false },
+      { answerText: "ACID xususiyatlari qat'iy bo'lganda", isCorrect: false },
+      { answerText: "Ma'lumotlar kengayuvchanligi yuqori bo'lganda", isCorrect: true },
+      { answerText: "Faqatgina SQL buyruqlaridan foydalanilganda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Wide-column store NoSQL ma'lumotlar bazasi qaysi?",
+    answerOptions: [
+      { answerText: "Cassandra", isCorrect: true },
+      { answerText: "MongoDB", isCorrect: false },
+      { answerText: "Redis", isCorrect: false },
+      { answerText: "SQLite", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "NoSQL bazalarining asosiy afzalligi qaysi?",
+    answerOptions: [
+      { answerText: "SQL sintaksisini talab qilishi", isCorrect: false },
+      { answerText: "Kuchli ACID tranzaksiyalarini ta'minlashi", isCorrect: false },
+      { answerText: "Faqat kichik loyihalar uchun mosligi", isCorrect: false },
+      { answerText: "Moslashuvchanligi va kengayuvchanligi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "PHPda MySQL serveriga ulanish uchun qaysi funksiya ishlatiladi?",
+    answerOptions: [
+      { answerText: "mysql_connect()", isCorrect: false },
+      { answerText: "db_connect()", isCorrect: false },
+      { answerText: "connect_to_mysql()", isCorrect: false },
+      { answerText: "mysqli_connect()", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "SQL injeksiyadan saqlanish uchun PHPda qaysi usul ishlatiladi?",
+    answerOptions: [
+      { answerText: "$_GET o'zgaruvchisini to'g'ridan-to'g'ri ishlatish", isCorrect: false },
+      { answerText: "SQL buyruqlarini qattiq yozish", isCorrect: false },
+      { answerText: "mysqli_query() bilan birgalikda ishlatish", isCorrect: false },
+      { answerText: "Prepared statements (tayyorlangan ifodalar)", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "MySQL bilan bog'liq ma'lumotlarni PHPda qanday olish mumkin?",
+    answerOptions: [
+      { answerText: "mysql_fetch_data()", isCorrect: false },
+      { answerText: "db_fetch_array()", isCorrect: false },
+      { answerText: "mysqli_fetch_array()", isCorrect: true },
+      { answerText: "fetch_mysql_data()", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "PHPda MySQL ma'lumotlar bazasiga ulanishni qanday yopish mumkin?",
+    answerOptions: [
+      { answerText: "mysql_disconnect()", isCorrect: false },
+      { answerText: "db_close_connection()", isCorrect: false },
+      { answerText: "mysql_close_connection()", isCorrect: false },
+      { answerText: "mysqli_close()", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "PHPda MySQL ma'lumotlar bazasidan oxirgi yozuvning ID sini qanday olish mumkin?",
+    answerOptions: [
+      { answerText: "db_last_insert_id()", isCorrect: false },
+      { answerText: "mysql_query_last_id()", isCorrect: false },
+      { answerText: "fetch_last_id()", isCorrect: false },
+      { answerText: "mysqli_insert_id()", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "MySQLda PDO ning afzalligi qaysi?",
+    answerOptions: [
+      { answerText: "Faqat MySQLni qo'llab-quvvatlashi", isCorrect: false },
+      { answerText: "Har bir ma'lumotlar bazasi uchun alohida konfiguratsiya talab etishi", isCorrect: false },
+      { answerText: "Turli xil ma'lumotlar bazalarini qo'llashi", isCorrect: true },
+      { answerText: "Faqat ma'lumotlarni avtomatik filtrlashi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "PHPda SQL buyruqlarini bajarish uchun qaysi funksiya ishlatiladi?",
+    answerOptions: [
+      { answerText: "mysqli_execute_query()", isCorrect: false },
+      { answerText: "execute_sql()", isCorrect: false },
+      { answerText: "mysql_run_query()", isCorrect: false },
+      { answerText: "mysqli_query()", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "PHPda MySQLdan ma'lumotlarni JSON formatida olish uchun qaysi funksiya ishlatiladi?",
+    answerOptions: [
+      { answerText: "json_fetch_data()", isCorrect: false },
+      { answerText: "json_encode()", isCorrect: true },
+      { answerText: "encode_to_json()", isCorrect: false },
+      { answerText: "mysql_to_json()", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "PHPda MySQL ulanish xatosini qanday tekshirish mumkin?",
+    answerOptions: [
+      { answerText: "mysqli_connect_error()", isCorrect: true },
+      { answerText: "mysqli_error()", isCorrect: false },
+      { answerText: "mysql_get_error()", isCorrect: false },
+      { answerText: "db_error_check()", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda yangi foydalanuvchi yaratish uchun qaysi buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "ADD USER", isCorrect: false },
+      { answerText: "INSERT INTO USERS", isCorrect: false },
+      { answerText: "NEW USER", isCorrect: false },
+      { answerText: "CREATE USER", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchiga ma'lum imtiyoz berish uchun qaysi buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "ALLOW PRIVILEGES", isCorrect: false },
+      { answerText: "GRANT", isCorrect: true },
+      { answerText: "GIVE PERMISSIONS", isCorrect: false },
+      { answerText: "ENABLE RIGHTS", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchi imtiyozlarini ko'rish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "VIEW PRIVILEGES", isCorrect: false },
+      { answerText: "SHOW GRANTS", isCorrect: true },
+      { answerText: "LIST RIGHTS", isCorrect: false },
+      { answerText: "DESCRIBE USER", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchi imtiyozlarini olib tashlash uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "DELETE RIGHTS", isCorrect: false },
+      { answerText: "REMOVE GRANTS", isCorrect: false },
+      { answerText: "REVOKE", isCorrect: true },
+      { answerText: "DROP PRIVILEGES", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda root foydalanuvchisining asosiy xususiyati nima?",
+    answerOptions: [
+      { answerText: "To'liq boshqaruv huquqlari", isCorrect: true },
+      { answerText: "Faqat SELECT huquqi", isCorrect: false },
+      { answerText: "Faqat DELETE huquqi", isCorrect: false },
+      { answerText: "Faqat UPDATE huquqi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchining parolini o'zgartirish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "SET PASSWORD", isCorrect: false },
+      { answerText: "UPDATE PASSWORD", isCorrect: false },
+      { answerText: "ALTER USER", isCorrect: true },
+      { answerText: "CHANGE PASSWORD", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchiga faqat SELECT imtiyozi berish buyruqi qanday yoziladi?",
+    answerOptions: [
+      { answerText: "GRANT ALL PRIVILEGES ON *.* TO 'user';", isCorrect: false },
+      { answerText: "GRANT DELETE ON *.* TO 'user';", isCorrect: false },
+      { answerText: "GRANT INSERT ON *.* TO 'user';", isCorrect: false },
+      { answerText: "GRANT SELECT ON *.* TO 'user';", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "PHPda PDO bilan ishlashda bog'lanishni qanday o'rnatiladi?",
+    answerOptions: [
+      { answerText: "new PDO(\"mysql:host=localhost;dbname=testdb\", \"user\", \"password\")", isCorrect: false },
+      { answerText: "pdo_connect(\"localhost\", \"testdb\", \"user\", \"password\")", isCorrect: false },
+      { answerText: "$pdo = new PDO(\"mysql:host=localhost;dbname=testdb\", \"user\", \"password\");", isCorrect: true },
+      { answerText: "connect_pdo(\"localhost\", \"testdb\", \"user\", \"password\")", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "PHPda MySQL so'rov natijalarini iteratsiya qilish uchun qaysi funksiya ishlatiladi?",
+    answerOptions: [
+      { answerText: "mysqli_fetch_row()", isCorrect: false },
+      { answerText: "mysqli_next()", isCorrect: false },
+      { answerText: "mysqli_fetch_assoc()", isCorrect: true },
+      { answerText: "db_iterate()", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQL serverida foydalanuvchini boshqarishning asosiy maqsadi nima?",
+    answerOptions: [
+      { answerText: "Faqat SELECT huquqini berish", isCorrect: false },
+      { answerText: "Ma'lumotlarni avtomatik himoya qilish", isCorrect: false },
+      { answerText: "Foydalanuvchiga aniq imtiyoz va cheklovlar belgilash", isCorrect: true },
+      { answerText: "Root foydalanuvchisini faqat yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "PHPda MySQL ma'lumotlar bazasida oxirgi o'zgartirishlar sonini olish uchun qaysi funksiya ishlatiladi?",
+    answerOptions: [
+      { answerText: "mysqli_last_update()", isCorrect: false },
+      { answerText: "mysqli_affected_rows()", isCorrect: true },
+      { answerText: "mysql_update_count()", isCorrect: false },
+      { answerText: "db_update_rows()", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchining mavjudligini tekshirish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "SELECT User FROM mysql.user", isCorrect: true },
+      { answerText: "SHOW USER 'username';", isCorrect: false },
+      { answerText: "VERIFY USER 'username';", isCorrect: false },
+      { answerText: "DESCRIBE USER 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchining imtiyozlarini ko'rish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "LIST PRIVILEGES;", isCorrect: false },
+      { answerText: "SHOW GRANTS FOR 'username';", isCorrect: true },
+      { answerText: "GET PERMISSIONS FOR 'username';", isCorrect: false },
+      { answerText: "DESCRIBE PRIVILEGES FOR 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchini ma'lumotlar bazasidan o'chirish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "REMOVE USER 'username';", isCorrect: false },
+      { answerText: "DELETE USER 'username';", isCorrect: false },
+      { answerText: "DROP USER 'username';", isCorrect: true },
+      { answerText: "DISABLE USER 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchi yaratish uchun minimal buyruq?",
+    answerOptions: [
+      { answerText: "CREATE USER;", isCorrect: false },
+      { answerText: "CREATE USER 'username'@'host';", isCorrect: true },
+      { answerText: "CREATE NEW USER 'username';", isCorrect: false },
+      { answerText: "ADD USER 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchiga barcha imtiyozlarni berish uchun qanday buyruq yoziladi?",
+    answerOptions: [
+      { answerText: "GRANT ALL TO 'username';", isCorrect: false },
+      { answerText: "GRANT ALL PRIVILEGES ON *.* TO 'username';", isCorrect: true },
+      { answerText: "ENABLE ALL ON 'username';", isCorrect: false },
+      { answerText: "ALLOW FULL ACCESS FOR 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchining parolini qanday o'zgartirish mumkin?",
+    answerOptions: [
+      { answerText: "CHANGE PASSWORD FOR 'username';", isCorrect: false },
+      { answerText: "ALTER USER 'username' IDENTIFIED BY 'newpassword';", isCorrect: true },
+      { answerText: "UPDATE USER 'username' PASSWORD 'newpassword';", isCorrect: false },
+      { answerText: "SET PASSWORD FOR 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchini ma'lumotlar bazasidan foydalanishni cheklash uchun qaysi buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "BLOCK USER 'username';", isCorrect: false },
+      { answerText: "DISABLE USER 'username';", isCorrect: false },
+      { answerText: "REVOKE ALL PRIVILEGES ON *.* FROM 'username';", isCorrect: true },
+      { answerText: "REMOVE USER PRIVILEGES;", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda foydalanuvchiga faqat bitta ma'lumotlar bazasiga kirish imkoni berish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "GRANT SELECT ON *.* TO 'username';", isCorrect: false },
+      { answerText: "GRANT ALL PRIVILEGES ON database_name.* TO 'username';", isCorrect: true },
+      { answerText: "ALLOW USER 'username' TO USE database_name;", isCorrect: false },
+      { answerText: "ENABLE DATABASE ACCESS FOR 'username';", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MySQLda vaqtinchalik foydalanuvchini yaratish uchun qanday buyruq ishlatiladi?",
+    answerOptions: [
+      { answerText: "CREATE TEMP USER 'username';", isCorrect: false },
+      { answerText: "ADD USER 'username' TEMPORARILY;", isCorrect: false },
+      { answerText: "CREATE USER 'username' WITH MAX_QUERIES_PER_HOUR 10;", isCorrect: true },
+      { answerText: "SET TEMP ACCESS FOR 'username';", isCorrect: false },
+    ],
+  },
+];

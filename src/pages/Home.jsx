@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import Quiz from "../Quiz";
-import { quizQuestions, quizTarmoq } from "../data/quizQuestions";
+import { bazaQuiz, quizQuestions, quizTarmoq } from "../data/quizQuestions";
 
 function Home() {
   const [quiz, setQuiz] = useState(false);
@@ -30,12 +30,23 @@ function Home() {
           <input type="search" required placeholder="Search" />
         </label>
       </div>
-      <div className="flex flex-wrap gap-5 px-[5%]">
+      <div className="flex flex-wrap justify-center gap-5 px-[5%]">
+        <div className="card sm:max-w-sm shadow-xl max-w-[96vw] hover:cursor-pointer transition-all duration-500 hover:scale-105 bg-white">
+            <div className="card-body">
+            <h5 className="card-title mb-2.5">Malumotlar Bazasi</h5>
+            <p className="mb-4">
+                III-semestr Yakuniy nazorat uchun
+            </p>
+            <div className="card-actions">
+                <p onClick={() => setQuiz(bazaQuiz)} className="btn btn-primary">Ishlash</p>
+            </div>
+            </div>
+        </div>
         <div className="card sm:max-w-sm shadow-xl max-w-[96vw] hover:cursor-pointer transition-all duration-500 hover:scale-105 bg-white">
             <div className="card-body">
             <h5 className="card-title mb-2.5">Kampuyuter Tarmoqlari</h5>
             <p className="mb-4">
-                Yakuniy nazorat uchun
+                III-semestr Yakuniy nazorat uchun
             </p>
             <div className="card-actions">
                 <p onClick={() => setQuiz(quizTarmoq)} className="btn btn-primary">Ishlash</p>
@@ -46,7 +57,7 @@ function Home() {
             <div className="card-body">
             <h5 className="card-title mb-2.5">Malumotlar bazasi</h5>
             <p className="mb-4">
-                21-kunlik test oraliq sinov uchun
+                III-semestr 21-kungi test oraliq sinov uchun
             </p>
             <div className="card-actions">
                 <p onClick={() => setQuiz(quizQuestions)} className="btn btn-primary">Ishlash</p>
