@@ -4,6 +4,7 @@ import MainLayout from './MainLayout'
 import Contact from './pages/Contact'
 import Home from './pages/Home'
 import Quiz from './Quiz'
+import { QuizProvider } from './QuizContext'
 
 function App() {
   const routes = createBrowserRouter([
@@ -22,12 +23,16 @@ function App() {
       ]
     },
     {
-      path: 'test/',
+      path: 'test',
       element: <Quiz />
     }
   ])
 
-  return <RouterProvider router={routes} />
+  return (
+    <QuizProvider>
+      <RouterProvider router={routes} />
+    </QuizProvider>
+  )
 }
 
 export default App

@@ -4225,3 +4225,909 @@ export const bazaQuiz = [
     ],
   },
 ];
+
+export const enterpriseQuiz = [
+  {
+    questionText: "1C Enterprise nima?",
+    answerOptions: [
+      { answerText: "Moliya hisobi tizimi", isCorrect: false },
+      { answerText: "Buxgalteriya va boshqaruv dasturi", isCorrect: true },
+      { answerText: "Grafik dizayn dasturi", isCorrect: false },
+      { answerText: "Veb-brauzer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C Enterprise ning asosiy foydasi nima?",
+    answerOptions: [
+      { answerText: "Rasm chizish", isCorrect: false },
+      { answerText: "Hisob-kitoblarni avtomatlashtirish", isCorrect: true },
+      { answerText: "Fayllarni saqlash", isCorrect: false },
+      { answerText: "Dastur yozish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C Enterprise dasturi qaysi sohalarda ishlatiladi?",
+    answerOptions: [
+      { answerText: "Sanoat mashinasozlikda", isCorrect: false },
+      { answerText: "Buxgalteriya, savdo va ombor boshqaruvida", isCorrect: true },
+      { answerText: "O'yin ishlab chiqishda", isCorrect: false },
+      { answerText: "Internet brauzerda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C Enterprise tizimida axborot bazasi nima?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi interfeysi", isCorrect: false },
+      { answerText: "Ma'lumotlar to'plami va tadbirlar majmuasi", isCorrect: true },
+      { answerText: "Grafik fayl", isCorrect: false },
+      { answerText: "Brauzer oynasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C Enterprise da ma'lumotlar bazasi qayerda saqlanadi?",
+    answerOptions: [
+      { answerText: "Microsoft Word faylida", isCorrect: false },
+      { answerText: "Serverda yoki fayl rejimida", isCorrect: true },
+      { answerText: "Rasm faylida", isCorrect: false },
+      { answerText: "Brauzer keshida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C Enterprise da ma'lumotnoma nima?",
+    answerOptions: [
+      { answerText: "Buxgalteriya hisobi", isCorrect: false },
+      { answerText: "Standart to'plamdagi referensiya ma'lumot", isCorrect: true },
+      { answerText: "Fayl formati", isCorrect: false },
+      { answerText: "Internet xizmati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatlar 1C da nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Tizim sozlamalarini saqlash uchun", isCorrect: false },
+      { answerText: "Ish jarayonlarini va operatsiyalarni qayd etish uchun", isCorrect: true },
+      { answerText: "Grafik ishlash uchun", isCorrect: false },
+      { answerText: "Foydalanuvchi interfeysini yaratish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da jamg'arma registri nimalarga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi hisobi uchun", isCorrect: false },
+      { answerText: "Zaxira nusxasini yaratish uchun", isCorrect: false },
+      { answerText: "Moliyaviy hisob va resurslarni hisoblashi uchun", isCorrect: true },
+      { answerText: "Rasm chizish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da oddiy hisobot nima?",
+    answerOptions: [
+      { answerText: "Grafik chizmada ko'rsatiladigan ma'lumot", isCorrect: false },
+      { answerText: "Oldindan belgilangan ma'lumotni chiqaruvchi hisobot", isCorrect: true },
+      { answerText: "Foydalanuvchi sozlamasi", isCorrect: false },
+      { answerText: "Internet sahifasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da maket nima?",
+    answerOptions: [
+      { answerText: "Hujjatning vizual ko'rinishi va strukturasini belgilovchi shablon", isCorrect: true },
+      { answerText: "Qurilmalar ro'yxati", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi turi", isCorrect: false },
+      { answerText: "Hisobot turi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da shakillarni tahrirlash nima bilan bog'liq?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi rejimini sozlash", isCorrect: false },
+      { answerText: "Hujjat yoki hisobot maketini o'zgartirish", isCorrect: true },
+      { answerText: "Ma'lumot bazasini yaratish", isCorrect: false },
+      { answerText: "Registrni tozalash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Davriy ma'lumotlar registri qaysi maqsadga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Matn faylini saqlash", isCorrect: false },
+      { answerText: "Vaqt bo'yicha qiymatlarni saqlash", isCorrect: true },
+      { answerText: "Grafik yaratish", isCorrect: false },
+      { answerText: "Foydalanuvchi parolini o'zgartirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ro'yxatlar 1C da nimani ifodalaydi?",
+    answerOptions: [
+      { answerText: "Hujjatlar ro'yxatini", isCorrect: false },
+      { answerText: "Tovarlar, xizmatlar, xodimlar kabi ichki ma'lumotlar to'plamini", isCorrect: true },
+      { answerText: "Hisobot turi", isCorrect: false },
+      { answerText: "Maketlarni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatni bir nechta registr bo'yicha o'tkazish nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Hujjatni bir vaqtda bir nechta foydalanuvchiga yuborish", isCorrect: false },
+      { answerText: "Hujjat asosida bir nechta registrlar bo'yicha yozuvlar hosil qilish", isCorrect: true },
+      { answerText: "Hujjatni ko'chirish", isCorrect: false },
+      { answerText: "Hujjatni o'chirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Aylanma jamg'arma registrlari nimalarga mos keladi?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi interfeysi komponentlariga", isCorrect: false },
+      { answerText: "Resurslar aylanishi va zaxira hisobini", isCorrect: true },
+      { answerText: "Grafik fayllarga", isCorrect: false },
+      { answerText: "Hisobotlarni saqlashga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hisobotlar 1C da qanday ishlaydi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlarni tahlil qilish va chiqarish uchun", isCorrect: true },
+      { answerText: "Fayllarni kompress qilish uchun", isCorrect: false },
+      { answerText: "Dastur kodini tuzish uchun", isCorrect: false },
+      { answerText: "Internetni tekshirish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Xizmat ko'rsatish hujjati nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Avtomobil ta'mirlash servisining hujjati", isCorrect: false },
+      { answerText: "Servis xizmatlari va xizmat ko'rsatish ishlarini yuklash uchun hujjat", isCorrect: true },
+      { answerText: "Foydalanuvchi ichki xatoni", isCorrect: false },
+      { answerText: "Hisobot yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Xizmat ko'rsatish hujjatini optimallashtirish nima?",
+    answerOptions: [
+      { answerText: "Yuklamalarni kamaytirish va tez ishlash uchun hujjat oqimini soddalashtirish", isCorrect: true },
+      { answerText: "Hujjatni o'chirish", isCorrect: false },
+      { answerText: "Grafik maketini o'zgartirish", isCorrect: false },
+      { answerText: "Ma'lumotlarni siqish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xususiyatlar turlari rejasi hisobi 1C da nimalarni ifodalaydi?",
+    answerOptions: [
+      { answerText: "Mahsulot xususiyatlarini hisoblash va variantlarni boshqarish", isCorrect: true },
+      { answerText: "Foydalanuvchi huquqlarini ro'yxatga olish", isCorrect: false },
+      { answerText: "Server sozlamalarini saqlash", isCorrect: false },
+      { answerText: "Hisobot shablonini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C Enterprise da Axborot bazasini yaratish bosqichlari qaysilar?",
+    answerOptions: [
+      { answerText: "Yangi baza yaratish, struktura belgilash, ma'lumotlarni import qilish", isCorrect: true },
+      { answerText: "Faylni ochish, chizma chizish, eksport qilish", isCorrect: false },
+      { answerText: "Maket yaratish, himoyalash, chop etish", isCorrect: false },
+      { answerText: "Test yozish, kompilyatsiya, tarqatish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ma'lumotlarni qaysi turdagi obyekt sifatida tashkil qiladi?",
+    answerOptions: [
+      { answerText: "Massiv", isCorrect: false },
+      { answerText: "Registr, hujjat, ma'lumotnoma", isCorrect: true },
+      { answerText: "Matn stringi", isCorrect: false },
+      { answerText: "Rasm obyekti", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotnoma sifatida nimani ishlatish mumkin?",
+    answerOptions: [
+      { answerText: "Tovarlar, mijozlar, kassalar", isCorrect: true },
+      { answerText: "Fayl manzili", isCorrect: false },
+      { answerText: "Server xotirasi", isCorrect: false },
+      { answerText: "Noaniq yozuv", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatlar qaysi elementlardan tashkil topadi?",
+    answerOptions: [
+      { answerText: "Sarlavha, satrlar, imzo", isCorrect: true },
+      { answerText: "Ro'yxat, tasvir, fayl", isCorrect: false },
+      { answerText: "Atributlar, o'lcham, rang", isCorrect: false },
+      { answerText: "Foydalanuvchi, parol, login", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Nazariy ma'lumotlar nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi huquqlari", isCorrect: false },
+      { answerText: "Mantiqiy qoidalar va tushunchalar bo'yicha ma'lumot", isCorrect: true },
+      { answerText: "Grafik elementlar", isCorrect: false },
+      { answerText: "Internet sozlamalari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jamg'arma registrlarida qaysi ish bajariladi?",
+    answerOptions: [
+      { answerText: "Moliyaviy resurslar va miqdorlarni hisoblash", isCorrect: true },
+      { answerText: "Kichik grafika yaratish", isCorrect: false },
+      { answerText: "Faylni zaxiralash", isCorrect: false },
+      { answerText: "Internet so'rovlarini yuborish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oddiy hisobotda qanday ma'lumotlar ko'rsatiladi?",
+    answerOptions: [
+      { answerText: "Strukturaviy va statistik ma'lumotlar", isCorrect: true },
+      { answerText: "Fayl ma'lumotlari", isCorrect: false },
+      { answerText: "Rasm pikseli", isCorrect: false },
+      { answerText: "Hujjat metadata", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maketlar 1C da nimani belgilaydi?",
+    answerOptions: [
+      { answerText: "Hujjat va hisobot ko'rinishini", isCorrect: true },
+      { answerText: "Tizim foydalanuvchisini", isCorrect: false },
+      { answerText: "Server manzilini", isCorrect: false },
+      { answerText: "Internet linkini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shakillarni tahrirlash qachon kerak bo'ladi?",
+    answerOptions: [
+      { answerText: "Hisobot ko'rinishini moslashtirishda", isCorrect: true },
+      { answerText: "Ma'lumotlar bazasini ishlatishda", isCorrect: false },
+      { answerText: "Foydalanuvchi loginini o'zgartirishda", isCorrect: false },
+      { answerText: "Serverni ishga tushirishda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Davriy ma'lumotlar registri eng ko'p qaysi ma'lumotlar uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Inventarizatsiya, narx o'zgarishlari, holatlar bo'yicha", isCorrect: true },
+      { answerText: "Rasm fayllar", isCorrect: false },
+      { answerText: "Parol saqlash", isCorrect: false },
+      { answerText: "Brauzer tarix", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ro'yxatlar uchun to'g'ri ta'rifni tanlang.",
+    answerOptions: [
+      { answerText: "Cheksiz matn bloklari", isCorrect: false },
+      { answerText: "Tizimga oid ob'ektlar to'plami", isCorrect: true },
+      { answerText: "Hujjatga bog'liq fayl", isCorrect: false },
+      { answerText: "Xabar uzatish protokoli", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatni registr bo'yicha o'tkazish qanday natija beradi?",
+    answerOptions: [
+      { answerText: "Hujjatga yangi yozuvlar keladi", isCorrect: true },
+      { answerText: "Hujjat yo'qoladi", isCorrect: false },
+      { answerText: "Fayl o'chadi", isCorrect: false },
+      { answerText: "Server restart bo'ladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Aylanma jamg'arma registrlari asosida nima hisoblanadi?",
+    answerOptions: [
+      { answerText: "Soddalashtirilgan tovar aylanishi", isCorrect: true },
+      { answerText: "Og'irlik rejimi", isCorrect: false },
+      { answerText: "Grafik piksellar", isCorrect: false },
+      { answerText: "Fayl formatlari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hisobotlarning asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi parolini saqlash", isCorrect: false },
+      { answerText: "Ma'lumotlar tahlili va chiqarilishi", isCorrect: true },
+      { answerText: "Maket yaratish", isCorrect: false },
+      { answerText: "Serverga kirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xizmat ko'rsatish hujjati qaysi jarayonni belgilaydi?",
+    answerOptions: [
+      { answerText: "Marketing kampaniyasini", isCorrect: false },
+      { answerText: "Xizmat ishlari va kafolatni", isCorrect: true },
+      { answerText: "Tizim xavfsizligini", isCorrect: false },
+      { answerText: "Ma'lumotlarni zaxiralashni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Optimallashtirish nima uchun muhim?",
+    answerOptions: [
+      { answerText: "Fayl hajmini oshirish uchun", isCorrect: false },
+      { answerText: "Ish jarayonini tezlashtirish va xatoliklarni kamaytirish uchun", isCorrect: true },
+      { answerText: "Grafik hajmini oshirish uchun", isCorrect: false },
+      { answerText: "Foydalanuvchi izohlarini ko'paytirish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xususiyatlar turlari rejasi hisobi qaysi tizimda bo'ladi?",
+    answerOptions: [
+      { answerText: "Hisob-kitob bo'limlarida", isCorrect: false },
+      { answerText: "Mahsulot variantlari rejalashtirilgan ma'lumotlarda", isCorrect: true },
+      { answerText: "Tizim fayl konfiguratsiyasida", isCorrect: false },
+      { answerText: "Brauzer xabarnomasida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C'da Axborot bazasi yaratishda qaysi element muhim?",
+    answerOptions: [
+      { answerText: "Qurilmalar drayveri", isCorrect: false },
+      { answerText: "Struktura va shablon", isCorrect: true },
+      { answerText: "Rasm chizish", isCorrect: false },
+      { answerText: "Brauzer tuzilishi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotnomalar qaysi maqsadga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Tizim sozlamalarini saqlash", isCorrect: false },
+      { answerText: "Standart ma'lumotlarni boshqarish va tanlash", isCorrect: true },
+      { answerText: "Grafik yaratish", isCorrect: false },
+      { answerText: "Hujjat import qilish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatlar qaysi turi 1C da mavjud?",
+    answerOptions: [
+      { answerText: "Rezident va norezident", isCorrect: false },
+      { answerText: "Dastur, raport, yangilik", isCorrect: false },
+      { answerText: "Hisob, tovar, xizmat", isCorrect: true },
+      { answerText: "Qisqa, o'rta, uzoq", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Nazariy ma'lumotlar 1C da nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Ish jarayonining matematik modeli", isCorrect: true },
+      { answerText: "Mijoz fikri", isCorrect: false },
+      { answerText: "Server holati", isCorrect: false },
+      { answerText: "Tizim so'rovi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jamg'arma registrini tanlang.",
+    answerOptions: [
+      { answerText: "Hisob-kitobning saqlanishi", isCorrect: false },
+      { answerText: "Moliyaviy resurslar va ularning harakati", isCorrect: true },
+      { answerText: "Fayl zaxirasi", isCorrect: false },
+      { answerText: "Tizim zahirasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oddiy hisobot qanday ko'rsatiladi?",
+    answerOptions: [
+      { answerText: "Hujjat matni sifatida", isCorrect: false },
+      { answerText: "Jadval va to'plam tarzida", isCorrect: true },
+      { answerText: "Portfel diagrammasi", isCorrect: false },
+      { answerText: "E-mail xabarnoma", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maketlarni tahrirlashda nima o'zgartiriladi?",
+    answerOptions: [
+      { answerText: "Ma'lumotlar bazasi jadvalini", isCorrect: false },
+      { answerText: "Hujjat yoki hisobot ko'rinishi va standart bloki", isCorrect: true },
+      { answerText: "Foydalanuvchi autentifikatsiyasini", isCorrect: false },
+      { answerText: "Serverni qayta ishga tushirishni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Davriy ma'lumotlar registri nimani saqlaydi?",
+    answerOptions: [
+      { answerText: "Fayllarni", isCorrect: false },
+      { answerText: "Vaqt bo'yicha o'zgaradigan ma'lumotlarni", isCorrect: true },
+      { answerText: "Grafik parametrlarini", isCorrect: false },
+      { answerText: "Parol tarixi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ro'yxatlar nima uchun mos keladi?",
+    answerOptions: [
+      { answerText: "Grafik tahrirlash uchun", isCorrect: false },
+      { answerText: "Modeldagi kriteriyalar ro'yxatini saqlash uchun", isCorrect: true },
+      { answerText: "Internet so'rovlarini bajarish uchun", isCorrect: false },
+      { answerText: "Faylni bosib chiqarish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatni registrlar bo'yicha o'tkazish qachon kerak?",
+    answerOptions: [
+      { answerText: "Yangi hisobot yaratishda", isCorrect: false },
+      { answerText: "Operatsion yozuvlar hosil qilishda", isCorrect: true },
+      { answerText: "Fayl eksportida", isCorrect: false },
+      { answerText: "Tizimni yangilashda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Aylanma jamg'arma registrlari qaysi yo'nalishda ishlaydi?",
+    answerOptions: [
+      { answerText: "Statik hisobot uchun", isCorrect: false },
+      { answerText: "Aylanish va qayta hisob uchun", isCorrect: true },
+      { answerText: "Grafik interaktivlik uchun", isCorrect: false },
+      { answerText: "Server xavfsizligi uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hisobotlarning asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi parolini saqlash", isCorrect: false },
+      { answerText: "Ma'lumotlar tahlili va chiqarilishi", isCorrect: true },
+      { answerText: "Maket yaratish", isCorrect: false },
+      { answerText: "Serverga kirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xizmat ko'rsatish hujjati qaysi jarayonni belgilaydi?",
+    answerOptions: [
+      { answerText: "Marketing kampaniyasini", isCorrect: false },
+      { answerText: "Xizmat ishlari va kafolatni", isCorrect: true },
+      { answerText: "Tizim xavfsizligini", isCorrect: false },
+      { answerText: "Ma'lumotlarni zaxiralashni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Optimallashtirish nima uchun muhim?",
+    answerOptions: [
+      { answerText: "Fayl hajmini oshirish uchun", isCorrect: false },
+      { answerText: "Ish jarayonini tezlashtirish va xatoliklarni kamaytirish uchun", isCorrect: true },
+      { answerText: "Grafik hajmini oshirish uchun", isCorrect: false },
+      { answerText: "Foydalanuvchi izohlarini ko'paytirish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xususiyatlar turlari rejasi hisobi qaysi tizimda bo'ladi?",
+    answerOptions: [
+      { answerText: "Hisob-kitob bo'limlarida", isCorrect: false },
+      { answerText: "Mahsulot variantlari rejalashtirilgan ma'lumotlarda", isCorrect: true },
+      { answerText: "Tizim fayl konfiguratsiyasida", isCorrect: false },
+      { answerText: "Brauzer xabarnomasida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maketlar 1C da qaysi elementlarga ta'sir qiladi?",
+    answerOptions: [
+      { answerText: "Hujjat yoki hisobot sahifasi ko'rinishi", isCorrect: true },
+      { answerText: "Server yadro konfiguratsiyasi", isCorrect: false },
+      { answerText: "Internet tezligi", isCorrect: false },
+      { answerText: "Fayl ruxsatlari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shakllarni tahrirlash qaysi bosqichda sodir bo'ladi?",
+    answerOptions: [
+      { answerText: "Hisobot yoki hujjatni sozlashda", isCorrect: true },
+      { answerText: "Ma'lumotlar kiritishda", isCorrect: false },
+      { answerText: "Serverni yoqishda", isCorrect: false },
+      { answerText: "Internetga ulanishda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Davriy ma'lumotlar registrlari qanday ma'lumotlar bilan ishlaydi?",
+    answerOptions: [
+      { answerText: "Vaqt bo'yicha kirim-chiqimlar va statistikalar", isCorrect: true },
+      { answerText: "Grafik fayllar bilan", isCorrect: false },
+      { answerText: "Hujjat metadata bilan", isCorrect: false },
+      { answerText: "Internet trafik bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ro'yxatlar va ma'lumotnomalar orasidagi farq nima?",
+    answerOptions: [
+      { answerText: "Ro'yxatlar ko'proq ichki tizim ob'ektlari, ma'lumotnomalar referensiya ob'ektlar", isCorrect: true },
+      { answerText: "Ular aynan bir xil", isCorrect: false },
+      { answerText: "Ro'yxatlar faqat hisobotlar uchun", isCorrect: false },
+      { answerText: "Ma'lumotnomalar faqat fayllar uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatni bir nechta registr bo'yicha o'tkazish natijasida nima hosil bo'ladi?",
+    answerOptions: [
+      { answerText: "Registrlar bo'yicha avto yozuvlar", isCorrect: true },
+      { answerText: "Fayl o'chadi", isCorrect: false },
+      { answerText: "Internet so'rovi yaratiladi", isCorrect: false },
+      { answerText: "Grafik hosil bo'ladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Aylanma jamg'arma registrlarining yana bir nomi?",
+    answerOptions: [
+      { answerText: "Qaytariladigan registrlar", isCorrect: true },
+      { answerText: "Statik ma'lumotlar", isCorrect: false },
+      { answerText: "Foydalanuvchi konfiguratsiyasi", isCorrect: false },
+      { answerText: "Grafik kompozitsiyalar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hisobotlarni optimallashtirish nimalarni o'z ichiga oladi?",
+    answerOptions: [
+      { answerText: "Keraksiz elementlarni kamaytirish va ma'lumotni tez chiqarish", isCorrect: true },
+      { answerText: "Rasm o'lchamini oshirish", isCorrect: false },
+      { answerText: "Foydalanuvchi parolini bekor qilish", isCorrect: false },
+      { answerText: "Serverni yopish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xizmat ko'rsatish hujjatini qayta ishlash nimalarni kamaytiradi?",
+    answerOptions: [
+      { answerText: "Ishlash vaqtini va xatoliklarni", isCorrect: true },
+      { answerText: "Fayl hajmini", isCorrect: false },
+      { answerText: "Rasm ranglarini", isCorrect: false },
+      { answerText: "Tarmoq paketlarini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xususiyatlar turlari rejasi hisobi qaysi sohada qo'llaniladi?",
+    answerOptions: [
+      { answerText: "Tovarlar va mahsulotlar kombinatsiyasi", isCorrect: true },
+      { answerText: "Foydalanuvchi interfeysi dizayni", isCorrect: false },
+      { answerText: "Server xavfsizligi", isCorrect: false },
+      { answerText: "Grafik animatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C dasturida axborot bazasini yaratishdan oldin nimalar tekshiriladi?",
+    answerOptions: [
+      { answerText: "Server holati va nomi", isCorrect: true },
+      { answerText: "Fayl hajmi", isCorrect: false },
+      { answerText: "Rasm o'lchami", isCorrect: false },
+      { answerText: "Internet aloqasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotnomalarni tuzishda qaysi mezon muhim?",
+    answerOptions: [
+      { answerText: "Ma'lumotlarning yagona identifikatori dhe", isCorrect: true },
+      { answerText: "Fayl nomi", isCorrect: false },
+      { answerText: "Server IP-manzili", isCorrect: false },
+      { answerText: "Rasm formati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatlar modullarini ko'pincha qayerda ishlatasiz?",
+    answerOptions: [
+      { answerText: "Hisoblash va hujjatni ro'yxatga olishda", isCorrect: true },
+      { answerText: "Grafik tahrirlashda", isCorrect: false },
+      { answerText: "Internet manzilida", isCorrect: false },
+      { answerText: "Fayl tizimida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Nazariy ma'lumotlar hujjatlarda nimalarni o'z ichiga oladi?",
+    answerOptions: [
+      { answerText: "Hisob-kitob formulalar va qoidalar", isCorrect: true },
+      { answerText: "Rasm parametrlari", isCorrect: false },
+      { answerText: "Fayl yo'li", isCorrect: false },
+      { answerText: "Muloqot identifikatori", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jamg'arma registrlari nimani aks ettiradi?",
+    answerOptions: [
+      { answerText: "Moliyaviy holat va operatsion harakatlar", isCorrect: true },
+      { answerText: "Grafik ranglarini", isCorrect: false },
+      { answerText: "Foydalanuvchi sozlamalarini", isCorrect: false },
+      { answerText: "Internet trafikni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oddiy hisobot qachon ishlatiladi?",
+    answerOptions: [
+      { answerText: "Sodda jadval tarzida ma'lumotlarni chiqarishda", isCorrect: true },
+      { answerText: "Rasm chizishda", isCorrect: false },
+      { answerText: "Serverda ma'lumotni eksport qilishda", isCorrect: false },
+      { answerText: "Foydalanuvchini autentifikatsiya qilishda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maketlar 1C da qaysi elementlarga ta'sir qiladi?",
+    answerOptions: [
+      { answerText: "Hujjat yoki hisobot sahifasi ko'rinishi", isCorrect: true },
+      { answerText: "Server yadro konfiguratsiyasi", isCorrect: false },
+      { answerText: "Internet tezligi", isCorrect: false },
+      { answerText: "Fayl ruxsatlari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shakllarni tahrirlash qaysi bosqichda sodir bo'ladi?",
+    answerOptions: [
+      { answerText: "Hisobot yoki hujjatni sozlashda", isCorrect: true },
+      { answerText: "Ma'lumotlar kiritishda", isCorrect: false },
+      { answerText: "Serverni yoqishda", isCorrect: false },
+      { answerText: "Internetga ulanishda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Davriy ma'lumotlar registrlari qanday ma'lumotlar bilan ishlaydi?",
+    answerOptions: [
+      { answerText: "Vaqt bo'yicha kirim-chiqimlar va statistikalar", isCorrect: true },
+      { answerText: "Grafik fayllar bilan", isCorrect: false },
+      { answerText: "Hujjat metadata bilan", isCorrect: false },
+      { answerText: "Internet trafik bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ro'yxatlar va ma'lumotnomalar orasidagi farq nima?",
+    answerOptions: [
+      { answerText: "Ro'yxatlar ko'proq ichki tizim ob'ektlari, ma'lumotnomalar referensiya ob'ektlar", isCorrect: true },
+      { answerText: "Ular aynan bir xil", isCorrect: false },
+      { answerText: "Ro'yxatlar faqat hisobotlar uchun", isCorrect: false },
+      { answerText: "Ma'lumotnomalar faqat fayllar uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hujjatni bir nechta registr bo'yicha o'tkazish natijasida nima hosil bo'ladi?",
+    answerOptions: [
+      { answerText: "Registrlar bo'yicha avto yozuvlar", isCorrect: true },
+      { answerText: "Fayl o'chadi", isCorrect: false },
+      { answerText: "Internet so'rovi yaratiladi", isCorrect: false },
+      { answerText: "Grafik hosil bo'ladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Aylanma jamg'arma registrlarining yana bir nomi?",
+    answerOptions: [
+      { answerText: "Qaytariladigan registrlar", isCorrect: true },
+      { answerText: "Statik ma'lumotlar", isCorrect: false },
+      { answerText: "Foydalanuvchi konfiguratsiyasi", isCorrect: false },
+      { answerText: "Grafik kompozitsiyalar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hisobotlarni optimallashtirish nimalarni o'z ichiga oladi?",
+    answerOptions: [
+      { answerText: "Keraksiz elementlarni kamaytirish va ma'lumotni tez chiqarish", isCorrect: true },
+      { answerText: "Rasm o'lchamini oshirish", isCorrect: false },
+      { answerText: "Foydalanuvchi parolini bekor qilish", isCorrect: false },
+      { answerText: "Serverni yopish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xizmat ko'rsatish hujjatini qayta ishlash nimalarni kamaytiradi?",
+    answerOptions: [
+      { answerText: "Ishlash vaqtini va xatoliklarni", isCorrect: true },
+      { answerText: "Fayl hajmini", isCorrect: false },
+      { answerText: "Rasm ranglarini", isCorrect: false },
+      { answerText: "Tarmoq paketlarini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xususiyatlar turlari rejasi hisobi qaysi sohada qo'llaniladi?",
+    answerOptions: [
+      { answerText: "Tovarlar va mahsulotlar kombinatsiyasi", isCorrect: true },
+      { answerText: "Foydalanuvchi interfeysi dizayni", isCorrect: false },
+      { answerText: "Server xavfsizligi", isCorrect: false },
+      { answerText: "Grafik animatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar qaysi ma'lumotlarni ko'rsatadi?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi nomi va vaqt", isCorrect: true },
+      { answerText: "Faqat hisobotlar", isCorrect: false },
+      { answerText: "Konfiguratsiya sozlamalari", isCorrect: false },
+      { answerText: "Grafik fayllar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da qaysi element ko'rinadi?",
+    answerOptions: [
+      { answerText: "User Name", isCorrect: true },
+      { answerText: "File Menu", isCorrect: false },
+      { answerText: "Configuration Window", isCorrect: false },
+      { answerText: "Report Generator", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ning Status Bar i qayerda joylashgan?",
+    answerOptions: [
+      { answerText: "Quyi panelda", isCorrect: true },
+      { answerText: "Yuqori menyuda", isCorrect: false },
+      { answerText: "Navigatsiya panelida", isCorrect: false },
+      { answerText: "Hisobot oynasida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da Date/Time qanday ko'rsatiladi?",
+    answerOptions: [
+      { answerText: "Joriy sana va vaqt", isCorrect: true },
+      { answerText: "Faqat sana", isCorrect: false },
+      { answerText: "Faqat vaqt", isCorrect: false },
+      { answerText: "Kun tartibi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar ning asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Tizim holatini ko'rsatish", isCorrect: true },
+      { answerText: "Hujjat yaratish", isCorrect: false },
+      { answerText: "Ma'lumot import qilish", isCorrect: false },
+      { answerText: "Grafik tahrirlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da qaysi ma'lumot foydalanuvchi uchun muhim?",
+    answerOptions: [
+      { answerText: "User Name va Date/Time", isCorrect: true },
+      { answerText: "Server IP", isCorrect: false },
+      { answerText: "Fayl hajmi", isCorrect: false },
+      { answerText: "Internet tezligi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ning Status Bar i qaysi operatsiyalarda yordam beradi?",
+    answerOptions: [
+      { answerText: "Tizim monitoringida", isCorrect: true },
+      { answerText: "Dastur yozishda", isCorrect: false },
+      { answerText: "Fayl saqlashda", isCorrect: false },
+      { answerText: "Grafik yaratishda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da Progress Indicator nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Uzun operatsiyalarning holatini ko'rsatish", isCorrect: true },
+      { answerText: "Foydalanuvchi nomini o'zgartirish", isCorrect: false },
+      { answerText: "Vaqtni sozlash", isCorrect: false },
+      { answerText: "Hisobot chiqarish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar ning Progress Indicator i qayerda ko'rinadi?",
+    answerOptions: [
+      { answerText: "Quyi panelda", isCorrect: true },
+      { answerText: "Yuqori panelda", isCorrect: false },
+      { answerText: "O'ng panelda", isCorrect: false },
+      { answerText: "Chap panelda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da qaysi tugma mavjud?",
+    answerOptions: [
+      { answerText: "Ba'zi hollarda yordam tugmasi", isCorrect: true },
+      { answerText: "Saqlash tugmasi", isCorrect: false },
+      { answerText: "O'chirish tugmasi", isCorrect: false },
+      { answerText: "Yangi tugmasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ning Status Bar i qaysi ma'lumotlarni o'z ichiga olmaydi?",
+    answerOptions: [
+      { answerText: "Foydalanuvchi paroli", isCorrect: true },
+      { answerText: "Foydalanuvchi nomi", isCorrect: false },
+      { answerText: "Joriy vaqt", isCorrect: false },
+      { answerText: "Tizim holati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da Database Name qanday ko'rsatiladi?",
+    answerOptions: [
+      { answerText: "Baza nomi sifatida", isCorrect: true },
+      { answerText: "Faqat raqam bilan", isCorrect: false },
+      { answerText: "Grafik bilan", isCorrect: false },
+      { answerText: "Rang bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar ning Database Name elementi nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Qaysi bazada ishlashni aniqlash", isCorrect: true },
+      { answerText: "Fayl nomini o'zgartirish", isCorrect: false },
+      { answerText: "Hisobot yaratish", isCorrect: false },
+      { answerText: "Konfiguratsiya o'zgartirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da Configuration Version qanday ko'rsatiladi?",
+    answerOptions: [
+      { answerText: "Versiya raqami bilan", isCorrect: true },
+      { answerText: "Faqat sana bilan", isCorrect: false },
+      { answerText: "Rasm bilan", isCorrect: false },
+      { answerText: "Tugma bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ning Status Bar i qaysi foydalanuvchilarga ko'rinadi?",
+    answerOptions: [
+      { answerText: "Barcha foydalanuvchilarga", isCorrect: true },
+      { answerText: "Faqat administratorlarga", isCorrect: false },
+      { answerText: "Faqat mehmonlarga", isCorrect: false },
+      { answerText: "Faqat dasturchilarga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da qaysi element tizim xabarlari uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Status Messages", isCorrect: true },
+      { answerText: "File Menu", isCorrect: false },
+      { answerText: "Navigation Panel", isCorrect: false },
+      { answerText: "Report Window", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar ning Status Messages elementi nima ko'rsatadi?",
+    answerOptions: [
+      { answerText: "Tizim xabarlari va ogohlantirishlar", isCorrect: true },
+      { answerText: "Foydalanuvchi ro'yxati", isCorrect: false },
+      { answerText: "Hisobot natijalari", isCorrect: false },
+      { answerText: "Konfiguratsiya o'zgarishlari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da Lock Indicator nima anglatadi?",
+    answerOptions: [
+      { answerText: "Baza qulflanganligini ko'rsatadi", isCorrect: true },
+      { answerText: "Fayl saqlangan", isCorrect: false },
+      { answerText: "Hisobot tugagan", isCorrect: false },
+      { answerText: "Konfiguratsiya yuklangan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ning Status Bar i qaysi rangda bo'lishi mumkin?",
+    answerOptions: [
+      { answerText: "Turli ranglarda, holatga qarab", isCorrect: true },
+      { answerText: "Faqat qizil", isCorrect: false },
+      { answerText: "Faqat yashil", isCorrect: false },
+      { answerText: "Faqat ko'k", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da qaysi ma'lumot konfiguratsiya bilan bog'liq?",
+    answerOptions: [
+      { answerText: "Configuration Version", isCorrect: true },
+      { answerText: "User Password", isCorrect: false },
+      { answerText: "File Size", isCorrect: false },
+      { answerText: "Internet Connection", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar ning Lock Indicator i qachon ko'rinadi?",
+    answerOptions: [
+      { answerText: "Baza qulflangan paytda", isCorrect: true },
+      { answerText: "Har doim", isCorrect: false },
+      { answerText: "Faqat administrator kirganda", isCorrect: false },
+      { answerText: "Hisobot ishga tushganda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da Date/Time elementi qaysi formatda bo'ladi?",
+    answerOptions: [
+      { answerText: "Standart sana/vaqt formatida", isCorrect: true },
+      { answerText: "Faqat raqamlar bilan", isCorrect: false },
+      { answerText: "Harflar bilan", isCorrect: false },
+      { answerText: "Rasm bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C ning Status Bar i qaysi operatsiyalardan keyin o'zgaradi?",
+    answerOptions: [
+      { answerText: "Login va logout dan keyin", isCorrect: true },
+      { answerText: "Fayl ochganda", isCorrect: false },
+      { answerText: "Grafik chizganda", isCorrect: false },
+      { answerText: "Hisobot bosganda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Status Bar da qaysi element foydalanuvchi huquqlarini ko'rsatadi?",
+    answerOptions: [
+      { answerText: "User Name", isCorrect: true },
+      { answerText: "File Path", isCorrect: false },
+      { answerText: "Report Name", isCorrect: false },
+      { answerText: "Configuration Name", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da Status Bar ning asosiy komponentlari qaysilar?",
+    answerOptions: [
+      { answerText: "User Name, Date/Time, Database Name", isCorrect: true },
+      { answerText: "File Menu, Edit Menu", isCorrect: false },
+      { answerText: "Navigation Panel, Work Area", isCorrect: false },
+      { answerText: "Report Window, Print Dialog", isCorrect: false },
+    ],
+  },
+];
+
+
+
