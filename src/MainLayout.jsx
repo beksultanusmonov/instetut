@@ -1,5 +1,4 @@
 import React from "react";
-import Quiz from "./Quiz";
 import { Link, Outlet } from "react-router-dom";
 
 function MainLayout() {

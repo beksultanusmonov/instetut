@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, useSearchParams } from 'react-router-dom';
-import { bazaQuiz, enterpriseQuiz, quizQuestions, quizTarmoq } from './data/quizQuestions';
+import { bazaQuiz, enterpriseQuiz, kiberXavfsizlikQuiz, quizQuestions, quizTarmoq } from './data/quizQuestions';
 import { useQuiz } from './QuizContext';
 
 function QuestionPage() {
@@ -31,6 +31,9 @@ function QuestionPage() {
         break;
       case 'enterprise':
         data = enterpriseQuiz;
+        break;
+      case 'kiberxavfsizlik':
+        data = kiberXavfsizlikQuiz;
         break;
       default:
         navigate('/');
