@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, useSearchParams } from 'react-router-dom';
-import { bazaQuiz, enterpriseQuiz, kiberXavfsizlikQuiz, quizQuestions, quizTarmoq } from './data/quizQuestions';
+import { bazaQuiz, enterpriseQuiz, kiberXavfsizlikQuiz, quizQuestions, quizTarmoq, suniyIntelektQuiz } from './data/quizQuestions';
 import { useQuiz } from './QuizContext';
 
 function QuestionPage() {
@@ -34,6 +34,9 @@ function QuestionPage() {
         break;
       case 'kiberxavfsizlik':
         data = kiberXavfsizlikQuiz;
+        break;
+      case 'suniyintelekt':
+        data = suniyIntelektQuiz;
         break;
       default:
         navigate('/');
@@ -105,7 +108,7 @@ function QuestionPage() {
     <div className="min-h-screen bg-linear-to-br from-slate-50 to-blue-50 py-8">
       <div className="max-w-2xl mx-auto px-4">
         {/* Header */}
-        <div className="bg-white rounded-2xl shadow-lg p-6 mb-8">
+        <div className="sticky top-0 z-50 bg-white rounded-2xl shadow-lg p-6 mb-8">
           <div className="flex items-center justify-between mb-4">
             <button 
               onClick={goToList}

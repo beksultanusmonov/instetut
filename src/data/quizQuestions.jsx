@@ -4232,15 +4232,15 @@ export const enterpriseQuiz = [
     answerOptions: [
       { answerText: "Moliya hisobi tizimi", isCorrect: false },
       { answerText: "Buxgalteriya va boshqaruv dasturi", isCorrect: true },
-      { answerText: "Grafik dizayn dasturi", isCorrect: false },
       { answerText: "Veb-brauzer", isCorrect: false },
+      { answerText: "Grafik dizayn dasturi", isCorrect: false },
     ],
   },
   {
     questionText: "1C Enterprise ning asosiy foydasi nima?",
     answerOptions: [
-      { answerText: "Rasm chizish", isCorrect: false },
       { answerText: "Hisob-kitoblarni avtomatlashtirish", isCorrect: true },
+      { answerText: "Rasm chizish", isCorrect: false },
       { answerText: "Fayllarni saqlash", isCorrect: false },
       { answerText: "Dastur yozish", isCorrect: false },
     ],
@@ -4248,296 +4248,296 @@ export const enterpriseQuiz = [
   {
     questionText: "1C Enterprise dasturi qaysi sohalarda ishlatiladi?",
     answerOptions: [
-      { answerText: "Sanoat mashinasozlikda", isCorrect: false },
       { answerText: "Buxgalteriya, savdo va ombor boshqaruvida", isCorrect: true },
-      { answerText: "O'yin ishlab chiqishda", isCorrect: false },
+      { answerText: "Sanoat mashinasozlikda", isCorrect: false },
       { answerText: "Internet brauzerda", isCorrect: false },
+      { answerText: "O'yin ishlab chiqishda", isCorrect: false },
     ],
   },
   {
     questionText: "1C Enterprise tizimida axborot bazasi nima?",
     answerOptions: [
-      { answerText: "Foydalanuvchi interfeysi", isCorrect: false },
+      { answerText: "Brauzer oynasi", isCorrect: false },
       { answerText: "Ma'lumotlar to'plami va tadbirlar majmuasi", isCorrect: true },
       { answerText: "Grafik fayl", isCorrect: false },
-      { answerText: "Brauzer oynasi", isCorrect: false },
+      { answerText: "Foydalanuvchi interfeysi", isCorrect: false },
     ],
   },
   {
     questionText: "1C Enterprise da ma'lumotlar bazasi qayerda saqlanadi?",
     answerOptions: [
-      { answerText: "Microsoft Word faylida", isCorrect: false },
       { answerText: "Serverda yoki fayl rejimida", isCorrect: true },
-      { answerText: "Rasm faylida", isCorrect: false },
       { answerText: "Brauzer keshida", isCorrect: false },
+      { answerText: "Rasm faylida", isCorrect: false },
+      { answerText: "Microsoft Word faylida", isCorrect: false },
     ],
   },
   {
     questionText: "1C Enterprise da ma'lumotnoma nima?",
     answerOptions: [
-      { answerText: "Buxgalteriya hisobi", isCorrect: false },
       { answerText: "Standart to'plamdagi referensiya ma'lumot", isCorrect: true },
-      { answerText: "Fayl formati", isCorrect: false },
+      { answerText: "Buxgalteriya hisobi", isCorrect: false },
       { answerText: "Internet xizmati", isCorrect: false },
+      { answerText: "Fayl formati", isCorrect: false },
     ],
   },
   {
     questionText: "Hujjatlar 1C da nima uchun ishlatiladi?",
     answerOptions: [
-      { answerText: "Tizim sozlamalarini saqlash uchun", isCorrect: false },
+      { answerText: "Foydalanuvchi interfeysini yaratish uchun", isCorrect: false },
       { answerText: "Ish jarayonlarini va operatsiyalarni qayd etish uchun", isCorrect: true },
       { answerText: "Grafik ishlash uchun", isCorrect: false },
-      { answerText: "Foydalanuvchi interfeysini yaratish uchun", isCorrect: false },
+      { answerText: "Tizim sozlamalarini saqlash uchun", isCorrect: false },
     ],
   },
   {
     questionText: "1C da jamg'arma registri nimalarga xizmat qiladi?",
     answerOptions: [
+      { answerText: "Rasm chizish uchun", isCorrect: false },
       { answerText: "Foydalanuvchi hisobi uchun", isCorrect: false },
       { answerText: "Zaxira nusxasini yaratish uchun", isCorrect: false },
       { answerText: "Moliyaviy hisob va resurslarni hisoblashi uchun", isCorrect: true },
-      { answerText: "Rasm chizish uchun", isCorrect: false },
     ],
   },
   {
     questionText: "1C da oddiy hisobot nima?",
     answerOptions: [
+      { answerText: "Internet sahifasi", isCorrect: false },
+      { answerText: "Foydalanuvchi sozlamasi", isCorrect: false },
       { answerText: "Grafik chizmada ko'rsatiladigan ma'lumot", isCorrect: false },
       { answerText: "Oldindan belgilangan ma'lumotni chiqaruvchi hisobot", isCorrect: true },
-      { answerText: "Foydalanuvchi sozlamasi", isCorrect: false },
-      { answerText: "Internet sahifasi", isCorrect: false },
     ],
   },
   {
     questionText: "1C da maket nima?",
     answerOptions: [
+      { answerText: "Ma'lumotlar bazasi turi", isCorrect: false },
       { answerText: "Hujjatning vizual ko'rinishi va strukturasini belgilovchi shablon", isCorrect: true },
       { answerText: "Qurilmalar ro'yxati", isCorrect: false },
-      { answerText: "Ma'lumotlar bazasi turi", isCorrect: false },
       { answerText: "Hisobot turi", isCorrect: false },
     ],
   },
   {
     questionText: "1C da shakillarni tahrirlash nima bilan bog'liq?",
     answerOptions: [
-      { answerText: "Foydalanuvchi rejimini sozlash", isCorrect: false },
       { answerText: "Hujjat yoki hisobot maketini o'zgartirish", isCorrect: true },
-      { answerText: "Ma'lumot bazasini yaratish", isCorrect: false },
       { answerText: "Registrni tozalash", isCorrect: false },
+      { answerText: "Ma'lumot bazasini yaratish", isCorrect: false },
+      { answerText: "Foydalanuvchi rejimini sozlash", isCorrect: false },
     ],
   },
   {
     questionText: "Davriy ma'lumotlar registri qaysi maqsadga xizmat qiladi?",
     answerOptions: [
-      { answerText: "Matn faylini saqlash", isCorrect: false },
-      { answerText: "Vaqt bo'yicha qiymatlarni saqlash", isCorrect: true },
-      { answerText: "Grafik yaratish", isCorrect: false },
       { answerText: "Foydalanuvchi parolini o'zgartirish", isCorrect: false },
+      { answerText: "Vaqt bo'yicha qiymatlarni saqlash", isCorrect: true },
+      { answerText: "Matn faylini saqlash", isCorrect: false },
+      { answerText: "Grafik yaratish", isCorrect: false },
     ],
   },
   {
     questionText: "Ro'yxatlar 1C da nimani ifodalaydi?",
     answerOptions: [
-      { answerText: "Hujjatlar ro'yxatini", isCorrect: false },
+      { answerText: "Maketlarni", isCorrect: false },
       { answerText: "Tovarlar, xizmatlar, xodimlar kabi ichki ma'lumotlar to'plamini", isCorrect: true },
       { answerText: "Hisobot turi", isCorrect: false },
-      { answerText: "Maketlarni", isCorrect: false },
+      { answerText: "Hujjatlar ro'yxatini", isCorrect: false },
     ],
   },
   {
     questionText: "Hujjatni bir nechta registr bo'yicha o'tkazish nimani anglatadi?",
     answerOptions: [
-      { answerText: "Hujjatni bir vaqtda bir nechta foydalanuvchiga yuborish", isCorrect: false },
-      { answerText: "Hujjat asosida bir nechta registrlar bo'yicha yozuvlar hosil qilish", isCorrect: true },
       { answerText: "Hujjatni ko'chirish", isCorrect: false },
       { answerText: "Hujjatni o'chirish", isCorrect: false },
+      { answerText: "Hujjat asosida bir nechta registrlar bo'yicha yozuvlar hosil qilish", isCorrect: true },
+      { answerText: "Hujjatni bir vaqtda bir nechta foydalanuvchiga yuborish", isCorrect: false },
     ],
   },
   {
     questionText: "Aylanma jamg'arma registrlari nimalarga mos keladi?",
     answerOptions: [
       { answerText: "Foydalanuvchi interfeysi komponentlariga", isCorrect: false },
-      { answerText: "Resurslar aylanishi va zaxira hisobini", isCorrect: true },
-      { answerText: "Grafik fayllarga", isCorrect: false },
       { answerText: "Hisobotlarni saqlashga", isCorrect: false },
+      { answerText: "Grafik fayllarga", isCorrect: false },
+      { answerText: "Resurslar aylanishi va zaxira hisobini", isCorrect: true },
     ],
   },
   {
     questionText: "Hisobotlar 1C da qanday ishlaydi?",
     answerOptions: [
       { answerText: "Ma'lumotlarni tahlil qilish va chiqarish uchun", isCorrect: true },
-      { answerText: "Fayllarni kompress qilish uchun", isCorrect: false },
-      { answerText: "Dastur kodini tuzish uchun", isCorrect: false },
       { answerText: "Internetni tekshirish uchun", isCorrect: false },
+      { answerText: "Dastur kodini tuzish uchun", isCorrect: false },
+      { answerText: "Fayllarni kompress qilish uchun", isCorrect: false },
     ],
   },
   {
     questionText: "1C da Xizmat ko'rsatish hujjati nimani anglatadi?",
     answerOptions: [
+      { answerText: "Hisobot yaratish", isCorrect: false },
+      { answerText: "Foydalanuvchi ichki xatoni", isCorrect: false },
       { answerText: "Avtomobil ta'mirlash servisining hujjati", isCorrect: false },
       { answerText: "Servis xizmatlari va xizmat ko'rsatish ishlarini yuklash uchun hujjat", isCorrect: true },
-      { answerText: "Foydalanuvchi ichki xatoni", isCorrect: false },
-      { answerText: "Hisobot yaratish", isCorrect: false },
     ],
   },
   {
     questionText: "1C da Xizmat ko'rsatish hujjatini optimallashtirish nima?",
     answerOptions: [
-      { answerText: "Yuklamalarni kamaytirish va tez ishlash uchun hujjat oqimini soddalashtirish", isCorrect: true },
       { answerText: "Hujjatni o'chirish", isCorrect: false },
-      { answerText: "Grafik maketini o'zgartirish", isCorrect: false },
       { answerText: "Ma'lumotlarni siqish", isCorrect: false },
+      { answerText: "Grafik maketini o'zgartirish", isCorrect: false },
+      { answerText: "Yuklamalarni kamaytirish va tez ishlash uchun hujjat oqimini soddalashtirish", isCorrect: true },
     ],
   },
   {
     questionText: "Xususiyatlar turlari rejasi hisobi 1C da nimalarni ifodalaydi?",
     answerOptions: [
+      { answerText: "Hisobot shablonini", isCorrect: false },
+      { answerText: "Server sozlamalarini saqlash", isCorrect: false },
       { answerText: "Mahsulot xususiyatlarini hisoblash va variantlarni boshqarish", isCorrect: true },
       { answerText: "Foydalanuvchi huquqlarini ro'yxatga olish", isCorrect: false },
-      { answerText: "Server sozlamalarini saqlash", isCorrect: false },
-      { answerText: "Hisobot shablonini", isCorrect: false },
     ],
   },
   {
     questionText: "1C Enterprise da Axborot bazasini yaratish bosqichlari qaysilar?",
     answerOptions: [
       { answerText: "Yangi baza yaratish, struktura belgilash, ma'lumotlarni import qilish", isCorrect: true },
-      { answerText: "Faylni ochish, chizma chizish, eksport qilish", isCorrect: false },
       { answerText: "Maket yaratish, himoyalash, chop etish", isCorrect: false },
+      { answerText: "Faylni ochish, chizma chizish, eksport qilish", isCorrect: false },
       { answerText: "Test yozish, kompilyatsiya, tarqatish", isCorrect: false },
     ],
   },
   {
     questionText: "1C ma'lumotlarni qaysi turdagi obyekt sifatida tashkil qiladi?",
     answerOptions: [
-      { answerText: "Massiv", isCorrect: false },
       { answerText: "Registr, hujjat, ma'lumotnoma", isCorrect: true },
-      { answerText: "Matn stringi", isCorrect: false },
       { answerText: "Rasm obyekti", isCorrect: false },
+      { answerText: "Matn stringi", isCorrect: false },
+      { answerText: "Massiv", isCorrect: false },
     ],
   },
   {
     questionText: "Ma'lumotnoma sifatida nimani ishlatish mumkin?",
     answerOptions: [
-      { answerText: "Tovarlar, mijozlar, kassalar", isCorrect: true },
-      { answerText: "Fayl manzili", isCorrect: false },
       { answerText: "Server xotirasi", isCorrect: false },
       { answerText: "Noaniq yozuv", isCorrect: false },
+      { answerText: "Tovarlar, mijozlar, kassalar", isCorrect: true },
+      { answerText: "Fayl manzili", isCorrect: false },
     ],
   },
   {
     questionText: "Hujjatlar qaysi elementlardan tashkil topadi?",
     answerOptions: [
-      { answerText: "Sarlavha, satrlar, imzo", isCorrect: true },
-      { answerText: "Ro'yxat, tasvir, fayl", isCorrect: false },
       { answerText: "Atributlar, o'lcham, rang", isCorrect: false },
+      { answerText: "Ro'yxat, tasvir, fayl", isCorrect: false },
       { answerText: "Foydalanuvchi, parol, login", isCorrect: false },
+      { answerText: "Sarlavha, satrlar, imzo", isCorrect: true },
     ],
   },
   {
     questionText: "1C da Nazariy ma'lumotlar nimani anglatadi?",
     answerOptions: [
-      { answerText: "Foydalanuvchi huquqlari", isCorrect: false },
-      { answerText: "Mantiqiy qoidalar va tushunchalar bo'yicha ma'lumot", isCorrect: true },
-      { answerText: "Grafik elementlar", isCorrect: false },
       { answerText: "Internet sozlamalari", isCorrect: false },
+      { answerText: "Grafik elementlar", isCorrect: false },
+      { answerText: "Mantiqiy qoidalar va tushunchalar bo'yicha ma'lumot", isCorrect: true },
+      { answerText: "Foydalanuvchi huquqlari", isCorrect: false },
     ],
   },
   {
     questionText: "Jamg'arma registrlarida qaysi ish bajariladi?",
     answerOptions: [
-      { answerText: "Moliyaviy resurslar va miqdorlarni hisoblash", isCorrect: true },
       { answerText: "Kichik grafika yaratish", isCorrect: false },
       { answerText: "Faylni zaxiralash", isCorrect: false },
+      { answerText: "Moliyaviy resurslar va miqdorlarni hisoblash", isCorrect: true },
       { answerText: "Internet so'rovlarini yuborish", isCorrect: false },
     ],
   },
   {
     questionText: "Oddiy hisobotda qanday ma'lumotlar ko'rsatiladi?",
     answerOptions: [
-      { answerText: "Strukturaviy va statistik ma'lumotlar", isCorrect: true },
-      { answerText: "Fayl ma'lumotlari", isCorrect: false },
-      { answerText: "Rasm pikseli", isCorrect: false },
       { answerText: "Hujjat metadata", isCorrect: false },
+      { answerText: "Fayl ma'lumotlari", isCorrect: false },
+      { answerText: "Strukturaviy va statistik ma'lumotlar", isCorrect: true },
+      { answerText: "Rasm pikseli", isCorrect: false },
     ],
   },
   {
     questionText: "Maketlar 1C da nimani belgilaydi?",
     answerOptions: [
-      { answerText: "Hujjat va hisobot ko'rinishini", isCorrect: true },
-      { answerText: "Tizim foydalanuvchisini", isCorrect: false },
       { answerText: "Server manzilini", isCorrect: false },
       { answerText: "Internet linkini", isCorrect: false },
+      { answerText: "Hujjat va hisobot ko'rinishini", isCorrect: true },
+      { answerText: "Tizim foydalanuvchisini", isCorrect: false },
     ],
   },
   {
     questionText: "Shakillarni tahrirlash qachon kerak bo'ladi?",
     answerOptions: [
-      { answerText: "Hisobot ko'rinishini moslashtirishda", isCorrect: true },
       { answerText: "Ma'lumotlar bazasini ishlatishda", isCorrect: false },
-      { answerText: "Foydalanuvchi loginini o'zgartirishda", isCorrect: false },
       { answerText: "Serverni ishga tushirishda", isCorrect: false },
+      { answerText: "Foydalanuvchi loginini o'zgartirishda", isCorrect: false },
+      { answerText: "Hisobot ko'rinishini moslashtirishda", isCorrect: true },
     ],
   },
   {
     questionText: "Davriy ma'lumotlar registri eng ko'p qaysi ma'lumotlar uchun ishlatiladi?",
     answerOptions: [
+      { answerText: "Parol saqlash", isCorrect: false },
       { answerText: "Inventarizatsiya, narx o'zgarishlari, holatlar bo'yicha", isCorrect: true },
       { answerText: "Rasm fayllar", isCorrect: false },
-      { answerText: "Parol saqlash", isCorrect: false },
       { answerText: "Brauzer tarix", isCorrect: false },
     ],
   },
   {
     questionText: "Ro'yxatlar uchun to'g'ri ta'rifni tanlang.",
     answerOptions: [
-      { answerText: "Cheksiz matn bloklari", isCorrect: false },
       { answerText: "Tizimga oid ob'ektlar to'plami", isCorrect: true },
       { answerText: "Hujjatga bog'liq fayl", isCorrect: false },
+      { answerText: "Cheksiz matn bloklari", isCorrect: false },
       { answerText: "Xabar uzatish protokoli", isCorrect: false },
     ],
   },
   {
     questionText: "Hujjatni registr bo'yicha o'tkazish qanday natija beradi?",
     answerOptions: [
+      { answerText: "Fayl o'chadi", isCorrect: false },
       { answerText: "Hujjatga yangi yozuvlar keladi", isCorrect: true },
       { answerText: "Hujjat yo'qoladi", isCorrect: false },
-      { answerText: "Fayl o'chadi", isCorrect: false },
       { answerText: "Server restart bo'ladi", isCorrect: false },
     ],
   },
   {
     questionText: "Aylanma jamg'arma registrlari asosida nima hisoblanadi?",
     answerOptions: [
-      { answerText: "Soddalashtirilgan tovar aylanishi", isCorrect: true },
-      { answerText: "Og'irlik rejimi", isCorrect: false },
       { answerText: "Grafik piksellar", isCorrect: false },
       { answerText: "Fayl formatlari", isCorrect: false },
+      { answerText: "Soddalashtirilgan tovar aylanishi", isCorrect: true },
+      { answerText: "Og'irlik rejimi", isCorrect: false },
     ],
   },
   {
     questionText: "Hisobotlarning asosiy vazifasi nima?",
     answerOptions: [
+      { answerText: "Serverga kirish", isCorrect: false },
       { answerText: "Foydalanuvchi parolini saqlash", isCorrect: false },
       { answerText: "Ma'lumotlar tahlili va chiqarilishi", isCorrect: true },
       { answerText: "Maket yaratish", isCorrect: false },
-      { answerText: "Serverga kirish", isCorrect: false },
     ],
   },
   {
     questionText: "Xizmat ko'rsatish hujjati qaysi jarayonni belgilaydi?",
     answerOptions: [
-      { answerText: "Marketing kampaniyasini", isCorrect: false },
-      { answerText: "Xizmat ishlari va kafolatni", isCorrect: true },
       { answerText: "Tizim xavfsizligini", isCorrect: false },
       { answerText: "Ma'lumotlarni zaxiralashni", isCorrect: false },
+      { answerText: "Xizmat ishlari va kafolatni", isCorrect: true },
+      { answerText: "Marketing kampaniyasini", isCorrect: false },
     ],
   },
   {
     questionText: "Optimallashtirish nima uchun muhim?",
     answerOptions: [
-      { answerText: "Fayl hajmini oshirish uchun", isCorrect: false },
       { answerText: "Ish jarayonini tezlashtirish va xatoliklarni kamaytirish uchun", isCorrect: true },
+      { answerText: "Fayl hajmini oshirish uchun", isCorrect: false },
       { answerText: "Grafik hajmini oshirish uchun", isCorrect: false },
       { answerText: "Foydalanuvchi izohlarini ko'paytirish uchun", isCorrect: false },
     ],
@@ -4545,17 +4545,17 @@ export const enterpriseQuiz = [
   {
     questionText: "Xususiyatlar turlari rejasi hisobi qaysi tizimda bo'ladi?",
     answerOptions: [
-      { answerText: "Hisob-kitob bo'limlarida", isCorrect: false },
-      { answerText: "Mahsulot variantlari rejalashtirilgan ma'lumotlarda", isCorrect: true },
       { answerText: "Tizim fayl konfiguratsiyasida", isCorrect: false },
+      { answerText: "Mahsulot variantlari rejalashtirilgan ma'lumotlarda", isCorrect: true },
+      { answerText: "Hisob-kitob bo'limlarida", isCorrect: false },
       { answerText: "Brauzer xabarnomasida", isCorrect: false },
     ],
   },
   {
     questionText: "1C'da Axborot bazasi yaratishda qaysi element muhim?",
     answerOptions: [
-      { answerText: "Qurilmalar drayveri", isCorrect: false },
       { answerText: "Struktura va shablon", isCorrect: true },
+      { answerText: "Qurilmalar drayveri", isCorrect: false },
       { answerText: "Rasm chizish", isCorrect: false },
       { answerText: "Brauzer tuzilishi", isCorrect: false },
     ],
@@ -4563,342 +4563,171 @@ export const enterpriseQuiz = [
   {
     questionText: "Ma'lumotnomalar qaysi maqsadga xizmat qiladi?",
     answerOptions: [
-      { answerText: "Tizim sozlamalarini saqlash", isCorrect: false },
-      { answerText: "Standart ma'lumotlarni boshqarish va tanlash", isCorrect: true },
       { answerText: "Grafik yaratish", isCorrect: false },
+      { answerText: "Tizim sozlamalarini saqlash", isCorrect: false },
       { answerText: "Hujjat import qilish", isCorrect: false },
+      { answerText: "Standart ma'lumotlarni boshqarish va tanlash", isCorrect: true },
     ],
   },
   {
     questionText: "Hujjatlar qaysi turi 1C da mavjud?",
     answerOptions: [
       { answerText: "Rezident va norezident", isCorrect: false },
-      { answerText: "Dastur, raport, yangilik", isCorrect: false },
       { answerText: "Hisob, tovar, xizmat", isCorrect: true },
+      { answerText: "Dastur, raport, yangilik", isCorrect: false },
       { answerText: "Qisqa, o'rta, uzoq", isCorrect: false },
     ],
   },
   {
     questionText: "Nazariy ma'lumotlar 1C da nimani anglatadi?",
     answerOptions: [
+      { answerText: "Tizim so'rovi", isCorrect: false },
       { answerText: "Ish jarayonining matematik modeli", isCorrect: true },
       { answerText: "Mijoz fikri", isCorrect: false },
       { answerText: "Server holati", isCorrect: false },
-      { answerText: "Tizim so'rovi", isCorrect: false },
     ],
   },
   {
     questionText: "Jamg'arma registrini tanlang.",
     answerOptions: [
       { answerText: "Hisob-kitobning saqlanishi", isCorrect: false },
-      { answerText: "Moliyaviy resurslar va ularning harakati", isCorrect: true },
       { answerText: "Fayl zaxirasi", isCorrect: false },
+      { answerText: "Moliyaviy resurslar va ularning harakati", isCorrect: true },
       { answerText: "Tizim zahirasi", isCorrect: false },
     ],
   },
   {
     questionText: "Oddiy hisobot qanday ko'rsatiladi?",
     answerOptions: [
-      { answerText: "Hujjat matni sifatida", isCorrect: false },
-      { answerText: "Jadval va to'plam tarzida", isCorrect: true },
-      { answerText: "Portfel diagrammasi", isCorrect: false },
       { answerText: "E-mail xabarnoma", isCorrect: false },
+      { answerText: "Portfel diagrammasi", isCorrect: false },
+      { answerText: "Jadval va to'plam tarzida", isCorrect: true },
+      { answerText: "Hujjat matni sifatida", isCorrect: false },
     ],
   },
   {
     questionText: "Maketlarni tahrirlashda nima o'zgartiriladi?",
     answerOptions: [
-      { answerText: "Ma'lumotlar bazasi jadvalini", isCorrect: false },
       { answerText: "Hujjat yoki hisobot ko'rinishi va standart bloki", isCorrect: true },
-      { answerText: "Foydalanuvchi autentifikatsiyasini", isCorrect: false },
       { answerText: "Serverni qayta ishga tushirishni", isCorrect: false },
+      { answerText: "Foydalanuvchi autentifikatsiyasini", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi jadvalini", isCorrect: false },
     ],
   },
   {
     questionText: "Davriy ma'lumotlar registri nimani saqlaydi?",
     answerOptions: [
       { answerText: "Fayllarni", isCorrect: false },
-      { answerText: "Vaqt bo'yicha o'zgaradigan ma'lumotlarni", isCorrect: true },
-      { answerText: "Grafik parametrlarini", isCorrect: false },
       { answerText: "Parol tarixi", isCorrect: false },
+      { answerText: "Grafik parametrlarini", isCorrect: false },
+      { answerText: "Vaqt bo'yicha o'zgaradigan ma'lumotlarni", isCorrect: true },
     ],
   },
   {
     questionText: "Ro'yxatlar nima uchun mos keladi?",
     answerOptions: [
-      { answerText: "Grafik tahrirlash uchun", isCorrect: false },
-      { answerText: "Modeldagi kriteriyalar ro'yxatini saqlash uchun", isCorrect: true },
       { answerText: "Internet so'rovlarini bajarish uchun", isCorrect: false },
+      { answerText: "Modeldagi kriteriyalar ro'yxatini saqlash uchun", isCorrect: true },
       { answerText: "Faylni bosib chiqarish uchun", isCorrect: false },
+      { answerText: "Grafik tahrirlash uchun", isCorrect: false },
     ],
   },
   {
     questionText: "Hujjatni registrlar bo'yicha o'tkazish qachon kerak?",
     answerOptions: [
-      { answerText: "Yangi hisobot yaratishda", isCorrect: false },
       { answerText: "Operatsion yozuvlar hosil qilishda", isCorrect: true },
       { answerText: "Fayl eksportida", isCorrect: false },
+      { answerText: "Yangi hisobot yaratishda", isCorrect: false },
       { answerText: "Tizimni yangilashda", isCorrect: false },
     ],
   },
   {
     questionText: "Aylanma jamg'arma registrlari qaysi yo'nalishda ishlaydi?",
     answerOptions: [
-      { answerText: "Statik hisobot uchun", isCorrect: false },
-      { answerText: "Aylanish va qayta hisob uchun", isCorrect: true },
       { answerText: "Grafik interaktivlik uchun", isCorrect: false },
+      { answerText: "Aylanish va qayta hisob uchun", isCorrect: true },
       { answerText: "Server xavfsizligi uchun", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Hisobotlarning asosiy vazifasi nima?",
-    answerOptions: [
-      { answerText: "Foydalanuvchi parolini saqlash", isCorrect: false },
-      { answerText: "Ma'lumotlar tahlili va chiqarilishi", isCorrect: true },
-      { answerText: "Maket yaratish", isCorrect: false },
-      { answerText: "Serverga kirish", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Xizmat ko'rsatish hujjati qaysi jarayonni belgilaydi?",
-    answerOptions: [
-      { answerText: "Marketing kampaniyasini", isCorrect: false },
-      { answerText: "Xizmat ishlari va kafolatni", isCorrect: true },
-      { answerText: "Tizim xavfsizligini", isCorrect: false },
-      { answerText: "Ma'lumotlarni zaxiralashni", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Optimallashtirish nima uchun muhim?",
-    answerOptions: [
-      { answerText: "Fayl hajmini oshirish uchun", isCorrect: false },
-      { answerText: "Ish jarayonini tezlashtirish va xatoliklarni kamaytirish uchun", isCorrect: true },
-      { answerText: "Grafik hajmini oshirish uchun", isCorrect: false },
-      { answerText: "Foydalanuvchi izohlarini ko'paytirish uchun", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Xususiyatlar turlari rejasi hisobi qaysi tizimda bo'ladi?",
-    answerOptions: [
-      { answerText: "Hisob-kitob bo'limlarida", isCorrect: false },
-      { answerText: "Mahsulot variantlari rejalashtirilgan ma'lumotlarda", isCorrect: true },
-      { answerText: "Tizim fayl konfiguratsiyasida", isCorrect: false },
-      { answerText: "Brauzer xabarnomasida", isCorrect: false },
+      { answerText: "Statik hisobot uchun", isCorrect: false },
     ],
   },
   {
     questionText: "Maketlar 1C da qaysi elementlarga ta'sir qiladi?",
     answerOptions: [
-      { answerText: "Hujjat yoki hisobot sahifasi ko'rinishi", isCorrect: true },
       { answerText: "Server yadro konfiguratsiyasi", isCorrect: false },
       { answerText: "Internet tezligi", isCorrect: false },
       { answerText: "Fayl ruxsatlari", isCorrect: false },
+      { answerText: "Hujjat yoki hisobot sahifasi ko'rinishi", isCorrect: true },
     ],
   },
   {
     questionText: "Shakllarni tahrirlash qaysi bosqichda sodir bo'ladi?",
     answerOptions: [
-      { answerText: "Hisobot yoki hujjatni sozlashda", isCorrect: true },
-      { answerText: "Ma'lumotlar kiritishda", isCorrect: false },
-      { answerText: "Serverni yoqishda", isCorrect: false },
       { answerText: "Internetga ulanishda", isCorrect: false },
+      { answerText: "Hisobot yoki hujjatni sozlashda", isCorrect: true },
+      { answerText: "Serverni yoqishda", isCorrect: false },
+      { answerText: "Ma'lumotlar kiritishda", isCorrect: false },
     ],
   },
   {
     questionText: "Davriy ma'lumotlar registrlari qanday ma'lumotlar bilan ishlaydi?",
     answerOptions: [
-      { answerText: "Vaqt bo'yicha kirim-chiqimlar va statistikalar", isCorrect: true },
-      { answerText: "Grafik fayllar bilan", isCorrect: false },
-      { answerText: "Hujjat metadata bilan", isCorrect: false },
       { answerText: "Internet trafik bilan", isCorrect: false },
+      { answerText: "Vaqt bo'yicha kirim-chiqimlar va statistikalar", isCorrect: true },
+      { answerText: "Hujjat metadata bilan", isCorrect: false },
+      { answerText: "Grafik fayllar bilan", isCorrect: false },
     ],
   },
   {
     questionText: "Ro'yxatlar va ma'lumotnomalar orasidagi farq nima?",
     answerOptions: [
-      { answerText: "Ro'yxatlar ko'proq ichki tizim ob'ektlari, ma'lumotnomalar referensiya ob'ektlar", isCorrect: true },
-      { answerText: "Ular aynan bir xil", isCorrect: false },
       { answerText: "Ro'yxatlar faqat hisobotlar uchun", isCorrect: false },
+      { answerText: "Ro'yxatlar ko'proq ichki tizim ob'ektlari, ma'lumotnomalar referensiya ob'ektlar", isCorrect: true },
       { answerText: "Ma'lumotnomalar faqat fayllar uchun", isCorrect: false },
+      { answerText: "Ular aynan bir xil", isCorrect: false },
     ],
   },
   {
     questionText: "Hujjatni bir nechta registr bo'yicha o'tkazish natijasida nima hosil bo'ladi?",
     answerOptions: [
-      { answerText: "Registrlar bo'yicha avto yozuvlar", isCorrect: true },
-      { answerText: "Fayl o'chadi", isCorrect: false },
       { answerText: "Internet so'rovi yaratiladi", isCorrect: false },
+      { answerText: "Fayl o'chadi", isCorrect: false },
+      { answerText: "Registrlar bo'yicha avto yozuvlar", isCorrect: true },
       { answerText: "Grafik hosil bo'ladi", isCorrect: false },
     ],
   },
   {
     questionText: "Aylanma jamg'arma registrlarining yana bir nomi?",
     answerOptions: [
-      { answerText: "Qaytariladigan registrlar", isCorrect: true },
-      { answerText: "Statik ma'lumotlar", isCorrect: false },
       { answerText: "Foydalanuvchi konfiguratsiyasi", isCorrect: false },
+      { answerText: "Qaytariladigan registrlar", isCorrect: true },
       { answerText: "Grafik kompozitsiyalar", isCorrect: false },
+      { answerText: "Statik ma'lumotlar", isCorrect: false },
     ],
   },
   {
     questionText: "Hisobotlarni optimallashtirish nimalarni o'z ichiga oladi?",
     answerOptions: [
       { answerText: "Keraksiz elementlarni kamaytirish va ma'lumotni tez chiqarish", isCorrect: true },
+      { answerText: "Serverni yopish", isCorrect: false },
       { answerText: "Rasm o'lchamini oshirish", isCorrect: false },
       { answerText: "Foydalanuvchi parolini bekor qilish", isCorrect: false },
-      { answerText: "Serverni yopish", isCorrect: false },
     ],
   },
   {
     questionText: "Xizmat ko'rsatish hujjatini qayta ishlash nimalarni kamaytiradi?",
     answerOptions: [
       { answerText: "Ishlash vaqtini va xatoliklarni", isCorrect: true },
+      { answerText: "Tarmoq paketlarini", isCorrect: false },
       { answerText: "Fayl hajmini", isCorrect: false },
       { answerText: "Rasm ranglarini", isCorrect: false },
-      { answerText: "Tarmoq paketlarini", isCorrect: false },
     ],
   },
   {
     questionText: "Xususiyatlar turlari rejasi hisobi qaysi sohada qo'llaniladi?",
     answerOptions: [
-      { answerText: "Tovarlar va mahsulotlar kombinatsiyasi", isCorrect: true },
       { answerText: "Foydalanuvchi interfeysi dizayni", isCorrect: false },
       { answerText: "Server xavfsizligi", isCorrect: false },
-      { answerText: "Grafik animatsiya", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "1C dasturida axborot bazasini yaratishdan oldin nimalar tekshiriladi?",
-    answerOptions: [
-      { answerText: "Server holati va nomi", isCorrect: true },
-      { answerText: "Fayl hajmi", isCorrect: false },
-      { answerText: "Rasm o'lchami", isCorrect: false },
-      { answerText: "Internet aloqasi", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Ma'lumotnomalarni tuzishda qaysi mezon muhim?",
-    answerOptions: [
-      { answerText: "Ma'lumotlarning yagona identifikatori dhe", isCorrect: true },
-      { answerText: "Fayl nomi", isCorrect: false },
-      { answerText: "Server IP-manzili", isCorrect: false },
-      { answerText: "Rasm formati", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Hujjatlar modullarini ko'pincha qayerda ishlatasiz?",
-    answerOptions: [
-      { answerText: "Hisoblash va hujjatni ro'yxatga olishda", isCorrect: true },
-      { answerText: "Grafik tahrirlashda", isCorrect: false },
-      { answerText: "Internet manzilida", isCorrect: false },
-      { answerText: "Fayl tizimida", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Nazariy ma'lumotlar hujjatlarda nimalarni o'z ichiga oladi?",
-    answerOptions: [
-      { answerText: "Hisob-kitob formulalar va qoidalar", isCorrect: true },
-      { answerText: "Rasm parametrlari", isCorrect: false },
-      { answerText: "Fayl yo'li", isCorrect: false },
-      { answerText: "Muloqot identifikatori", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Jamg'arma registrlari nimani aks ettiradi?",
-    answerOptions: [
-      { answerText: "Moliyaviy holat va operatsion harakatlar", isCorrect: true },
-      { answerText: "Grafik ranglarini", isCorrect: false },
-      { answerText: "Foydalanuvchi sozlamalarini", isCorrect: false },
-      { answerText: "Internet trafikni", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Oddiy hisobot qachon ishlatiladi?",
-    answerOptions: [
-      { answerText: "Sodda jadval tarzida ma'lumotlarni chiqarishda", isCorrect: true },
-      { answerText: "Rasm chizishda", isCorrect: false },
-      { answerText: "Serverda ma'lumotni eksport qilishda", isCorrect: false },
-      { answerText: "Foydalanuvchini autentifikatsiya qilishda", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Maketlar 1C da qaysi elementlarga ta'sir qiladi?",
-    answerOptions: [
-      { answerText: "Hujjat yoki hisobot sahifasi ko'rinishi", isCorrect: true },
-      { answerText: "Server yadro konfiguratsiyasi", isCorrect: false },
-      { answerText: "Internet tezligi", isCorrect: false },
-      { answerText: "Fayl ruxsatlari", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Shakllarni tahrirlash qaysi bosqichda sodir bo'ladi?",
-    answerOptions: [
-      { answerText: "Hisobot yoki hujjatni sozlashda", isCorrect: true },
-      { answerText: "Ma'lumotlar kiritishda", isCorrect: false },
-      { answerText: "Serverni yoqishda", isCorrect: false },
-      { answerText: "Internetga ulanishda", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Davriy ma'lumotlar registrlari qanday ma'lumotlar bilan ishlaydi?",
-    answerOptions: [
-      { answerText: "Vaqt bo'yicha kirim-chiqimlar va statistikalar", isCorrect: true },
-      { answerText: "Grafik fayllar bilan", isCorrect: false },
-      { answerText: "Hujjat metadata bilan", isCorrect: false },
-      { answerText: "Internet trafik bilan", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Ro'yxatlar va ma'lumotnomalar orasidagi farq nima?",
-    answerOptions: [
-      { answerText: "Ro'yxatlar ko'proq ichki tizim ob'ektlari, ma'lumotnomalar referensiya ob'ektlar", isCorrect: true },
-      { answerText: "Ular aynan bir xil", isCorrect: false },
-      { answerText: "Ro'yxatlar faqat hisobotlar uchun", isCorrect: false },
-      { answerText: "Ma'lumotnomalar faqat fayllar uchun", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Hujjatni bir nechta registr bo'yicha o'tkazish natijasida nima hosil bo'ladi?",
-    answerOptions: [
-      { answerText: "Registrlar bo'yicha avto yozuvlar", isCorrect: true },
-      { answerText: "Fayl o'chadi", isCorrect: false },
-      { answerText: "Internet so'rovi yaratiladi", isCorrect: false },
-      { answerText: "Grafik hosil bo'ladi", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Aylanma jamg'arma registrlarining yana bir nomi?",
-    answerOptions: [
-      { answerText: "Qaytariladigan registrlar", isCorrect: true },
-      { answerText: "Statik ma'lumotlar", isCorrect: false },
-      { answerText: "Foydalanuvchi konfiguratsiyasi", isCorrect: false },
-      { answerText: "Grafik kompozitsiyalar", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Hisobotlarni optimallashtirish nimalarni o'z ichiga oladi?",
-    answerOptions: [
-      { answerText: "Keraksiz elementlarni kamaytirish va ma'lumotni tez chiqarish", isCorrect: true },
-      { answerText: "Rasm o'lchamini oshirish", isCorrect: false },
-      { answerText: "Foydalanuvchi parolini bekor qilish", isCorrect: false },
-      { answerText: "Serverni yopish", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Xizmat ko'rsatish hujjatini qayta ishlash nimalarni kamaytiradi?",
-    answerOptions: [
-      { answerText: "Ishlash vaqtini va xatoliklarni", isCorrect: true },
-      { answerText: "Fayl hajmini", isCorrect: false },
-      { answerText: "Rasm ranglarini", isCorrect: false },
-      { answerText: "Tarmoq paketlarini", isCorrect: false },
-    ],
-  },
-  {
-    questionText: "Xususiyatlar turlari rejasi hisobi qaysi sohada qo'llaniladi?",
-    answerOptions: [
       { answerText: "Tovarlar va mahsulotlar kombinatsiyasi", isCorrect: true },
-      { answerText: "Foydalanuvchi interfeysi dizayni", isCorrect: false },
-      { answerText: "Server xavfsizligi", isCorrect: false },
       { answerText: "Grafik animatsiya", isCorrect: false },
     ],
   },
@@ -4906,61 +4735,61 @@ export const enterpriseQuiz = [
     questionText: "1C da Status Bar qaysi ma'lumotlarni ko'rsatadi?",
     answerOptions: [
       { answerText: "Foydalanuvchi nomi va vaqt", isCorrect: true },
-      { answerText: "Faqat hisobotlar", isCorrect: false },
-      { answerText: "Konfiguratsiya sozlamalari", isCorrect: false },
       { answerText: "Grafik fayllar", isCorrect: false },
+      { answerText: "Konfiguratsiya sozlamalari", isCorrect: false },
+      { answerText: "Faqat hisobotlar", isCorrect: false },
     ],
   },
   {
     questionText: "Status Bar da qaysi element ko'rinadi?",
     answerOptions: [
-      { answerText: "User Name", isCorrect: true },
+      { answerText: "Report Generator", isCorrect: false },
       { answerText: "File Menu", isCorrect: false },
       { answerText: "Configuration Window", isCorrect: false },
-      { answerText: "Report Generator", isCorrect: false },
+      { answerText: "User Name", isCorrect: true },
     ],
   },
   {
     questionText: "1C ning Status Bar i qayerda joylashgan?",
     answerOptions: [
       { answerText: "Quyi panelda", isCorrect: true },
-      { answerText: "Yuqori menyuda", isCorrect: false },
-      { answerText: "Navigatsiya panelida", isCorrect: false },
       { answerText: "Hisobot oynasida", isCorrect: false },
+      { answerText: "Navigatsiya panelida", isCorrect: false },
+      { answerText: "Yuqori menyuda", isCorrect: false },
     ],
   },
   {
     questionText: "Status Bar da Date/Time qanday ko'rsatiladi?",
     answerOptions: [
+      { answerText: "Kun tartibi", isCorrect: false },
+      { answerText: "Faqat vaqt", isCorrect: false },
       { answerText: "Joriy sana va vaqt", isCorrect: true },
       { answerText: "Faqat sana", isCorrect: false },
-      { answerText: "Faqat vaqt", isCorrect: false },
-      { answerText: "Kun tartibi", isCorrect: false },
     ],
   },
   {
     questionText: "1C da Status Bar ning asosiy vazifasi nima?",
     answerOptions: [
-      { answerText: "Tizim holatini ko'rsatish", isCorrect: true },
       { answerText: "Hujjat yaratish", isCorrect: false },
-      { answerText: "Ma'lumot import qilish", isCorrect: false },
       { answerText: "Grafik tahrirlash", isCorrect: false },
+      { answerText: "Ma'lumot import qilish", isCorrect: false },
+      { answerText: "Tizim holatini ko'rsatish", isCorrect: true },
     ],
   },
   {
     questionText: "Status Bar da qaysi ma'lumot foydalanuvchi uchun muhim?",
     answerOptions: [
       { answerText: "User Name va Date/Time", isCorrect: true },
-      { answerText: "Server IP", isCorrect: false },
       { answerText: "Fayl hajmi", isCorrect: false },
+      { answerText: "Server IP", isCorrect: false },
       { answerText: "Internet tezligi", isCorrect: false },
     ],
   },
   {
     questionText: "1C ning Status Bar i qaysi operatsiyalarda yordam beradi?",
     answerOptions: [
-      { answerText: "Tizim monitoringida", isCorrect: true },
       { answerText: "Dastur yozishda", isCorrect: false },
+      { answerText: "Tizim monitoringida", isCorrect: true },
       { answerText: "Fayl saqlashda", isCorrect: false },
       { answerText: "Grafik yaratishda", isCorrect: false },
     ],
@@ -4968,17 +4797,17 @@ export const enterpriseQuiz = [
   {
     questionText: "Status Bar da Progress Indicator nima uchun ishlatiladi?",
     answerOptions: [
-      { answerText: "Uzun operatsiyalarning holatini ko'rsatish", isCorrect: true },
-      { answerText: "Foydalanuvchi nomini o'zgartirish", isCorrect: false },
       { answerText: "Vaqtni sozlash", isCorrect: false },
+      { answerText: "Uzun operatsiyalarning holatini ko'rsatish", isCorrect: true },
       { answerText: "Hisobot chiqarish", isCorrect: false },
+      { answerText: "Foydalanuvchi nomini o'zgartirish", isCorrect: false },
     ],
   },
   {
     questionText: "1C da Status Bar ning Progress Indicator i qayerda ko'rinadi?",
     answerOptions: [
-      { answerText: "Quyi panelda", isCorrect: true },
       { answerText: "Yuqori panelda", isCorrect: false },
+      { answerText: "Quyi panelda", isCorrect: true },
       { answerText: "O'ng panelda", isCorrect: false },
       { answerText: "Chap panelda", isCorrect: false },
     ],
@@ -4986,19 +4815,19 @@ export const enterpriseQuiz = [
   {
     questionText: "Status Bar da qaysi tugma mavjud?",
     answerOptions: [
-      { answerText: "Ba'zi hollarda yordam tugmasi", isCorrect: true },
       { answerText: "Saqlash tugmasi", isCorrect: false },
-      { answerText: "O'chirish tugmasi", isCorrect: false },
       { answerText: "Yangi tugmasi", isCorrect: false },
+      { answerText: "O'chirish tugmasi", isCorrect: false },
+      { answerText: "Ba'zi hollarda yordam tugmasi", isCorrect: true },
     ],
   },
   {
     questionText: "1C ning Status Bar i qaysi ma'lumotlarni o'z ichiga olmaydi?",
     answerOptions: [
-      { answerText: "Foydalanuvchi paroli", isCorrect: true },
-      { answerText: "Foydalanuvchi nomi", isCorrect: false },
       { answerText: "Joriy vaqt", isCorrect: false },
+      { answerText: "Foydalanuvchi nomi", isCorrect: false },
       { answerText: "Tizim holati", isCorrect: false },
+      { answerText: "Foydalanuvchi paroli", isCorrect: true },
     ],
   },
   {
@@ -5014,54 +4843,54 @@ export const enterpriseQuiz = [
     questionText: "1C da Status Bar ning Database Name elementi nima uchun kerak?",
     answerOptions: [
       { answerText: "Qaysi bazada ishlashni aniqlash", isCorrect: true },
-      { answerText: "Fayl nomini o'zgartirish", isCorrect: false },
       { answerText: "Hisobot yaratish", isCorrect: false },
       { answerText: "Konfiguratsiya o'zgartirish", isCorrect: false },
+      { answerText: "Fayl nomini o'zgartirish", isCorrect: false },
     ],
   },
   {
     questionText: "Status Bar da Configuration Version qanday ko'rsatiladi?",
     answerOptions: [
+      { answerText: "Tugma bilan", isCorrect: false },
       { answerText: "Versiya raqami bilan", isCorrect: true },
       { answerText: "Faqat sana bilan", isCorrect: false },
       { answerText: "Rasm bilan", isCorrect: false },
-      { answerText: "Tugma bilan", isCorrect: false },
     ],
   },
   {
     questionText: "1C ning Status Bar i qaysi foydalanuvchilarga ko'rinadi?",
     answerOptions: [
-      { answerText: "Barcha foydalanuvchilarga", isCorrect: true },
-      { answerText: "Faqat administratorlarga", isCorrect: false },
       { answerText: "Faqat mehmonlarga", isCorrect: false },
       { answerText: "Faqat dasturchilarga", isCorrect: false },
+      { answerText: "Barcha foydalanuvchilarga", isCorrect: true },
+      { answerText: "Faqat administratorlarga", isCorrect: false },
     ],
   },
   {
     questionText: "Status Bar da qaysi element tizim xabarlari uchun ishlatiladi?",
     answerOptions: [
-      { answerText: "Status Messages", isCorrect: true },
+      { answerText: "Report Window", isCorrect: false },
       { answerText: "File Menu", isCorrect: false },
       { answerText: "Navigation Panel", isCorrect: false },
-      { answerText: "Report Window", isCorrect: false },
+      { answerText: "Status Messages", isCorrect: true },
     ],
   },
   {
     questionText: "1C da Status Bar ning Status Messages elementi nima ko'rsatadi?",
     answerOptions: [
-      { answerText: "Tizim xabarlari va ogohlantirishlar", isCorrect: true },
-      { answerText: "Foydalanuvchi ro'yxati", isCorrect: false },
       { answerText: "Hisobot natijalari", isCorrect: false },
+      { answerText: "Foydalanuvchi ro'yxati", isCorrect: false },
       { answerText: "Konfiguratsiya o'zgarishlari", isCorrect: false },
+      { answerText: "Tizim xabarlari va ogohlantirishlar", isCorrect: true },
     ],
   },
   {
     questionText: "Status Bar da Lock Indicator nima anglatadi?",
     answerOptions: [
       { answerText: "Baza qulflanganligini ko'rsatadi", isCorrect: true },
-      { answerText: "Fayl saqlangan", isCorrect: false },
       { answerText: "Hisobot tugagan", isCorrect: false },
       { answerText: "Konfiguratsiya yuklangan", isCorrect: false },
+      { answerText: "Fayl saqlangan", isCorrect: false },
     ],
   },
   {
@@ -5076,35 +4905,35 @@ export const enterpriseQuiz = [
   {
     questionText: "Status Bar da qaysi ma'lumot konfiguratsiya bilan bog'liq?",
     answerOptions: [
-      { answerText: "Configuration Version", isCorrect: true },
       { answerText: "User Password", isCorrect: false },
-      { answerText: "File Size", isCorrect: false },
       { answerText: "Internet Connection", isCorrect: false },
+      { answerText: "File Size", isCorrect: false },
+      { answerText: "Configuration Version", isCorrect: true },
     ],
   },
   {
     questionText: "1C da Status Bar ning Lock Indicator i qachon ko'rinadi?",
     answerOptions: [
+      { answerText: "Hisobot ishga tushganda", isCorrect: false },
       { answerText: "Baza qulflangan paytda", isCorrect: true },
       { answerText: "Har doim", isCorrect: false },
       { answerText: "Faqat administrator kirganda", isCorrect: false },
-      { answerText: "Hisobot ishga tushganda", isCorrect: false },
     ],
   },
   {
     questionText: "Status Bar da Date/Time elementi qaysi formatda bo'ladi?",
     answerOptions: [
-      { answerText: "Standart sana/vaqt formatida", isCorrect: true },
       { answerText: "Faqat raqamlar bilan", isCorrect: false },
       { answerText: "Harflar bilan", isCorrect: false },
+      { answerText: "Standart sana/vaqt formatida", isCorrect: true },
       { answerText: "Rasm bilan", isCorrect: false },
     ],
   },
   {
     questionText: "1C ning Status Bar i qaysi operatsiyalardan keyin o'zgaradi?",
     answerOptions: [
-      { answerText: "Login va logout dan keyin", isCorrect: true },
       { answerText: "Fayl ochganda", isCorrect: false },
+      { answerText: "Login va logout dan keyin", isCorrect: true },
       { answerText: "Grafik chizganda", isCorrect: false },
       { answerText: "Hisobot bosganda", isCorrect: false },
     ],
@@ -5112,10 +4941,10 @@ export const enterpriseQuiz = [
   {
     questionText: "Status Bar da qaysi element foydalanuvchi huquqlarini ko'rsatadi?",
     answerOptions: [
-      { answerText: "User Name", isCorrect: true },
-      { answerText: "File Path", isCorrect: false },
       { answerText: "Report Name", isCorrect: false },
+      { answerText: "User Name", isCorrect: true },
       { answerText: "Configuration Name", isCorrect: false },
+      { answerText: "File Path", isCorrect: false },
     ],
   },
   {
@@ -5123,13 +4952,2886 @@ export const enterpriseQuiz = [
     answerOptions: [
       { answerText: "User Name, Date/Time, Database Name", isCorrect: true },
       { answerText: "File Menu, Edit Menu", isCorrect: false },
-      { answerText: "Navigation Panel, Work Area", isCorrect: false },
       { answerText: "Report Window, Print Dialog", isCorrect: false },
+      { answerText: "Navigation Panel, Work Area", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C:Enterprise da platforma va konfiguratsiya o'rtasidagi farq nimada?",
+    answerOptions: [
+      { answerText: "Platforma va konfiguratsiya bir xil narsa", isCorrect: false },
+      { answerText: "Konfiguratsiya faqat grafik dizayn", isCorrect: false },
+      { answerText: "Platforma faqat veb-brauzer", isCorrect: false },
+      { answerText: "Platforma — ishga tushirish muhiti; konfiguratsiya — biznes logika va ob'ektlar", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Qaysi mijoz turi odatda eng ko'p funksionallikni qo'llab-quvvatlaydi?",
+    answerOptions: [
+      { answerText: "Nogiron mijoz", isCorrect: false },
+      { answerText: "Qalin mijoz (thick client)", isCorrect: true },
+      { answerText: "Faqat PDF ko'ruvchi", isCorrect: false },
+      { answerText: "Faqat mobil ilova", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Boshqariladigan shakllar (managed forms) asosan qayerda ishlaydi?",
+    answerOptions: [
+      { answerText: "Faqat brauzerda", isCorrect: false },
+      { answerText: "Faqat Excelda", isCorrect: false },
+      { answerText: "Mijoz va serverda qoidalarga muvofiq", isCorrect: true },
+      { answerText: "Faqat printerda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da oqim (pipeline) rejimi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Grafik faylni ochish", isCorrect: false },
+      { answerText: "Ma'lumotlarni ketma-ket qayta ishlash va uzatish sxemasi", isCorrect: true },
+      { answerText: "Parolni shifrlash", isCorrect: false },
+      { answerText: "Internet tezligini o'lchash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Rollar (roles) 1C da asosan nimani belgilaydi?",
+    answerOptions: [
+      { answerText: "Faqat printer modeli", isCorrect: false },
+      { answerText: "Foydalanuvchining ruxsatlari va ko'rinish chegaralari", isCorrect: true },
+      { answerText: "Faqat hisobot formati", isCorrect: false },
+      { answerText: "Faqat rang sxemasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Administrator roli odatda nimani boshqarishi mumkin?",
+    answerOptions: [
+      { answerText: "Faqat rasm chizish", isCorrect: false },
+      { answerText: "Faqat internet tarix", isCorrect: false },
+      { answerText: "Foydalanuvchilar, rollar va tizim sozlamalari", isCorrect: true },
+      { answerText: "Faqat klaviatura tartibi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da seans parametrlari nim uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Faqat Excel ustunlari", isCorrect: false },
+      { answerText: "Seans davomida saqlanadigan va sozlanadigan qiymatlar", isCorrect: true },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Umumiy modullar (common modules) nimani soddalashtiradi?",
+    answerOptions: [
+      { answerText: "Internetni o'chirish", isCorrect: false },
+      { answerText: "Takrorlanuvchi kodni markazlashtirish va qayta ishlatish", isCorrect: true },
+      { answerText: "Grafik faylni siqish", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasini o'chirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ob'ekt modullari odatda qayerda joylashadi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer keshida", isCorrect: false },
+      { answerText: "Muayyan metadata ob'ekti bilan bog'langan", isCorrect: true },
+      { answerText: "Faqat Word hujjatida", isCorrect: false },
+      { answerText: "Faqat rasm papkasida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da voqealar obunasi (event subscription) nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Faqat hisobot rangini o'zgartirish", isCorrect: false },
+      { answerText: "Belgilangan voqeada avtomatik ravishda kodni ishga tushirish", isCorrect: true },
+      { answerText: "Faqat printerni o'chirish", isCorrect: false },
+      { answerText: "Faqat fayl nomini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Rejalashtirilgan ishlar (scheduled jobs) nimani bajaradi?",
+    answerOptions: [
+      { answerText: "Belgilangan vaqtda yoki intervallarda fon vazifalarini", isCorrect: true },
+      { answerText: "Faqat brauzerni yopish", isCorrect: false },
+      { answerText: "Faqat foydalanuvchini bloklash", isCorrect: false },
+      { answerText: "Faqat grafikni aylantirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Almashish rejasi (exchange plan) qaysi vazifaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Tarmoqlar o'rtasida ma'lumotlarni sinxronlashtirish", isCorrect: true },
+      { answerText: "Faqat rasm yuklash", isCorrect: false },
+      { answerText: "Faqat parol tiklash", isCorrect: false },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "To'liq matn qidiruv 1C da nimani tezlashtiradi?",
+    answerOptions: [
+      { answerText: "Faqat printer tezligini", isCorrect: false },
+      { answerText: "Katta hajmdagi matn maydonlarida qidiruvni", isCorrect: true },
+      { answerText: "Faqat ekran yorqinligini", isCorrect: false },
+      { answerText: "Faqat sichqonchani", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da indekslar nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Fayl nomini qisqartirish", isCorrect: false },
+      { answerText: "Internet paketlarini siqish", isCorrect: false },
+      { answerText: "So'rovlar va tanlashlarni tezlashtirish", isCorrect: true },
+      { answerText: "Grafik sifatini oshirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Fayl rejimidagi axborot bazasi qayerda saqlanadi?",
+    answerOptions: [
+      { answerText: "Faqat bulutda majburiy", isCorrect: false },
+      { answerText: "Faqat printer xotirasida", isCorrect: false },
+      { answerText: "Faqat brauzer keshida", isCorrect: false },
+      { answerText: "Diskdagi fayl(lar) sifatida", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Server rejimida ma'lumotlarni qayta ishlash qanday tashkil etiladi?",
+    answerOptions: [
+      { answerText: "Hamma narsa faqat Excelda", isCorrect: false },
+      { answerText: "Server va mijoz o'rtasida taqsimlangan yuklama", isCorrect: true },
+      { answerText: "Faqat grafik kartada", isCorrect: false },
+      { answerText: "Hamma narsa faqat printerda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C server klasteri nim uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Yuksaklashuvchanlik va yukni taqsimlash", isCorrect: true },
+      { answerText: "Faqat parol uzunligini", isCorrect: false },
+      { answerText: "Faqat rasm hajmini oshirish", isCorrect: false },
+      { answerText: "Faqat brauzer tarixini tozalash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Konfiguratsiyani yangilash jarayonida nimalarga e'tibor beriladi?",
+    answerOptions: [
+      { answerText: "Faqat printer rangi", isCorrect: false },
+      { answerText: "Moslik, migratsiya va foydalanuvchilarni ogohlantirish", isCorrect: true },
+      { answerText: "Faqat sichqoncha tezligi", isCorrect: false },
+      { answerText: "Faqat ekran fon rasmi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da hisobot konstruktori nimani beradi?",
+    answerOptions: [
+      { answerText: "Faqat MP3 ijro etish", isCorrect: false },
+      { answerText: "Hisobot tuzilmasini vizual va parametrlar bilan yig'ish imkonini", isCorrect: true },
+      { answerText: "Faqat brauzer o'rnatish", isCorrect: false },
+      { answerText: "Faqat rasm chizish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Filtrlash va qidiruv farqi nimada?",
+    answerOptions: [
+      { answerText: "Qidiruv faqat grafik uchun", isCorrect: false },
+      { answerText: "Filtrlash — ro'yxatni cheklash; qidiruv — matn bo'yicha topish", isCorrect: true },
+      { answerText: "Filtrlash faqat printer uchun", isCorrect: false },
+      { answerText: "Ular har doim bir xil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Subkontolar (subconto) hisob-kitobda nimani aniqlaydi?",
+    answerOptions: [
+      { answerText: "Analitik kesim va tafsilot darajasini", isCorrect: true },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat printer chegarasi", isCorrect: false },
+      { answerText: "Faqat brauzer versiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "BU/NU (buxgalteriya va boshqaruv hisobi) ajratilishi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Faqat rang tanlash", isCorrect: false },
+      { answerText: "Faqat fayl formati", isCorrect: false },
+      { answerText: "Turli maqsadlar uchun hisob siyosati va tuzilmani", isCorrect: true },
+      { answerText: "Faqat internet provayder", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da hujjatning o'tkazilmagan holati nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Hujjat avtomatik o'chirilgan", isCorrect: false },
+      { answerText: "Hujjat faqat grafik", isCorrect: false },
+      { answerText: "Hujjat hali registrlarga ta'sir qilmagan", isCorrect: true },
+      { answerText: "Hujjat faqat brauzerda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da hujjatning o'tkazilgan holati nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Hujjat internetga yuklangan", isCorrect: false },
+      { answerText: "Hujjat asosida registr yozuvlari hosil bo'lgan", isCorrect: true },
+      { answerText: "Hujjat faqat rasm sifatida", isCorrect: false },
+      { answerText: "Hujjat faqat printerda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ro'yxat (catalog) va hujjat o'rtasidagi asosiy farq?",
+    answerOptions: [
+      { answerText: "Ular farqsiz", isCorrect: false },
+      { answerText: "Ro'yxat — doimiy ma'lumotlar; hujjat — operatsiya va harakat", isCorrect: true },
+      { answerText: "Hujjat faqat rasm", isCorrect: false },
+      { answerText: "Ro'yxat faqat hisobot", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sanalar bo'yicha cheklov (period) nim uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer tilini", isCorrect: false },
+      { answerText: "Faqat Excel formulalari", isCorrect: false },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Hisobot va qidiruvni ma'lum vaqt oralig'iga bog'lash", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da ombor qoldiqlarini ko'rsatuvchi hisobot qaysi turga yaqin?",
+    answerOptions: [
+      { answerText: "Faqat grafik animatsiya", isCorrect: false },
+      { answerText: "Ro'yxat va qoldiq tahlili hisobotlari", isCorrect: true },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da narx turlari (masalan, o'rtacha) qaysi kontekstda muhim?",
+    answerOptions: [
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat printer siyohi", isCorrect: false },
+      { answerText: "Inventarizatsiya va baholash sxemalarida", isCorrect: true },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da valyuta kurslari odatda qayerda saqlanadi?",
+    answerOptions: [
+      { answerText: "Ma'lumotnomalar yoki alohida jadval/registrlar bo'yicha sxema bo'yicha", isCorrect: true },
+      { answerText: "Faqat rasm piksellarida", isCorrect: false },
+      { answerText: "Faqat brauzer tarixida", isCorrect: false },
+      { answerText: "Faqat Word faylida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da kontragent nima?",
+    answerOptions: [
+      { answerText: "Faqat printer drayveri", isCorrect: false },
+      { answerText: "Faqat brauzer xatoligi", isCorrect: false },
+      { answerText: "Tashqi yoki ichki hamkor (mijoz, ta'minotchi va hokazo)", isCorrect: true },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da shartnomalar odatda qanday ob'ekt bilan bog'lanadi?",
+    answerOptions: [
+      { answerText: "Faqat grafik qatlam", isCorrect: false },
+      { answerText: "Faqat brauzer kesh", isCorrect: false },
+      { answerText: "Faqat MP3 fayl", isCorrect: false },
+      { answerText: "Hujjatlar va ma'lumotnomalar bilan (sxema bo'yicha)", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da bank hisob-kitoblari integratsiyasi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "Faqat brauzer yangilanishi", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Bank hujjatlari va dastur operatsiyalarini moslashtirish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da elektron hujjat aylanishi (EDI) nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Faqat ichki parol", isCorrect: false },
+      { answerText: "Faqat grafik filtrlash", isCorrect: false },
+      { answerText: "Tashqi tizimlar bilan standartlashtirilgan almashinuv", isCorrect: true },
+      { answerText: "Faqat Excel makros", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da chek va KKM integratsiyasi nimani talab qiladi?",
+    answerOptions: [
+      { answerText: "Tovar va to'lov operatsiyalarini qoidalarga muvofiq qayd etish", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Faqat rasm tahriri", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ish vaqti hisobi qaysi modul bilan bog'liq bo'lishi mumkin?",
+    answerOptions: [
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Kadrlar va ish haqi sxemasi bo'yicha", isCorrect: true },
+      { answerText: "Faqat grafik dizayn", isCorrect: false },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ishlab chiqarish buyurtmasi nimani boshqaradi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Ishlab chiqarish jarayonlari va resurslar rejasini", isCorrect: true },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sifat nazorati hujjatlari nimani qayd etadi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer versiyasi", isCorrect: false },
+      { answerText: "Tekshiruv natijalari va muvofiqlik", isCorrect: true },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat printer xatolari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ishlab chiqarish qoldiqlari nimani aks ettiradi?",
+    answerOptions: [
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+      { answerText: "Faqat internet tezligi", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Jarayonlardagi yarim tayyor mahsulot va holat", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da budjetlash moduli nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Faqat rasm kesish", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Reja va fakt bo'yicha moliyaviy boshqaruv", isCorrect: true },
+      { answerText: "Faqat MP3 ijro", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da CRM elementlari nimani qamrab oladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat Excel formulalari", isCorrect: false },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Mijozlar bilan munosabatlar va savdo voronikasi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da logistik va yetkazib berish moduli nimani optimallashtiradi?",
+    answerOptions: [
+      { answerText: "Faqat grafik animatsiya", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Yetkazib berish marshrutlari va ombor oqimini", isCorrect: true },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ishlab chiqarish rejasi va MRP tushunchasi nimani bog'laydi?",
+    answerOptions: [
+      { answerText: "Faqat printer siyohi", isCorrect: false },
+      { answerText: "Ehtiyoj va resurslarni ishlab chiqarish bilan uyg'unlashtirish", isCorrect: true },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da shartnoma bo'yicha hisob-kitob nimani kuzatadi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer versiyasi", isCorrect: false },
+      { answerText: "Bajarilish, to'lov va qarz holatlarini", isCorrect: true },
+      { answerText: "Faqat printer xotirasi", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da avans va hisob-kitob qoldiqlari nimani aks ettiradi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat grafik qatlam", isCorrect: false },
+      { answerText: "Oldindan to'lovlar va hisobdan chiqarish holatini", isCorrect: true },
+      { answerText: "Faqat musiqa fayl", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da bank va kassa operatsiyalari farqi nimada?",
+    answerOptions: [
+      { answerText: "Bank — bank hisobvaraqlari; kassa — naqd pul operatsiyalari", isCorrect: true },
+      { answerText: "Ular har doim bir xil", isCorrect: false },
+      { answerText: "Bank faqat rasm", isCorrect: false },
+      { answerText: "Kassa faqat brauzer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da valyuta operatsiyalari qaysi ma'lumotlarga bog'liq?",
+    answerOptions: [
+      { answerText: "Kurslar, valyuta va hisob siyosatiga", isCorrect: true },
+      { answerText: "Faqat Excel foniga", isCorrect: false },
+      { answerText: "Faqat brauzer plaginiga", isCorrect: false },
+      { answerText: "Faqat printer modeliga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da qarz va debitor-kreditor hisobi nimani ko'rsatadi?",
+    answerOptions: [
+      { answerText: "Faqat musiqa sifatini", isCorrect: false },
+      { answerText: "Faqat rasm hajmini", isCorrect: false },
+      { answerText: "Pul majburiyatlari va talablarini", isCorrect: true },
+      { answerText: "Faqat printer diagnostikasini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da inventarizatsiya hujjati nimani tasdiqlaydi?",
+    answerOptions: [
+      { answerText: "Haqiqiy qoldiqlar va hisob-kitob farqlarini", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da narx va chegirmalar siyosati nimani boshqaradi?",
+    answerOptions: [
+      { answerText: "Savdo shartlari va rentabellikni", isCorrect: true },
+      { answerText: "Faqat grafik animatsiya", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ishlab chiqarish xarajatlari yig'imi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "Mahsulot tannarxini tuzish uchun xarajatlarni jamlash", isCorrect: true },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da bo'linmalar va markazlar nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+      { answerText: "Tahlil va hisobotni tashkilot tuzilmasi bo'yicha bo'lish", isCorrect: true },
+      { answerText: "Faqat printer tezligi", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da loyiha hisobi (project) nimani kuzatadi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer versiyasi", isCorrect: false },
+      { answerText: "Loyiha bo'yicha xarajat va daromadlarni", isCorrect: true },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da shaxsiy hisob va subhisoblar nimani aniqlaydi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer plaginini", isCorrect: false },
+      { answerText: "Faqat Excel ustunini", isCorrect: false },
+      { answerText: "Hisob plandagi detallashtirish darajasini", isCorrect: true },
+      { answerText: "Faqat printer modelini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da operatsion hisobot va boshqaruv hisoboti farqi?",
+    answerOptions: [
+      { answerText: "Operatsion — kunlik jarayonlar; boshqaruv — KPI va tahlil", isCorrect: true },
+      { answerText: "Boshqaruv faqat musiqa", isCorrect: false },
+      { answerText: "Operatsion faqat rasm", isCorrect: false },
+      { answerText: "Ular bir xil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ichki nazorat va audit izlari nimani ta'minlaydi?",
+    answerOptions: [
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "O'zgarishlar va kirishlarni kuzatish imkonini", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlarni eksport qilish (masalan, Excel) nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Tashqi tahlil va almashinuv uchun", isCorrect: true },
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da import qilish jarayonida nimaga e'tibor beriladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Faqat printer siyohi", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Ustunlar mosligi, kodlash va takrorlanishlarni boshqarish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da foydalanuvchi interfeysidagi panel va bo'limlar nimani tashkil qiladi?",
+    answerOptions: [
+      { answerText: "Faqat printer xotirasini", isCorrect: false },
+      { answerText: "Faqat rasm piksellarini", isCorrect: false },
+      { answerText: "Navigatsiya va ish maydonini", isCorrect: true },
+      { answerText: "Faqat Excel formulalarini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da tezkor tugmalar va buyruq paneli nimani tezlashtiradi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer plaginini", isCorrect: false },
+      { answerText: "Faqat printer kalibrlashni", isCorrect: false },
+      { answerText: "Takrorlanuvchi amallarni", isCorrect: true },
+      { answerText: "Faqat internet tezligini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da kontekstli menyular nimani beradi?",
+    answerOptions: [
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Faqat Excel fon", isCorrect: false },
+      { answerText: "Ob'ekt holatiga mos amallarni", isCorrect: true },
+      { answerText: "Faqat rasm import", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da xabarnomalar va ogohlantirishlar qayerda ko'rinadi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozida", isCorrect: false },
+      { answerText: "Faqat rasm faylida", isCorrect: false },
+      { answerText: "Status xabarlari va tizim bildirishnomalarida", isCorrect: true },
+      { answerText: "Faqat brauzer tarixida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sessiya va ulanish uzilishi nimaga olib kelishi mumkin?",
+    answerOptions: [
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Saqlanmagan o'zgarishlarni yo'qotish xavfini", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da zaxira nusxa (backup) nimani himoya qiladi?",
+    answerOptions: [
+      { answerText: "Faqat rasm animatsiyasini", isCorrect: false },
+      { answerText: "Faqat printer drayverini", isCorrect: false },
+      { answerText: "Faqat brauzer plaginini", isCorrect: false },
+      { answerText: "Ma'lumotlar bazasi va muhim sozlamalarni", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da tiklash (restore) jarayoni nimani talab qiladi?",
+    answerOptions: [
+      { answerText: "Faqat musiqa fayl", isCorrect: false },
+      { answerText: "To'g'ri zaxira va mos versiya bilan ishlashni", isCorrect: true },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da versiya bilan moslik nima uchun muhim?",
+    answerOptions: [
+      { answerText: "Yangilanishda ma'lumotlar buzilmasligi uchun", isCorrect: true },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat printer tezligi", isCorrect: false },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sinxron va asinxron chaqiriqlar farqi nimada?",
+    answerOptions: [
+      { answerText: "Sinxron — kutish; asinxron — fon jarayonlari", isCorrect: true },
+      { answerText: "Sinxron faqat printer", isCorrect: false },
+      { answerText: "Asinxron faqat musiqa", isCorrect: false },
+      { answerText: "Ular har doim bir xil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da xotira va ishlash tezligi muammolarida birinchi qadam nima?",
+    answerOptions: [
+      { answerText: "Faqat Excel fon", isCorrect: false },
+      { answerText: "Faqat printer almashtirish", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Profil va loglarni tahlil qilish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar yaxlitligi (integrity) nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Qoidalar va bog'lanishlarga muvofiqlik", isCorrect: true },
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da tranzaksiya tushunchasi nimani kafolatlaydi?",
+    answerOptions: [
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Yoki barcha o'zgarishlar, yoki hech biri (atomicity)", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da blokirovka va konkurent kirish nimaga bog'liq?",
+    answerOptions: [
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Bir vaqtda bir nechta foydalanuvchi bilan ishlashda ma'lumotlarni himoya qilish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da jurnal yozuvlari nimani kuzatadi?",
+    answerOptions: [
+      { answerText: "Muhim operatsiyalar va o'zgarishlarni", isCorrect: true },
+      { answerText: "Faqat printer xotirasi", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da integratsiya API va veb-xizmatlar nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat rasm kesish", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Tashqi tizimlar bilan avtomatlashtirilgan aloqa", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da xavfsizlik siyosati nimani belgilaydi?",
+    answerOptions: [
+      { answerText: "Kirish, ma'lumotlar va amallar chegaralarini", isCorrect: true },
+      { answerText: "Faqat Excel ustunini", isCorrect: false },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat printer modelini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da shifrlash va parol siyosati nimani kamaytiradi?",
+    answerOptions: [
+      { answerText: "Ruxsatsiz kirish va ma'lumot sizib chiqish xavfini", isCorrect: true },
+      { answerText: "Faqat printer tezligini", isCorrect: false },
+      { answerText: "Faqat rasm piksellarini", isCorrect: false },
+      { answerText: "Faqat musiqa sifatini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da audit va foydalanuvchi harakatlari jurnali nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Tekshiruv va javobgarlikni ta'minlash", isCorrect: true },
+      { answerText: "Faqat Excel fon", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da test bazasi va ishlab chiqish muhiti nim uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "O'zgarishlarni xavfsiz sinash uchun", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da konfiguratsiyani taqqoslash va nazorat qilish nimani yengillashtiradi?",
+    answerOptions: [
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "O'zgarishlarni kuzatish va xatolarni kamaytirish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da kodlash standartlari va modul tuzilishi nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Faqat printer siyohi", isCorrect: false },
+      { answerText: "Qo'llab-quvvatish va rivojlantirish sifatiga", isCorrect: true },
+      { answerText: "Faqat musiqa fayl", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da xatoliklarni tutish va xabar berish mexanizmi nimani yaxshilaydi?",
+    answerOptions: [
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Diagnostika va foydalanuvchi tajribasini", isCorrect: true },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar migratsiyasi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Eski strukturadan yangisiga o'tkazish jarayonini", isCorrect: true },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da hisobotlarni jadvalga eksport va chop etish farqi?",
+    answerOptions: [
+      { answerText: "Eksport — fayl; chop — printer yoki PDF", isCorrect: true },
+      { answerText: "Ular bir xil", isCorrect: false },
+      { answerText: "Eksport faqat rasm", isCorrect: false },
+      { answerText: "Chop faqat musiqa", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da PDF va Excel formatlari tanlashda nimani hisobga olish kerak?",
+    answerOptions: [
+      { answerText: "Keyingi qayta ishlash va hajm talablarini", isCorrect: true },
+      { answerText: "Faqat brauzer plaginini", isCorrect: false },
+      { answerText: "Faqat printer modelini", isCorrect: false },
+      { answerText: "Faqat rasm animatsiyasini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ko'p valyutali hisob-kitobda nimaga e'tibor beriladi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Kurslar, qayta baholash va farqlar", isCorrect: true },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ombor va joylashuv (ombor-joy) farqi nimada?",
+    answerOptions: [
+      { answerText: "Ombor — saqlash joyi; joylashuv — aniq adresatsiya sxemasi bo'yicha", isCorrect: true },
+      { answerText: "Ombor faqat rasm", isCorrect: false },
+      { answerText: "Ular har doim bir xil", isCorrect: false },
+      { answerText: "Joylashuv faqat musiqa", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da seriya va partiya hisobi nimani kuzatadi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Ishlab chiqarish partiyalari va muddati bo'yicha", isCorrect: true },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sifat sertifikatlari va hujjatlar nimani qamrab oladi?",
+    answerOptions: [
+      { answerText: "Muvofiqlik va rasmiy tasdiqlarni", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ishlab chiqarish normativlari nimani belgilaydi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Faqat Excel fon", isCorrect: false },
+      { answerText: "Resurs va vaqt me'yorlarini", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da ishlab chiqarish cheklovlari (resurs) nimani aks ettiradi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "Ishlab chiqarish quvvati va navbatlarni", isCorrect: true },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da xizmat ko'rsatish shartnomasi va buyurtma farqi?",
+    answerOptions: [
+      { answerText: "Buyurtma faqat printer", isCorrect: false },
+      { answerText: "Ular bir xil", isCorrect: false },
+      { answerText: "Shartnoma — ramka shartlar; buyurtma — aniq ish hajmi", isCorrect: true },
+      { answerText: "Shartnoma faqat rasm", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da kafolat va servis tarixchasi nimani saqlaydi?",
+    answerOptions: [
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat musiqa fayl", isCorrect: false },
+      { answerText: "Mijoz uskunalari va xizmat voqealarini", isCorrect: true },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da SLA va javob vaqtlarini kuzatish nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Xizmat sifatini boshqarish va hisobot berish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da mobil va masofaviy ish rejimi nimani talab qiladi?",
+    answerOptions: [
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Xavfsiz ulanish va cheklangan funksiyalar strategiyasini", isCorrect: true },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da bulut va lokal server tanlashida nimani solishtirish kerak?",
+    answerOptions: [
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Xavfsizlik, tezlik va boshqaruv modelini", isCorrect: true },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar eksporti va integratsiya xatolari uchun umumiy yondashuv?",
+    answerOptions: [
+      { answerText: "Faqat Excel fon", isCorrect: false },
+      { answerText: "Loglar, qayta urinish va ma'lumotlarni tekshirish", isCorrect: true },
+      { answerText: "Faqat printer almashtirish", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da foydalanuvchi qo'llanmasi va ichki yordam tizimi nimani yaxshilaydi?",
+    answerOptions: [
+      { answerText: "O'rganish va xatolarni kamaytirish", isCorrect: true },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat rasm import", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sinov (test) muhiti va prod muhiti farqi nimada?",
+    answerOptions: [
+      { answerText: "Sinov — tajriba; prod — asosiy ishlatish", isCorrect: true },
+      { answerText: "Prod faqat musiqa", isCorrect: false },
+      { answerText: "Ular bir xil", isCorrect: false },
+      { answerText: "Sinov faqat rasm", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da konfiguratsiya ob'ektlarining nomlanishi nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Qidiruv va qo'llab-quvvatishni osonlashtirishga", isCorrect: true },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da metadata va kod modullari o'rtasidagi bog'liq?",
+    answerOptions: [
+      { answerText: "Ular bir xil", isCorrect: false },
+      { answerText: "Metadata tuzilmani belgilaydi; kod xatti-harakatlarni", isCorrect: true },
+      { answerText: "Kod faqat printer", isCorrect: false },
+      { answerText: "Metadata faqat rasm", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da standart va maxsus konfiguratsiya farqi?",
+    answerOptions: [
+      { answerText: "Ular har doim bir xil", isCorrect: false },
+      { answerText: "Standart faqat musiqa", isCorrect: false },
+      { answerText: "Standart — tayyor yechim; maxsus — sozlangan", isCorrect: true },
+      { answerText: "Maxsus faqat brauzer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da litsenziyalash va foydalanuvchi soni cheklovi nimani belgilaydi?",
+    answerOptions: [
+      { answerText: "Faqat rasm piksellarini", isCorrect: false },
+      { answerText: "Qaysi rejim va qancha foydalanuvchi ruxsat etilganini", isCorrect: true },
+      { answerText: "Faqat Excel fon rangini", isCorrect: false },
+      { answerText: "Faqat printer modelini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da texnik qo'llab-quvvatlash va yangilanish siyosati nimani ta'minlaydi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Barqaror ishlash va xavfsizlik patchlarini", isCorrect: true },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar tozalashi va arxivlash strategiyasi nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "Hajmni boshqarish va tezlikni saqlash", isCorrect: true },
+      { answerText: "Faqat Excel formulalari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da hisobot va dashboard farqi nimada?",
+    answerOptions: [
+      { answerText: "Dashboard faqat musiqa", isCorrect: false },
+      { answerText: "Hisobot — ma'lumot chiqarish; dashboard — ko'rsatkichlar va vizualizatsiya", isCorrect: true },
+      { answerText: "Ular bir xil", isCorrect: false },
+      { answerText: "Hisobot faqat printer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da KPI va boshqaruv ko'rsatkichlari qaysi qatlamda ishlatiladi?",
+    answerOptions: [
+      { answerText: "Faqat printer diagnostikasida", isCorrect: false },
+      { answerText: "Tahlil va qaror qabul qilishda", isCorrect: true },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat rasm import", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar sifati (to'g'ri kiritish) nimani kamaytiradi?",
+    answerOptions: [
+      { answerText: "Hisobot va qarorlardagi xatolarni", isCorrect: true },
+      { answerText: "Faqat Excel fon rangini", isCorrect: false },
+      { answerText: "Faqat printer tezligini", isCorrect: false },
+      { answerText: "Faqat musiqa sifatini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da rollar va profillar bilan kirish sxemasi nimani soddalashtiradi?",
+    answerOptions: [
+      { answerText: "Ruxsatlarni guruhlash va boshqarishni", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ish jarayonlari (workflow) va kelishuvlar nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+      { answerText: "Hujjatlar tasdiqlash va ketma-ketliklarni boshqarish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da integratsiya xatolari uchun diagnostika ro'yxati nimani tekshirish kerak?",
+    answerOptions: [
+      { answerText: "Ulanish, autentifikatsiya va ma'lumot formatini", isCorrect: true },
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar bazasini optimallashtirish va indekslarni yangilash nimaga ta'sir qiladi?",
+    answerOptions: [
+      { answerText: "Faqat printer diagnostikasiga", isCorrect: false },
+      { answerText: "So'rovlar tezligiga va barqarorlikka", isCorrect: true },
+      { answerText: "Faqat brauzer plaginiga", isCorrect: false },
+      { answerText: "Faqat Excel fon rangiga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da foydalanuvchi tajribasini yaxshilash (UX) uchun amaliy qoida nima?",
+    answerOptions: [
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "Kerakli maydonlarni tartibga solish va xatolarni tushunarli ko'rsatish", isCorrect: true },
+      { answerText: "Faqat printer modeli", isCorrect: false },
+      { answerText: "Faqat musiqa fayl", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlarni sinxronlashtirish va dublikatlarni boshqarish nimani kamaytiradi?",
+    answerOptions: [
+      { answerText: "Nomuvofiqlik va takroriy yozuvlarni", isCorrect: true },
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da hisobot parametrlari va filtrlarni oldindan sozlash nimani beradi?",
+    answerOptions: [
+      { answerText: "Takrorlanuvchi hisobotlarni tez yaratishni", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar eksporti va BI tizimlariga uzatish nimani talab qiladi?",
+    answerOptions: [
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+      { answerText: "Aniq maydonlar, vaqt oralig'i va kodlashni", isCorrect: true },
+      { answerText: "Faqat Excel fon", isCorrect: false },
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da konfiguratsiyani hujjatlashtirish nimaga yordam beradi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Jamoa ishi va keyingi rivojlantirishga", isCorrect: true },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Faqat musiqa pleyer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da sinov ssenariylari va regressiya testlari nimani kamaytiradi?",
+    answerOptions: [
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Yangilanishdan keyingi buzilishlar xavfini", isCorrect: true },
+      { answerText: "Faqat rasm import", isCorrect: false },
+      { answerText: "Faqat Excel ustuni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar migratsiyasidan oldin nimani tekshirish tavsiya etiladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer cookie", isCorrect: false },
+      { answerText: "Faqat musiqa sifati", isCorrect: false },
+      { answerText: "Zaxira nusxa va moslik rejasini", isCorrect: true },
+      { answerText: "Faqat printer kalibrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da foydalanuvchi o'qitish va rollar bo'yicha yo'riqnomalar nimani oshiradi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer plagin", isCorrect: false },
+      { answerText: "Faqat rasm animatsiyasi", isCorrect: false },
+      { answerText: "Faqat Excel fon rangi", isCorrect: false },
+      { answerText: "Xatolarni kamaytirish va samaradorlikni", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "1C da monitoring va server yuklamasini kuzatish nimaga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Proaktiv muammalarni aniqlash va rejalashtirish", isCorrect: true },
+      { answerText: "Faqat musiqa fayl", isCorrect: false },
+      { answerText: "Faqat printer diagnostikasi", isCorrect: false },
+      { answerText: "Faqat rasm piksellari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1C da ma'lumotlar maxfiyligi va shaxsiy ma'lumotlarni himoya qilish nimani talab qiladi?",
+    answerOptions: [
+      { answerText: "Faqat brauzer tarix", isCorrect: false },
+      { answerText: "Kirish nazorati, shifrlash va siyosatlarni", isCorrect: true },
+      { answerText: "Faqat printer qog'ozi", isCorrect: false },
+      { answerText: "Faqat Excel formulalari", isCorrect: false },
     ],
   },
 ];
 
-// IV semestr — Linux va operatsion tizimlar (100 savol)
+export const suniyIntelektQuiz = [
+  {
+    questionText: "Sun’iy intellekt atamasi birinchi marta qachon va kim tomonidan kiritilgan?",
+    answerOptions: [
+      { answerText: "1955-yilda Jon Makkarti tomonidan", isCorrect: true },
+      { answerText: "1943-yilda Alan Turing tomonidan", isCorrect: false },
+      { answerText: "1921-yilda Karel Chapek tomonidan", isCorrect: false },
+      { answerText: "1975-yilda Edgar Dekker tomonidan.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Turing testining asosiy maqsadi nima?",
+    answerOptions: [
+      { answerText: "Kompyuter ishlash tezligini baholash", isCorrect: false },
+      { answerText: "Algoritmning murakkablik darajasini aniqlash", isCorrect: false },
+      { answerText: "Mashina inson kabi fikrlay olishini tekshirish", isCorrect: true },
+      { answerText: "Robot mexanizmlarini sinovda o’tkazish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Zaif SI (Weak AI) deb nimaga aytiladi?",
+    answerOptions: [
+      { answerText: "Fizik jihatdan zaif kompyuter tizimi", isCorrect: false },
+      { answerText: "Faqat aniq bir muammoni hal qiluvchi tizim", isCorrect: true },
+      { answerText: "Inson fikrlashini to‘liq taqlid qiluvchi tizim", isCorrect: false },
+      { answerText: "Sun’iy ongga ega tizim", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sun’iy intellekt texnologiyalari yordamida qanday muammo hal qilinishi",
+    answerOptions: [
+      { answerText: "Axloqiy masalalarni avtomatlashtirish.", isCorrect: true },
+      { answerText: "Avtonom avtomobillarni boshqarish.", isCorrect: false },
+      { answerText: "Tibbiy tasvirlarni diagnostika qilish.", isCorrect: false },
+      { answerText: "Inson tilida nutqni anglash va tarjima qilish.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri agentning “sensor” rolini bajaradi?",
+    answerOptions: [
+      { answerText: "Kamera yoki mikrofon", isCorrect: true },
+      { answerText: "Dasturiy kod.", isCorrect: false },
+      { answerText: "Avtomatik elektro-motorlar.", isCorrect: false },
+      { answerText: "Kompyuter xotirasi.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi to‘rtta qoidadan qaysi biri agent uchun noto‘g‘ri?",
+    answerOptions: [
+      { answerText: "Agent atrof-muhitni idrok etish qobiliyatiga ega bo‘lishi kerak.", isCorrect: false },
+      { answerText: "Har bir agent doimo inson nazoratsiz bo‘lishi kerak.", isCorrect: true },
+      { answerText: "Qaror qabul qilish uchun kuzatishdan foydalanish kerak.", isCorrect: false },
+      { answerText: "Qaror harakatga olib kelishi va agent harakati intellektual bo‘lishi kerak.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Idrok etish uchun agentga nimalar yordam beradi?",
+    answerOptions: [
+      { answerText: "Ichki intuitsiyasi.", isCorrect: false },
+      { answerText: "Sensor qurilmalari.", isCorrect: true },
+      { answerText: "Aloqa tarmoqlari.", isCorrect: false },
+      { answerText: "Foydalanuvchi tugmachalari.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Reaktiv agent qanday qaror qabul qiladi?",
+    answerOptions: [
+      { answerText: "Oldingi tajribalar asosida", isCorrect: false },
+      { answerText: "Statistik modellashtirish orqali", isCorrect: false },
+      { answerText: "Joriy muhit holatiga asoslanib", isCorrect: true },
+      { answerText: "Foydalanuvchi ko‘rsatmasi asosida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Agent muhiti qanday turlarga bo‘linadi?",
+    answerOptions: [
+      { answerText: "Kompyuterli va kompyutersiz", isCorrect: false },
+      { answerText: "Statik va dinamik", isCorrect: true },
+      { answerText: "Reaktiv va o‘rganadigan", isCorrect: false },
+      { answerText: "Tizimli va tizimsiz", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "“Data Mining” atamasi qachon ommalashdi?",
+    answerOptions: [
+      { answerText: "1970-yillarda", isCorrect: false },
+      { answerText: "1980-yillarda", isCorrect: false },
+      { answerText: "1990-yillarda", isCorrect: true },
+      { answerText: "2010-yillarda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Maʼlumotlar tahlilining eng dastlabki bosqichida qaysi yondashuv ustuvor edi?",
+    answerOptions: [
+      { answerText: "Ekspert tizimlar", isCorrect: false },
+      { answerText: "Mashinali o‘qitish", isCorrect: false },
+      { answerText: "Sunʼiy neyron tarmoqlar", isCorrect: false },
+      { answerText: "Statistik usullar", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Chuqur o‘qitish metodlari qanday texnologiyalarga asoslanadi?",
+    answerOptions: [
+      { answerText: "Faqat statistik modellar", isCorrect: false },
+      { answerText: "Sunʼiy neyron tarmoqlar", isCorrect: true },
+      { answerText: "Raqamli transformatsiyalar", isCorrect: false },
+      { answerText: "Yadroli tizimlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Bilim bazasi ko‘proq bo‘lsa, bu qanday ta’sir qiladi?",
+    answerOptions: [
+      { answerText: "Tizim ishlashi sekinlashadi", isCorrect: false },
+      { answerText: "Ekspert tizimining aniqligi oshadi", isCorrect: true },
+      { answerText: "Disk xotirasi tezroq to‘ladi", isCorrect: false },
+      { answerText: "Foydalanuvchi aralashuvsiz ishlamaydi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Bilimlar bazasi qanday tizimda keng qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Grafik interfeysli tizimlarida", isCorrect: false },
+      { answerText: "Ekspert tizimlarida", isCorrect: true },
+      { answerText: "Avtomatlashtirilgan tizimlarida", isCorrect: false },
+      { answerText: "Ovozni tanib olish tizimlarida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri bilimlarning asosiy manbai hisoblanadi?",
+    answerOptions: [
+      { answerText: "Matn fayllar", isCorrect: false },
+      { answerText: "Sohaviy mutaxassislar", isCorrect: true },
+      { answerText: "Tasodifiy generatorlar", isCorrect: false },
+      { answerText: "Kameradan olingan tasvirlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Produksion model qaysi formatda tuziladi?",
+    answerOptions: [
+      { answerText: "XML", isCorrect: false },
+      { answerText: "JSON", isCorrect: false },
+      { answerText: "Shart qoidalari", isCorrect: true },
+      { answerText: "Diagramma", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Bilimlarni taqdim etish modellaridan qaysi biri ekspert tizimlarida qaror chiqarish",
+    answerOptions: [
+      { answerText: "Freym modeli", isCorrect: false },
+      { answerText: "Produksion model", isCorrect: true },
+      { answerText: "Semantik model", isCorrect: false },
+      { answerText: "Slot modeli", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Noravshan bilim modellari qaysi turdagi obyektlar uchun mos?",
+    answerOptions: [
+      { answerText: "Matematik obyektlarni ifodalash uchun", isCorrect: false },
+      { answerText: "Grafiklarni obyektlarni ifodalash uchun", isCorrect: false },
+      { answerText: "Murakkab va noaniq obyektlar uchun", isCorrect: true },
+      { answerText: "Sodda va aniq obyketlar uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Noravshan to‘plamlar va ehtimoliy mantiq qayerda qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Faqat vizualizatsiyada", isCorrect: false },
+      { answerText: "Noaniq qarorlar qabul qilishda", isCorrect: true },
+      { answerText: "Statik ma’lumotlarni saqlashda", isCorrect: false },
+      { answerText: "Bashorat qiymatlarni aniqlashda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ekspert tizimi sunʼiy intellektning qaysi elementi hisoblanadi?",
+    answerOptions: [
+      { answerText: "Mashinani avtomatik boshqarish", isCorrect: false },
+      { answerText: "Qaror qabul qilish va maslahat berish", isCorrect: true },
+      { answerText: "Kodni mashina tiliga kompilyatsiya qilish", isCorrect: false },
+      { answerText: "Ma’lumotlarni intellektual tahlil qilish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Birinchi ekspert tizimi qachon yaratilgan?",
+    answerOptions: [
+      { answerText: "1960-yilda", isCorrect: false },
+      { answerText: "1970-yilda", isCorrect: true },
+      { answerText: "1980-yilda", isCorrect: false },
+      { answerText: "1995-yilda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ekspert tizimining asosiy komponentlari nechta?",
+    answerOptions: [
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "4 ta", isCorrect: true },
+      { answerText: "3 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri ekspert tizimining komponenti hisoblanmaydi?",
+    answerOptions: [
+      { answerText: "Bilimlar bazasi", isCorrect: false },
+      { answerText: "Xulosa chiqarish mexanizmi", isCorrect: false },
+      { answerText: "Sensorlar va datchiklar", isCorrect: true },
+      { answerText: "Foydalanuvchi interfeysi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ekspert tizimi foydalanuvchi bilan qanday muloqot qiladi?",
+    answerOptions: [
+      { answerText: "Faqat audio signal orqali", isCorrect: false },
+      { answerText: "Kamera orqali", isCorrect: false },
+      { answerText: "Interfeys orqali", isCorrect: true },
+      { answerText: "USB vositasi orqali", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri ekspert tizimining afzalligi hisoblanadi?",
+    answerOptions: [
+      { answerText: "Faqat ingliz tilida ishlaydi", isCorrect: false },
+      { answerText: "Charchaydi va tez zerikadi", isCorrect: false },
+      { answerText: "His-tuyg‘ular ta’sir qilmaydi", isCorrect: true },
+      { answerText: "Har doim faqat bir xil natija beradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ekspert tizimlarining asosiy komponenti nima?",
+    answerOptions: [
+      { answerText: "Qurilma drayveri", isCorrect: false },
+      { answerText: "Interfeys tili", isCorrect: false },
+      { answerText: "Bilimlar bazasi", isCorrect: true },
+      { answerText: "Ma’lumotlar bazasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mashinali o‘qitishning asosiy maqsadi nima?",
+    answerOptions: [
+      { answerText: "Qurilmalarni optimal boshqarishni avtomatlashtirish", isCorrect: false },
+      { answerText: "O‘rganish asosida qaror qabul qilishga o‘rgatish", isCorrect: true },
+      { answerText: "Ma’lumotlarni o’qitishda har doim eng tez natija olish", isCorrect: false },
+      { answerText: "Ma’lumotlarni o’qitishda vizual interfeys yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mashina qanday maʼlumot asosida o‘rganadi?",
+    answerOptions: [
+      { answerText: "Kodlangan signal qiymatlari asosida", isCorrect: false },
+      { answerText: "Tajriba va oldingi maʼlumotlar asosida", isCorrect: true },
+      { answerText: "Kompilyatsiya qilingan kod asosida", isCorrect: false },
+      { answerText: "Diagrammalar va grafiklar asosida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mashinali o‘qitish modellarining ishlashida nimalar talab etiladi?",
+    answerOptions: [
+      { answerText: "Faqat dastur kodlari", isCorrect: false },
+      { answerText: "O‘quv maʼlumotlari", isCorrect: true },
+      { answerText: "Zamonaviy qurilmalar", isCorrect: false },
+      { answerText: "Formatlangan ma’lumotlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mashinali o’qitish modelining o‘rganish jarayoni nima deb ataladi?",
+    answerOptions: [
+      { answerText: "Preprocessing", isCorrect: false },
+      { answerText: "Trening", isCorrect: true },
+      { answerText: "Learning", isCorrect: false },
+      { answerText: "Processing", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri mashinali o’qitish modelining vazifasi hisoblanadi?",
+    answerOptions: [
+      { answerText: "Ma’lumotlarni saqlash", isCorrect: false },
+      { answerText: "Kompyuterli ko‘rish", isCorrect: false },
+      { answerText: "Bashorat qilish", isCorrect: true },
+      { answerText: "Matnni tarjima qilish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mashinali o‘qitish nechta asosiy turga bo‘linadi?",
+    answerOptions: [
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "3 ta", isCorrect: true },
+      { answerText: "4 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "O‘qituvchili o‘qitishning turlarini aniqlang",
+    answerOptions: [
+      { answerText: "Bashorat va tanlash", isCorrect: false },
+      { answerText: "Regressiya va tasniflash", isCorrect: true },
+      { answerText: "Tavsiya va filtrlash", isCorrect: false },
+      { answerText: "Normalizatsiya va standartizatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "O‘qituvchisiz o‘qitishda nima asosida tasniflash amalga oshiriladi?",
+    answerOptions: [
+      { answerText: "Javoblar to‘plamining belgilari asosida", isCorrect: false },
+      { answerText: "Ma’lumotni o‘xshashlik belgilari asosida", isCorrect: true },
+      { answerText: "Foydalanuvchini kiritgan qiymatlari asosida", isCorrect: false },
+      { answerText: "Grafikli interfeys diagrammalar asosida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mustahkamlangan o‘qitishda agent qanday ishlaydi?",
+    answerOptions: [
+      { answerText: "Yordamchisiz o‘zi mustaqil ishlaydi", isCorrect: false },
+      { answerText: "Mukofot va jazolar asosida ishlaydi", isCorrect: true },
+      { answerText: "Doimiy nazorat ostida ishlaydi", isCorrect: false },
+      { answerText: "Oldindan berilgan javoblar asosida ishlaydi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "O‘yin dasturlarida qaysi mashinali o’qitish turi ko‘proq qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "O‘qituvchili o‘qitish", isCorrect: false },
+      { answerText: "O‘qituvchisiz o‘qitish", isCorrect: false },
+      { answerText: "Mustahkamlangan o‘qitish", isCorrect: true },
+      { answerText: "Hibrid o‘qitish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "O‘qituvchili o‘qitishda ma’lumotlar qanday bo‘ladi?",
+    answerOptions: [
+      { answerText: "Faol belgilanmagan", isCorrect: false },
+      { answerText: "Tasodifiy tanlanmagan", isCorrect: false },
+      { answerText: "Oldindan belgilangan", isCorrect: true },
+      { answerText: "Chizmalarda ifodalangan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Klasterlash qaysi turdagi mashinali o‘qitishga tegishli?",
+    answerOptions: [
+      { answerText: "O‘qituvchisiz o‘qitish", isCorrect: true },
+      { answerText: "O‘qituvchili o‘qitish", isCorrect: false },
+      { answerText: "Mustahkamlangan o‘qitish", isCorrect: false },
+      { answerText: "Neyron tarmoqlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Regressiya nima qiladi?",
+    answerOptions: [
+      { answerText: "Davomiy qiymatlarni bashoratlaydi", isCorrect: true },
+      { answerText: "Ovozli buyruqlarni tahlil qilib aniqlaydi", isCorrect: false },
+      { answerText: "Ma’lumotlarni guruhlarga ajratadi", isCorrect: false },
+      { answerText: "Avvlgi qoidalar asosida yangi qoidalar yaratadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tasniflash algoritmi vazifasi nima?",
+    answerOptions: [
+      { answerText: "Fayllarni bir-biriga birlashtirish", isCorrect: false },
+      { answerText: "Obyektlarni sinflarga ajratish", isCorrect: true },
+      { answerText: "Diagramma chizmalar chizish", isCorrect: false },
+      { answerText: "Kiruvchi signallarni filtrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi mashinali o’qitish turlaridan qaysi biri real vaqtda o‘rganish imkonini",
+    answerOptions: [
+      { answerText: "O‘qituvchisiz o‘qitish", isCorrect: false },
+      { answerText: "Mustahkamlashsiz o‘qitish", isCorrect: false },
+      { answerText: "Mustahkamlangan o‘qitish", isCorrect: true },
+      { answerText: "O’qituvchili o’qitish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi algoritmlardan qaysi biri o‘qituvchili o‘qitishga misol bo‘ladi?",
+    answerOptions: [
+      { answerText: "K-means", isCorrect: false },
+      { answerText: "PCA", isCorrect: false },
+      { answerText: "SVM", isCorrect: true },
+      { answerText: "GAN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi algoritmlardan qaysi biri o‘qituvchisiz o‘qitishga mansub?",
+    answerOptions: [
+      { answerText: "Logistic Regression", isCorrect: false },
+      { answerText: "Decision Tree", isCorrect: false },
+      { answerText: "K-means", isCorrect: true },
+      { answerText: "Naive Bayes", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-means algoritmi nima vazifani bajaradi?",
+    answerOptions: [
+      { answerText: "Ma’lumotlarni klasterlarga ajratadi", isCorrect: true },
+      { answerText: "Ma’lumotlarni shifrlash orqali kodlaydi", isCorrect: false },
+      { answerText: "Matnni bir tildan boshqasiga tarjima qiladi", isCorrect: false },
+      { answerText: "Neyron tarmoqni sinovdan o‘tkazadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri mustahkamlangan o‘qitish sohasida ishlatilmaydi?",
+    answerOptions: [
+      { answerText: "Agent", isCorrect: false },
+      { answerText: "Klaster", isCorrect: true },
+      { answerText: "Muhit", isCorrect: false },
+      { answerText: "Harakat", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Nazoratli o‘qitishda model qanday ma’lumot bilan ishlaydi?",
+    answerOptions: [
+      { answerText: "Rasm va video ko’rinishdagi ma’lumotlar bilan", isCorrect: false },
+      { answerText: "Kirish va chiqish ma’lumotlari bilan", isCorrect: true },
+      { answerText: "Faqat kirish ma’lumotlari bilan", isCorrect: false },
+      { answerText: "Faqat ovozli signal ma’lumotlari bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri nazoratli o‘qitishga misol bo‘la oladi?",
+    answerOptions: [
+      { answerText: "K-means klasterlash", isCorrect: false },
+      { answerText: "Apriori algoritmi", isCorrect: false },
+      { answerText: "Logistic regressiya", isCorrect: true },
+      { answerText: "Principal Component Analysis", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Regression tahlilining asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Toifalarni ajratish", isCorrect: false },
+      { answerText: "Matnni analiz qilish", isCorrect: false },
+      { answerText: "Qiymatlarni bashorat qilish", isCorrect: true },
+      { answerText: "Harakatlarni sinchiklab o‘rganish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oddiy chiziqli regressiyada nechta mustaqil o‘zgaruvchi ishtirok etadi?",
+    answerOptions: [
+      { answerText: "0", isCorrect: false },
+      { answerText: "2", isCorrect: false },
+      { answerText: "1", isCorrect: true },
+      { answerText: "3", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Logistic regressiyaning chiqish qiymati qanday oraliqda bo‘ladi?",
+    answerOptions: [
+      { answerText: "-1 va 0 oralig‘ida", isCorrect: false },
+      { answerText: "0 va 1 oralig‘ida", isCorrect: true },
+      { answerText: "-∞ dan +∞ gacha", isCorrect: false },
+      { answerText: "Faqat musbat sonlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Nazoratsiz o‘qitishda model qanday ma’lumot bilan ishlaydi?",
+    answerOptions: [
+      { answerText: "Kirish va chiqish ma’lumotlari bilan", isCorrect: false },
+      { answerText: "Faqat kirish ma’lumotlari bilan", isCorrect: true },
+      { answerText: "Yozma qoidalarni ma’lumotlari bilan", isCorrect: false },
+      { answerText: "Belgilangan sinf ma’lumotlri bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri nazoratsiz o‘qitishga misol bo‘la oladi?",
+    answerOptions: [
+      { answerText: "K-means klasterlash", isCorrect: true },
+      { answerText: "Logistic regressiya", isCorrect: false },
+      { answerText: "Chiziqli regressiya", isCorrect: false },
+      { answerText: "Decision tree", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-means algoritmida “K” nimani bildiradi?",
+    answerOptions: [
+      { answerText: "Model parametrlari sonini", isCorrect: false },
+      { answerText: "Klasterlar sonini", isCorrect: true },
+      { answerText: "Takrorlashlar sonini", isCorrect: false },
+      { answerText: "O‘zgaruvchilar sonini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi bosqichlardan qaysi biri K-means algoritmiga tegishli emas?",
+    answerOptions: [
+      { answerText: "Tasodifiy markazlar tanlash", isCorrect: false },
+      { answerText: "Chiziqli regressiya qurish", isCorrect: true },
+      { answerText: "Har bir nuqtani eng yaqin markazga tayinlash", isCorrect: false },
+      { answerText: "Klaster markazlarini yangilash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-means algoritmi qanday mezon asosida klasterlarni ajratadi?",
+    answerOptions: [
+      { answerText: "Ehtimollik", isCorrect: false },
+      { answerText: "Evklid masofasi", isCorrect: true },
+      { answerText: "Bayes qoidasi", isCorrect: false },
+      { answerText: "Entropiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "PCA qanday maqsadga xizmat qiladi?",
+    answerOptions: [
+      { answerText: "Modellarni baholash", isCorrect: false },
+      { answerText: "Belgilar o‘lchamini kamaytirish", isCorrect: true },
+      { answerText: "Raqamli sonlarni bashorat qilish", isCorrect: false },
+      { answerText: "Ma’lumotlarni guruhlarga ajratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri eng ko‘p qo‘llaniladigan xatolik funktsiyasi?",
+    answerOptions: [
+      { answerText: "Cross entropy", isCorrect: false },
+      { answerText: "Minimal ehtimolliy xatolik", isCorrect: false },
+      { answerText: "O‘rta kvadratik xatolik", isCorrect: true },
+      { answerText: "O‘rtacha absolyut xatolik", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MAE qanday xatolikni o‘lchaydi?",
+    answerOptions: [
+      { answerText: "O‘rtacha absolyut xatolik", isCorrect: true },
+      { answerText: "Maksimal ehtimoliy xatolik", isCorrect: false },
+      { answerText: "Diskret aniqlik", isCorrect: false },
+      { answerText: "O‘rta kvadratik xatolik", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Gradiyent pastlash algoritmi nima uchun qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Tarmoq diagrammasini chizish uchun", isCorrect: false },
+      { answerText: "Vizual natijani chiqarish uchun", isCorrect: false },
+      { answerText: "Parametrlarni yangilash uchun", isCorrect: true },
+      { answerText: "Fayl formatini almashtirish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Gradiyent pastlashda “learning rate” nima?",
+    answerOptions: [
+      { answerText: "Chuqurlik chegarasi", isCorrect: false },
+      { answerText: "O‘rganish tezligi (α)", isCorrect: true },
+      { answerText: "Parametr soni", isCorrect: false },
+      { answerText: "Grafik o‘lchami", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri regressiya masalalariga tegishli xatolik?",
+    answerOptions: [
+      { answerText: "Cross-entropy", isCorrect: false },
+      { answerText: "Confusion matrix", isCorrect: false },
+      { answerText: "Mean Squared Error", isCorrect: true },
+      { answerText: "F1 score", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Cross-entropy asosan qaysi vazifalarda ishlatiladi?",
+    answerOptions: [
+      { answerText: "Tasniflash", isCorrect: true },
+      { answerText: "Regressiya", isCorrect: false },
+      { answerText: "Klasterlash", isCorrect: false },
+      { answerText: "Matn generatsiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xatolikni kamaytirish orqali model qanday holatga keladi?",
+    answerOptions: [
+      { answerText: "Grafik ko‘rinishga", isCorrect: false },
+      { answerText: "Optimal bashoratlash", isCorrect: true },
+      { answerText: "Tasodifiy natijaga", isCorrect: false },
+      { answerText: "Hisoblashga ehtiyoji yo‘q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Precision formulasi qanday?",
+    answerOptions: [
+      { answerText: "TP / (TP + FP)", isCorrect: true },
+      { answerText: "TN / (FN + TP)", isCorrect: false },
+      { answerText: "TP / FN", isCorrect: false },
+      { answerText: "TP + TN / FP + FN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Accuracy formulasi to‘g‘ri ko‘rsatilgan variantni tanlang:",
+    answerOptions: [
+      { answerText: "FP / (TP + TN - FP + FN)", isCorrect: false },
+      { answerText: "TP / (TP + TN + FP + FN)", isCorrect: false },
+      { answerText: "(TP + TN) / (TP + TN + FP + FN)", isCorrect: true },
+      { answerText: "FN / (TP + TN - FP + FN)", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Modelda haddan tashqari moslashuv qanday nomlanadi?",
+    answerOptions: [
+      { answerText: "Undershooting", isCorrect: false },
+      { answerText: "Overfitting", isCorrect: true },
+      { answerText: "Overlearning", isCorrect: false },
+      { answerText: "Cross-loop", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Gradiyent pastlash algoritmining nechta asosiy turi mavjud?",
+    answerOptions: [
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "3 ta", isCorrect: true },
+      { answerText: "4 ta", isCorrect: false },
+      { answerText: "1 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Batch gradiyent pastlashda qanday yondashuv qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Tasodifiy namunalar tanlanadi", isCorrect: false },
+      { answerText: "Faqat 1 ta nuqta ishlatiladi", isCorrect: false },
+      { answerText: "Butun ma’lumotlar to‘plamidan foydalaniladi", isCorrect: true },
+      { answerText: "Modelning eski qiymatlari avtomatik yangilanadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Stoxastik gradiyent pastlashning afzalligi nima?",
+    answerOptions: [
+      { answerText: "Grafik chizmasining chiroyli chiqishi", isCorrect: false },
+      { answerText: "Tez yangilanish va moslashuvchanligi", isCorrect: true },
+      { answerText: "Har doim aniq natija berishi", isCorrect: false },
+      { answerText: "Faqat test to‘plamida ishlaydi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Batch gradient descentda asosiy kamchilik nima?",
+    answerOptions: [
+      { answerText: "Ishlash tezligi past", isCorrect: false },
+      { answerText: "Vizual interfeysi mavjud emas", isCorrect: false },
+      { answerText: "Resurslarga katta talab qo‘yadi", isCorrect: true },
+      { answerText: "Bashorat qiymatlarining xatoligi katta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Stochastic gradient descent qachon ishlatiladi?",
+    answerOptions: [
+      { answerText: "Vizual tahlilda", isCorrect: false },
+      { answerText: "Big data bilan ishlaganda", isCorrect: true },
+      { answerText: "Grafik interfeys bilan ishlaganda", isCorrect: false },
+      { answerText: "Axborot xavfsizligida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Gradiyent pastlash algoritmi iteratsiya davomida nima qiladi?",
+    answerOptions: [
+      { answerText: "Ma’lumotlarni tasniflaydi", isCorrect: false },
+      { answerText: "Grafik hosil qiladi", isCorrect: false },
+      { answerText: "Xatolikni kamaytiradi", isCorrect: true },
+      { answerText: "Ishlash tezligini oshiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "O‘qituvchili o‘qitish algoritmlarining asosiy xususiyati nima?",
+    answerOptions: [
+      { answerText: "Ma’lumotlar belgilanmagan bo‘ladi", isCorrect: false },
+      { answerText: "Tarmoq orqali o‘qitiladi", isCorrect: false },
+      { answerText: "Belgilangan ma’lumotlar bilan ishlaydi", isCorrect: true },
+      { answerText: "Faqat real vaqtda ma’lumotlarni o‘rganadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Chiziqli regressiyada bashorat natijasi qanday topiladi?",
+    answerOptions: [
+      { answerText: "if-else sharti yordamida", isCorrect: false },
+      { answerText: "w·x + b formula asosida", isCorrect: true },
+      { answerText: "Evristik qoidalar asosida", isCorrect: false },
+      { answerText: "Matnlarni tahlil qilish yordamida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Polinomial regressiyada qanday funksiya ishlatiladi?",
+    answerOptions: [
+      { answerText: "Faqat birinchi darajali funksiya", isCorrect: false },
+      { answerText: "Kvadratik va kubuk funksiya", isCorrect: true },
+      { answerText: "Sinusoidal funksiya", isCorrect: false },
+      { answerText: "ReLU faollashtirish funksiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Logistik regressiya qanday natijani chiqaradi?",
+    answerOptions: [
+      { answerText: "Davomiy sonlar", isCorrect: false },
+      { answerText: "0 dan 1 gacha ehtimollik", isCorrect: true },
+      { answerText: "Matnli tushunchalar", isCorrect: false },
+      { answerText: "Grafik ifoda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-NN algoritmida masofani o‘lchash uchun qanday formula ishlatiladi?",
+    answerOptions: [
+      { answerText: "Manhattan masofa", isCorrect: false },
+      { answerText: "Mahalanobis masofa", isCorrect: false },
+      { answerText: "Evklid masofa", isCorrect: true },
+      { answerText: "Hamming masofa", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SVM algoritmi qanday muammolarni hal qilish uchun ko‘proq ishlatiladi?",
+    answerOptions: [
+      { answerText: "Matn generatsiyasi", isCorrect: false },
+      { answerText: "Tasniflash", isCorrect: true },
+      { answerText: "Klasterlash", isCorrect: false },
+      { answerText: "Signal uzatish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Regulyarizatsiya algoritmlarining asosiy maqsadi nima?",
+    answerOptions: [
+      { answerText: "Chiziqni chizish", isCorrect: false },
+      { answerText: "overfittingni kamaytirish", isCorrect: true },
+      { answerText: "Grafik interfeysni sozlash", isCorrect: false },
+      { answerText: "Ma’lumotlarni klasterlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri o‘qituvchili o‘qitish algoritmiga misol bo‘la olmaydi?",
+    answerOptions: [
+      { answerText: "Chiziqli regressiya", isCorrect: false },
+      { answerText: "Logistik regressiya", isCorrect: false },
+      { answerText: "K-means", isCorrect: true },
+      { answerText: "SVM", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-means algoritmining asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Ko’p qatlamli neyron tarmoqni qurish", isCorrect: false },
+      { answerText: "Regressiya chiziqlari chizish", isCorrect: false },
+      { answerText: "Ma’lumotlarni klasterlarga ajratish", isCorrect: true },
+      { answerText: "Ma’lumotlarni guruhlarga ajratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-means algoritmi qanday turdagi mashinali o‘qitishga mansub?",
+    answerOptions: [
+      { answerText: "Mustahkamlangan", isCorrect: false },
+      { answerText: "O’qituvchili", isCorrect: false },
+      { answerText: "O‘qituvchisiz", isCorrect: true },
+      { answerText: "Hybrid", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "K-means algoritmining birinchi qadami nima?",
+    answerOptions: [
+      { answerText: "Masofa hisoblash", isCorrect: false },
+      { answerText: "Klasterlar sonini tanlash", isCorrect: true },
+      { answerText: "Grafik chizish", isCorrect: false },
+      { answerText: "Sigmoid funksiyani qo‘llash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Har bir ma’lumot nuqtasi qanday klasterga biriktiriladi?",
+    answerOptions: [
+      { answerText: "Tasodifiy markaz nuqtasiga", isCorrect: false },
+      { answerText: "Eng yaqin markaz nuqtasiga", isCorrect: true },
+      { answerText: "Eng uzoq joylashgan nuqtaga", isCorrect: false },
+      { answerText: "O‘rta qiymatga ko‘ra", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Klaster markazlari qanday yangilanadi?",
+    answerOptions: [
+      { answerText: "Tasodifiy nuqtalar tanlanadi", isCorrect: false },
+      { answerText: "Ilgari tanlangan markazlar qoldiriladi", isCorrect: false },
+      { answerText: "Nuqtalarning o‘rtacha qiymati olinadi", isCorrect: true },
+      { answerText: "Jadvaldagi eng kichik qiymat markazi olinadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri K-means bosqichlaridan biri emas?",
+    answerOptions: [
+      { answerText: "Klaster sonini aniqlash", isCorrect: false },
+      { answerText: "Markazlarni tanlash", isCorrect: false },
+      { answerText: "Masofani o‘lchash", isCorrect: false },
+      { answerText: "Tasniflagich model qurish", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Klasterlash jarayoni qaysi sohalarda ko‘proq qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Regressiyada", isCorrect: false },
+      { answerText: "Segmentatsiyada", isCorrect: true },
+      { answerText: "Matn tarjimasida", isCorrect: false },
+      { answerText: "Sensor sozlashda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sigmoid faollashtirish funksiyasi qanday qiymatlar oralig‘ida bo‘ladi?",
+    answerOptions: [
+      { answerText: "−∞;+∞", isCorrect: false },
+      { answerText: "0;1", isCorrect: true },
+      { answerText: "–1; 1", isCorrect: false },
+      { answerText: "0;∞", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi muammo sun’iy neyron tarmoqlar yordamida yechilishi",
+    answerOptions: [
+      { answerText: "Tasvir yoki tovush signallarini tasniflash va tanib olish.", isCorrect: true },
+      { answerText: "Murakkab fizik tenglamani avtomatlashgan usulda yechish.", isCorrect: false },
+      { answerText: "Manual ravishda hujjat tayyorlash.", isCorrect: false },
+      { answerText: "Aniq matematik formula yordamida murakkab masalani yechish.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Neyron tarmoq tuzilishi qaysi qatlamlardan iborat?",
+    answerOptions: [
+      { answerText: "Yuqori yashirin va quyi qatlamlardan", isCorrect: false },
+      { answerText: "Kirish, yashirin va chiqish qatlamlaridan.", isCorrect: true },
+      { answerText: "Faqat yashirin qatlamlaridan.", isCorrect: false },
+      { answerText: "Kirish va chiqish qatlamlaridan.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sun’iy neyron tarmoqlarda kirish qatlamining vazifasi nima?",
+    answerOptions: [
+      { answerText: "Chiqishlarni nazorat qilish", isCorrect: false },
+      { answerText: "Og‘irliklarni yangilash", isCorrect: false },
+      { answerText: "Ma’lumotlarni qabul qilish", isCorrect: true },
+      { answerText: "Sinov ma’lumotlarini saqlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi mantiqiy funksiya oddiy perseptron bilan ifodalanmaydi?",
+    answerOptions: [
+      { answerText: "AND", isCorrect: false },
+      { answerText: "OR", isCorrect: false },
+      { answerText: "NOT", isCorrect: false },
+      { answerText: "XOR", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Perceptron o‘rganish qoidasi qaysi formulaga asoslanadi?",
+    answerOptions: [
+      { answerText: "w = w + y * x", isCorrect: false },
+      { answerText: "w = w + x * d", isCorrect: false },
+      { answerText: "w = w + η (d - y) * x", isCorrect: true },
+      { answerText: "w = w * x + η", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "9. Agar perceptronning chiqishi noto‘g‘ri bo‘lsa, nima sodir bo‘ladi?",
+    answerOptions: [
+      { answerText: "Og‘irliklar o‘zgartirilmaydi", isCorrect: false },
+      { answerText: "Og‘irliklar o‘zgartiriladi", isCorrect: true },
+      { answerText: "Chiqish o‘chiriladi", isCorrect: false },
+      { answerText: "Tarmoq to‘xtaydi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sun’iy neyron tarmog‘i nechta asosiy qatlamdan iborat bo‘ladi?",
+    answerOptions: [
+      { answerText: "2", isCorrect: false },
+      { answerText: "5", isCorrect: false },
+      { answerText: "3", isCorrect: true },
+      { answerText: "4", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi qatlam neyron tarmoqdan bashorat sifatida chiqadi?",
+    answerOptions: [
+      { answerText: "Kirish qatlam", isCorrect: false },
+      { answerText: "Faollashtirish qatlam", isCorrect: false },
+      { answerText: "Chiqish qatlam", isCorrect: true },
+      { answerText: "Yadro qatlam", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Yashirin qatlamning asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Kiruvchi ma’lumotlarni tasniflash", isCorrect: false },
+      { answerText: "Foydalanuvchini qiymatlarini aniqlash", isCorrect: false },
+      { answerText: "Murakkab xususiyatlarni o‘rganish", isCorrect: true },
+      { answerText: "Foydalanuvchi ma’lumotlari asosida grafik chizish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Neyron tarmoq chuqurligi nimalarga bog‘liq?",
+    answerOptions: [
+      { answerText: "Kiruvchi qiymatlar soniga", isCorrect: false },
+      { answerText: "Yashirin qatlamlar soniga", isCorrect: true },
+      { answerText: "Chiqish darajasiga", isCorrect: false },
+      { answerText: "O‘rganish algoritmiga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri sun’iy neyron tarmog‘i komponenti emas?",
+    answerOptions: [
+      { answerText: "Og‘irlik", isCorrect: false },
+      { answerText: "Bias", isCorrect: false },
+      { answerText: "Data mining moduli", isCorrect: true },
+      { answerText: "Aktivatsiya funksiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Eng sodda perseptron modeli qachon ixtiro qilingan?",
+    answerOptions: [
+      { answerText: "1956-yilda", isCorrect: true },
+      { answerText: "1989-yilda", isCorrect: false },
+      { answerText: "1943-yilda", isCorrect: false },
+      { answerText: "2001-yilda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Perseptron modelini kimlar taklif qilgan?",
+    answerOptions: [
+      { answerText: "Alan Turing va John von Neumann", isCorrect: false },
+      { answerText: "Uorren Makkaloch va Uolter Pitts", isCorrect: true },
+      { answerText: "Geoffrey Hinton va Yann LeCun", isCorrect: false },
+      { answerText: "Claude Shannon va Norbert Wiener", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Perseptron modelining kiruvchi elementlari qanday belgilanadi?",
+    answerOptions: [
+      { answerText: "y1,y2, ,,,yn", isCorrect: false },
+      { answerText: "x1,x2,...,xn", isCorrect: true },
+      { answerText: "w1,w2,…wn", isCorrect: false },
+      { answerText: "b1,b2,…bn", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Og‘irliklar qanday belgilanadi?",
+    answerOptions: [
+      { answerText: "x", isCorrect: false },
+      { answerText: "z", isCorrect: false },
+      { answerText: "w", isCorrect: true },
+      { answerText: "y", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri perseptronning aktivatsiya funksiyasi sifatida",
+    answerOptions: [
+      { answerText: "Tangens", isCorrect: false },
+      { answerText: "Sigmoid", isCorrect: true },
+      { answerText: "Log funksiyasi", isCorrect: false },
+      { answerText: "Maksimum", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Aktivatsiya funksiyasining vazifasi nima?",
+    answerOptions: [
+      { answerText: "Model qiymatlarini tasniflash", isCorrect: false },
+      { answerText: "Chiqish signalini belgilash", isCorrect: true },
+      { answerText: "Vazn qiymatlarini saqlash", isCorrect: false },
+      { answerText: "Kiruvchi qiymatlarni yangilash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sigmoid funksiyaning natijasi qanday oraliqda bo‘ladi?",
+    answerOptions: [
+      { answerText: "[−1;1]", isCorrect: false },
+      { answerText: "[1;∞]", isCorrect: false },
+      { answerText: "[−∞;∞]", isCorrect: false },
+      { answerText: "[0;1]", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "“Chuqur” atamasi neyron tarmoqlarda nimani bildiradi?",
+    answerOptions: [
+      { answerText: "Mashinaning tezligini", isCorrect: false },
+      { answerText: "Grafik chuqurligini", isCorrect: false },
+      { answerText: "Qatlamlar sonining ko‘pligini", isCorrect: true },
+      { answerText: "Tarmoqning grafik interfeysini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN (Convolutional Neural Network) tarmog‘i asosan nima uchun",
+    answerOptions: [
+      { answerText: "Matnlarni tarjima qilish uchun", isCorrect: false },
+      { answerText: "Tasvirlarni tahlil qilish uchun", isCorrect: true },
+      { answerText: "Ovozni tanib olish uchun", isCorrect: false },
+      { answerText: "Grafik interfeys yaratish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN (Recurrent Neural Network) qanday turdagi ma’lumotlar bilan ishlashga",
+    answerOptions: [
+      { answerText: "Rasmli ma’lumotlar", isCorrect: false },
+      { answerText: "Ketma-ket ma’lumotlar", isCorrect: true },
+      { answerText: "Grafikli ma’lumotlar", isCorrect: false },
+      { answerText: "Ovozli ma’lumotlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN arxitekturasi nechta asosiy qatlamdan iborat?",
+    answerOptions: [
+      { answerText: "2", isCorrect: false },
+      { answerText: "4", isCorrect: false },
+      { answerText: "6", isCorrect: true },
+      { answerText: "1", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Recurrent tarmoqda xotira qanday saqlanadi?",
+    answerOptions: [
+      { answerText: "Kirish qatlamida", isCorrect: false },
+      { answerText: "Oldingi natijalar asosida", isCorrect: true },
+      { answerText: "Foydalanuvchi orqali", isCorrect: false },
+      { answerText: "Softmax funksiyasi orqali", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "“Backpropagation” nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Faollikni o‘chirish uchun", isCorrect: false },
+      { answerText: "Kirishlarni saqlash uchun", isCorrect: false },
+      { answerText: "Og‘irliklarni yangilash uchun", isCorrect: true },
+      { answerText: "Foydalanuvchi interfeysi uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Deep Learning modellarining o‘ziga xos xususiyati nima?",
+    answerOptions: [
+      { answerText: "Belgilarni kiritish kerak emas", isCorrect: false },
+      { answerText: "Xususiyatlarni avtomatik aniqlaydi", isCorrect: true },
+      { answerText: "Har doim ustun chiqadi", isCorrect: false },
+      { answerText: "Kam qatlam ishlatiladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri chuqur o‘qitish tarmog‘i turi emas?",
+    answerOptions: [
+      { answerText: "CNN", isCorrect: false },
+      { answerText: "RNN", isCorrect: false },
+      { answerText: "Feedforward", isCorrect: false },
+      { answerText: "Naive Bayes", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Ko‘p qatlamli perseptron modeli qaysi algoritmga asoslanadi?",
+    answerOptions: [
+      { answerText: "Naïve Bayes", isCorrect: false },
+      { answerText: "K-means", isCorrect: false },
+      { answerText: "Backpropagation", isCorrect: true },
+      { answerText: "Qoidalar asosidagi tizim", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ko‘p qatlamli perseptronning chiqish qatlamida nechta neyron bo‘ladi?",
+    answerOptions: [
+      { answerText: "Har doim 3 ta", isCorrect: false },
+      { answerText: "Model turiga qarab", isCorrect: true },
+      { answerText: "Faqat bitta", isCorrect: false },
+      { answerText: "Har doim o‘zgaruvchi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ko‘p qatlamli perseptron modelining kirish qatlamidagi neyronlar soni nima",
+    answerOptions: [
+      { answerText: "Sinf soni bilan", isCorrect: false },
+      { answerText: "Xususiyatlar soni bilan", isCorrect: true },
+      { answerText: "Yashirin qatlamlar bilan", isCorrect: false },
+      { answerText: "Ehtimolliklar bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Faollashtirish funksiyasi modelda nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Ma’lumotlarni yashirin qatlamda saqlab turish uchun", isCorrect: false },
+      { answerText: "Chiqishni chiziqli bo‘lmagan shaklga o‘tkazish uchun", isCorrect: true },
+      { answerText: "Kiruvchi qiymatlarni yashirin qatlamda o‘zgartirish uchun", isCorrect: false },
+      { answerText: "Chuqur neyron tarmoqda o‘rgatish tezligini oshirish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ko‘p qatlamli perseptron modeli nechta yashirin qatlamga ega bo‘lishi",
+    answerOptions: [
+      { answerText: "Har doim 1 ta", isCorrect: false },
+      { answerText: "Bir yoki undan ko‘p", isCorrect: true },
+      { answerText: "Faqat 2 ta", isCorrect: false },
+      { answerText: "Har doim 5 ta qatlam", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ReLU funksiyasi qanday turdagi faollashtirish funksiyasidir?",
+    answerOptions: [
+      { answerText: "Chiziqli", isCorrect: false },
+      { answerText: "Nochiziqli", isCorrect: true },
+      { answerText: "Kvadratik", isCorrect: false },
+      { answerText: "Logarifmik", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ReLU funksiyasi qanday matematik ifoda bilan yoziladi?",
+    answerOptions: [
+      { answerText: "f(x)=11+e−x", isCorrect: false },
+      { answerText: "f(x)=log(x)", isCorrect: false },
+      { answerText: "f(x)=max(0,x)", isCorrect: true },
+      { answerText: "f(x)=x^2", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ReLU funksiyasining chiqishi qanday oraliqda bo‘ladi?",
+    answerOptions: [
+      { answerText: "[−1,1]", isCorrect: false },
+      { answerText: "[0,1]", isCorrect: false },
+      { answerText: "[0, +∞)", isCorrect: true },
+      { answerText: "[−∞,+∞]", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ReLU qaysi neyron tarmoqda eng ko‘p qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "RNN", isCorrect: false },
+      { answerText: "CNN", isCorrect: true },
+      { answerText: "LSTM", isCorrect: false },
+      { answerText: "GAN", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "“Dying ReLU” nima?",
+    answerOptions: [
+      { answerText: "Tarmoqlarni to‘xtatadi", isCorrect: false },
+      { answerText: "Aktivatsiya qiymatlari sonini kamaytiradi", isCorrect: false },
+      { answerText: "Neyron faqat nol qiymatiga o‘tib qoladi", isCorrect: true },
+      { answerText: "Neyron tarmoq o’qitish tezligini oshiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Leaky ReLU matematik formulasi qanday?",
+    answerOptions: [
+      { answerText: "y=x^2", isCorrect: true },
+      { answerText: "y=0.01⋅x", isCorrect: false },
+      { answerText: "y=1/x", isCorrect: false },
+      { answerText: "y=−x", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ReLU funksiyasi qaysi kirish qiymatlarida nolga aylanadi?",
+    answerOptions: [
+      { answerText: "x>0", isCorrect: false },
+      { answerText: "x=1", isCorrect: false },
+      { answerText: "x≤0", isCorrect: true },
+      { answerText: "x<10", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ReLU gradiyenti qanday qiymatga ega bo‘ladi (x > 0)?",
+    answerOptions: [
+      { answerText: "0", isCorrect: false },
+      { answerText: "–1", isCorrect: false },
+      { answerText: "1", isCorrect: true },
+      { answerText: "∞", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri ReLU turiga kirmaydi?",
+    answerOptions: [
+      { answerText: "Leaky ReLU", isCorrect: false },
+      { answerText: "Parametrik ReLU", isCorrect: false },
+      { answerText: "Softmax ReLU", isCorrect: true },
+      { answerText: "Dying ReLU", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Softmax funksiyasi asosan qaysi muammolarni hal qilish uchun qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Regression", isCorrect: false },
+      { answerText: "Ko‘p sinfli tasniflash", isCorrect: true },
+      { answerText: "Klasterlash", isCorrect: false },
+      { answerText: "Vaqt ketma-ketligi tahlili", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Softmax funksiyasi chiqishini qanday oraliqqa o‘zgartiradi?",
+    answerOptions: [
+      { answerText: "[−1; 1]", isCorrect: false },
+      { answerText: "[0; ∞)", isCorrect: false },
+      { answerText: "[−∞; ∞]", isCorrect: false },
+      { answerText: "[0; 1]", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Softmax funksiyasining afzalligi nimada?",
+    answerOptions: [
+      { answerText: "Oddiy ishlovchi tarmoq tuzadi", isCorrect: false },
+      { answerText: "Sinflar ehtimolini taqsimlaydi", isCorrect: true },
+      { answerText: "Sinflarni tartiblaydi", isCorrect: false },
+      { answerText: "Kiruvchilarni normalizatsiya qiladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Softmax funksiyasi ko‘proq qaysi qatlamda qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Kirish qatlamida", isCorrect: false },
+      { answerText: "Yashirin qatlamda", isCorrect: false },
+      { answerText: "Chiqish qatlamida", isCorrect: true },
+      { answerText: "Bias hosil qilishda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri Softmax bilan bevosita bog‘liq?",
+    answerOptions: [
+      { answerText: "Mean Squared Error", isCorrect: false },
+      { answerText: "Cross Entropy Loss", isCorrect: true },
+      { answerText: "Hinge Loss", isCorrect: false },
+      { answerText: "L1 Regulyarizatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oldinga siljish (forward propagation) nimani bildiradi?",
+    answerOptions: [
+      { answerText: "O’qitishdagi og‘irlik qiymatlarini orqaga uzatish", isCorrect: false },
+      { answerText: "Bashorat qiymatlarining xatoligini minimallashtirish", isCorrect: false },
+      { answerText: "Kirishdan chiqishgacha neyron qiymatlarini hisoblash", isCorrect: true },
+      { answerText: "Kiruvchi parametrlarni normalizatsiya qilish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oldinga siljishda hisoblash jarayoni qayerdan boshlanadi?",
+    answerOptions: [
+      { answerText: "Yashirin qatlamdan", isCorrect: false },
+      { answerText: "Kirish qatlamidan", isCorrect: true },
+      { answerText: "Chiqishdan", isCorrect: false },
+      { answerText: "Biasdan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Forward propagation natijasida nima hosil bo‘ladi?",
+    answerOptions: [
+      { answerText: "Gradiyent qiymatlari yangilanadi", isCorrect: false },
+      { answerText: "Modelning bashorat natijalari", isCorrect: false },
+      { answerText: "Kirishlar differensiali o’zgaradi", isCorrect: true },
+      { answerText: "Xatolik summasi kamayadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Backpropagation jarayonida qayta hisoblanadigan qiymat nima?",
+    answerOptions: [
+      { answerText: "Kiruvchilar soni", isCorrect: false },
+      { answerText: "Og‘irliklar va biaslar", isCorrect: false },
+      { answerText: "Grafik daraja", isCorrect: true },
+      { answerText: "Klassifikatsiya chiziqlari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Backpropagation algoritmi asosan qaysi matematik usulga asoslanadi?",
+    answerOptions: [
+      { answerText: "Diqqatli tahlil", isCorrect: false },
+      { answerText: "Zanjir qoidasi", isCorrect: true },
+      { answerText: "Statistik qoidalar", isCorrect: false },
+      { answerText: "Tasodifiy tanlov", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Forward bosqichida qatlamlar orasidagi ma’lumotlar qanday uzatiladi?",
+    answerOptions: [
+      { answerText: "Chiziqli regressiya orqali", isCorrect: false },
+      { answerText: "Og‘irliklar orqali tarqatiladi", isCorrect: true },
+      { answerText: "Sigmoid funksiya bilan to‘xtatiladi", isCorrect: false },
+      { answerText: "Neyronlar o‘chirib qo‘yiladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Og‘irliklarni yangilash qaysi algoritmga asoslanadi?",
+    answerOptions: [
+      { answerText: "Maxsus shifrlash", isCorrect: false },
+      { answerText: "Evristik tartib", isCorrect: false },
+      { answerText: "Gradiyent pastlash", isCorrect: true },
+      { answerText: "Bilimlar bazasi qoidalari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi qatlamda natija haqiqiy qiymatlar bilan taqqoslanadi?",
+    answerOptions: [
+      { answerText: "Kirish qatlamida", isCorrect: false },
+      { answerText: "Yashirin qatlamda", isCorrect: false },
+      { answerText: "Chiqish qatlamida", isCorrect: true },
+      { answerText: "Faollashtirish funksiyasida", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma’lumotlarni bir nechta batchlarga bo‘lib uzatishning sababi nima?",
+    answerOptions: [
+      { answerText: "Qayta ishlash tezligini oshirish", isCorrect: false },
+      { answerText: "Ma’lumotlarni grafik interfeysda ifodalash", isCorrect: false },
+      { answerText: "Xotira samaradorligini oshirish", isCorrect: true },
+      { answerText: "Ko‘p qatlamli regressiya tuzish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN qanday turdagi neyron tarmoq hisoblanadi?",
+    answerOptions: [
+      { answerText: "Takroriy tarmoq", isCorrect: false },
+      { answerText: "Konvolyutsion tarmoq", isCorrect: true },
+      { answerText: "Qoidaviy tasniflagich", isCorrect: false },
+      { answerText: "Grafik algoritm", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN asosan qanday turdagi ma’lumotlar bilan ishlaydi?",
+    answerOptions: [
+      { answerText: "Matnli fayllar", isCorrect: false },
+      { answerText: "Tasvir ko‘rinishidagi", isCorrect: true },
+      { answerText: "Raqamli signal", isCorrect: false },
+      { answerText: "Matritsa funksiyalar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN arxitekturasida nechta asosiy qatlam mavjud?",
+    answerOptions: [
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "3 ta", isCorrect: false },
+      { answerText: "4 ta", isCorrect: true },
+      { answerText: "5 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN tarmog‘i odatda qaysi protsessorlarda samaraliroq ishlaydi?",
+    answerOptions: [
+      { answerText: "CPU", isCorrect: false },
+      { answerText: "SSD", isCorrect: false },
+      { answerText: "RAM", isCorrect: false },
+      { answerText: "GPU", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "CNN qanday holatlarda o‘zini samarali ko‘rsatadi?",
+    answerOptions: [
+      { answerText: "Klasterlash", isCorrect: false },
+      { answerText: "Matn tarjimasi", isCorrect: false },
+      { answerText: "Rasm tahlili", isCorrect: true },
+      { answerText: "Oddiy klassifikatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNNda “filter” nima vazifani bajaradi?",
+    answerOptions: [
+      { answerText: "O’xshash piksellarni saqlaydi", isCorrect: false },
+      { answerText: "Xususiyatlarni ajratib oladi", isCorrect: true },
+      { answerText: "Tasvir formatini tekshiradi", isCorrect: false },
+      { answerText: "Tasvir chegaralarini ajratadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN qanday turdagi ma’lumotlar bilan ishlashga mos?",
+    answerOptions: [
+      { answerText: "Rasm ko’rinishidagi ma’lumotlar bilan", isCorrect: false },
+      { answerText: "Ketma-ketlikli ma’lumotlar bilan", isCorrect: true },
+      { answerText: "Tuzilmasiz matn bilan", isCorrect: false },
+      { answerText: "Matritsali raqamlar bilan", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN modelida qayta aloqa nima uchun kerak?",
+    answerOptions: [
+      { answerText: "Kiruvchilarni yig‘ish uchun", isCorrect: false },
+      { answerText: "Teskari bog‘lanishlarni tozalash uchun", isCorrect: false },
+      { answerText: "Avvalgi ma’lumotni saqlash uchun", isCorrect: true },
+      { answerText: "Tarmoqni normalizatsiya qilish uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "h_t = f(h_{t-1}, x_t) formulada f nima bildiradi?",
+    answerOptions: [
+      { answerText: "Kirish signali funksiyasi", isCorrect: false },
+      { answerText: "Gradiyent funksiyasi", isCorrect: false },
+      { answerText: "Aktivatsiya funksiyasi", isCorrect: true },
+      { answerText: "Maxsus filtr funksiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "LSTM modelining asosiy afzalligi nima?",
+    answerOptions: [
+      { answerText: "RNNga o‘xshash tezlikda qayta ishlashi", isCorrect: false },
+      { answerText: "Uzoq muddatli xotirani saqlay olishi", isCorrect: true },
+      { answerText: "Grafik interfeysga integratsiya bo’lishi", isCorrect: false },
+      { answerText: "Ma’lumotlarni parallel qayta ishlay olishi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN modelidagi xatolikni kamaytirish qanday amalga oshiriladi?",
+    answerOptions: [
+      { answerText: "O‘rta qiymatni topish bilan", isCorrect: false },
+      { answerText: "Pooling orqali", isCorrect: false },
+      { answerText: "Orqaga tarqatish", isCorrect: true },
+      { answerText: "Batch normalizatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN modelining kamchiligi nima?",
+    answerOptions: [
+      { answerText: "Qatlamlarning ko’pligi", isCorrect: false },
+      { answerText: "Hisoblashning sekinligi", isCorrect: true },
+      { answerText: "Kam qatlam ishlatilishi", isCorrect: false },
+      { answerText: "Kam xotira sarfi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN yadro qatlamida qanday holatlar mavjud?",
+    answerOptions: [
+      { answerText: "Har doim 0", isCorrect: false },
+      { answerText: "Faqat joriy signal", isCorrect: false },
+      { answerText: "Avvalgi va joriy holatlar", isCorrect: true },
+      { answerText: "Filtrlangan natijalar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN modelida tanh funksiyasi nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Kirishni saqlash uchun", isCorrect: false },
+      { answerText: "Softmaxni almashtirish uchun", isCorrect: false },
+      { answerText: "Aktivatsiya uchun", isCorrect: true },
+      { answerText: "Gradientni normallash uchun", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RNN qanday sohalarda keng qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Tasvir tahlilida", isCorrect: false },
+      { answerText: "Matn tahlilida", isCorrect: true },
+      { answerText: "Klasterlash", isCorrect: false },
+      { answerText: "To‘liq grafik tahlil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi algoritm qayta o‘rganishda keng qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "KNN", isCorrect: false },
+      { answerText: "Q-learning", isCorrect: true },
+      { answerText: "PCA", isCorrect: false },
+      { answerText: "Naive Bayes", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi algoritm SIda kiberxavfsizlikka doir tahdidlarni bashoratlashda keng",
+    answerOptions: [
+      { answerText: "PCA", isCorrect: false },
+      { answerText: "K-means", isCorrect: false },
+      { answerText: "Random Forest", isCorrect: true },
+      { answerText: "JPEG", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "NLP ning asosiy tahlil bosqichlari qaysilar?",
+    answerOptions: [
+      { answerText: "Kirish, Chiqish, Xatolik", isCorrect: false },
+      { answerText: "Morfologik, sintaktik, semantik", isCorrect: false },
+      { answerText: "Gradiyent, Regressiya, Normallash", isCorrect: true },
+      { answerText: "Vektor, Skaler, Matritsa", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Morfologik tahlil vazifasi nima?",
+    answerOptions: [
+      { answerText: "So’zlarni sintaktik tuzilmasini aniqlash", isCorrect: false },
+      { answerText: "So‘zlarni leksemalarga va morfemalarga ajratish", isCorrect: false },
+      { answerText: "So’zlar orasidagi gramatik munosabatlarni o’rganish", isCorrect: true },
+      { answerText: "So’zlarni aoudo ko’rinishga generatsiya qilish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sintaktik tahlilda nimalar o‘rganiladi?",
+    answerOptions: [
+      { answerText: "So‘zlarni leksemalarga va morfemalarga ajratish", isCorrect: false },
+      { answerText: "So‘zlar orasidagi grammatik munosabatlar", isCorrect: true },
+      { answerText: "So‘zlarni kanonik shaklga keltirish", isCorrect: false },
+      { answerText: "Harflar soni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Semantik tahlilning asosiy maqsadi nima?",
+    answerOptions: [
+      { answerText: "Lemma tanlash", isCorrect: false },
+      { answerText: "Matn ma’nosini aniqlash", isCorrect: true },
+      { answerText: "Sintaktik tuzilmani tasdiqlash", isCorrect: false },
+      { answerText: "Vaqt aniqligi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "NER (Named Entity Recognition) nima vazifani bajaradi?",
+    answerOptions: [
+      { answerText: "Kiruvchi qiymatlarni normallashtiradi", isCorrect: false },
+      { answerText: "Ismlar, joylar, tashkilotlarni aniqlaydi", isCorrect: true },
+      { answerText: "Audio yozuvlarni teskari tarjima qiladi", isCorrect: false },
+      { answerText: "Kiritilgan matndagi belgilarni sanaydi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Leksik tahlilning birinchi bosqichi nima?",
+    answerOptions: [
+      { answerText: "Teglash", isCorrect: false },
+      { answerText: "Tokenizatsiya", isCorrect: false },
+      { answerText: "Normalizatsiya", isCorrect: false },
+      { answerText: "Hissiyotli tahlil", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Tabiiy tilni qayta ishlashdagi eng murakkab bosqich nima?",
+    answerOptions: [
+      { answerText: "Tokenizatsiya", isCorrect: false },
+      { answerText: "Stemming", isCorrect: true },
+      { answerText: "POS tagging", isCorrect: false },
+      { answerText: "Semantik tahlil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Morfologik tahlil NLPning qaysi bosqichiga to‘g‘ri keladi?",
+    answerOptions: [
+      { answerText: "Yakuniy chiqish", isCorrect: false },
+      { answerText: "Semantik tahlil", isCorrect: false },
+      { answerText: "Dastlabki", isCorrect: true },
+      { answerText: "Ovozli kodlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Morfologik tahlil qanday ma’lumotlarni qabul qiladi?",
+    answerOptions: [
+      { answerText: "Tahlil qilingan grafiklar", isCorrect: false },
+      { answerText: "Belgilar oqimi", isCorrect: true },
+      { answerText: "Faqat raqamli qiymatlar", isCorrect: false },
+      { answerText: "Gap tuzilmalari", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Morfemaning nechta asosiy turi mavjud?",
+    answerOptions: [
+      { answerText: "3", isCorrect: false },
+      { answerText: "1", isCorrect: true },
+      { answerText: "2", isCorrect: false },
+      { answerText: "4", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Morfologik tahlilda so‘zlar qanday qismlarga ajratiladi?",
+    answerOptions: [
+      { answerText: "Kod va signalga", isCorrect: false },
+      { answerText: "Vektor va skalyarga", isCorrect: false },
+      { answerText: "Ildiz va qo‘shimchalar", isCorrect: true },
+      { answerText: "Gap va matnga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Lemmatizatsiya nima?",
+    answerOptions: [
+      { answerText: "Belgilarning kodga aylantirish", isCorrect: false },
+      { answerText: "So‘zlarni kanonik shaklga keltirish", isCorrect: false },
+      { answerText: "Gaplarni kichik bo’laklarga parchalash", isCorrect: true },
+      { answerText: "Matnni chiziqli shaklga o‘tkazish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "NLTK kutubxonasi qanday morfologik vazifani bajaradi?",
+    answerOptions: [
+      { answerText: "Matn tarjimasi", isCorrect: false },
+      { answerText: "Stemming", isCorrect: true },
+      { answerText: "Tasvir kodlash", isCorrect: false },
+      { answerText: "Nutqni fonetik tahlil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "spaCy kutubxonasi nimani qo‘llab-quvvatlaydi?",
+    answerOptions: [
+      { answerText: "Tarmoq modelini ishlab chiqish", isCorrect: false },
+      { answerText: "Morfologik xususiyatlarni ajratish", isCorrect: false },
+      { answerText: "Ma’lumotlarni guruhlarga ajratish", isCorrect: true },
+      { answerText: "Grafik diagrammalarni tuzish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Parsing daraxtining ildizi nimani ifodalaydi?",
+    answerOptions: [
+      { answerText: "Ot iborasini", isCorrect: false },
+      { answerText: "Butun gapni", isCorrect: true },
+      { answerText: "Faoliyat markazini", isCorrect: false },
+      { answerText: "Leksik tahlil natijasini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Semantik tahlilning asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Faollashtirish funksiyasini tanlash", isCorrect: false },
+      { answerText: "Matndan ma’no chiqarish", isCorrect: false },
+      { answerText: "Tokenlar sonini sanash", isCorrect: true },
+      { answerText: "Morfemalarni bog‘lash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ontologiyaga misol sifatida qaysi tizim berilgan?",
+    answerOptions: [
+      { answerText: "GPT-4", isCorrect: false },
+      { answerText: "WordNet", isCorrect: true },
+      { answerText: "BERT", isCorrect: false },
+      { answerText: "Python", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sentiment tahlili nimani bildiradi?",
+    answerOptions: [
+      { answerText: "Matndagi so’zlarni vektorlarga ajratish", isCorrect: false },
+      { answerText: "Matndagi hissiyotlarni aniqlash", isCorrect: true },
+      { answerText: "Sinonimlarni birlashtirish", isCorrect: false },
+      { answerText: "Lug‘atni kengaytirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Sentiment tahlil qanday asosiy toifalarga bo‘linadi?",
+    answerOptions: [
+      { answerText: "Qoidaviy va statistik", isCorrect: false },
+      { answerText: "Semantik va sintaktik", isCorrect: true },
+      { answerText: "Pozitiv, negativ, neytral", isCorrect: false },
+      { answerText: "Verbal, yozma, grafik", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hissiyotlarni aniqlashda ishlatiladigan asosiy kutubxonalar qaysilar?",
+    answerOptions: [
+      { answerText: "Pandas va NumPy", isCorrect: false },
+      { answerText: "Vader va NLTK", isCorrect: false },
+      { answerText: "Scikit-image va Keras", isCorrect: true },
+      { answerText: "OpenCV va TextBlob", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Morfologik tahlilning asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "Matnni tarjima qilish", isCorrect: false },
+      { answerText: "Gapdagi so‘zlarni tartiblash", isCorrect: true },
+      { answerText: "So‘zlarning tuzilishini tahlil qilish", isCorrect: false },
+      { answerText: "Gapning umumiy ma’nosini aniqlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri morfologik tahlil jarayonida qo‘llaniladi?",
+    answerOptions: [
+      { answerText: "Lemmatizatsiya", isCorrect: false },
+      { answerText: "Sintaksis daraxti qurish", isCorrect: true },
+      { answerText: "Kontekstual tarjima", isCorrect: false },
+      { answerText: "Semantik tahlil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tasvirni piksel darajasida tahlil qilish nima deyiladi?",
+    answerOptions: [
+      { answerText: "Tasniflash", isCorrect: true },
+      { answerText: "Segmentatsiya", isCorrect: false },
+      { answerText: "O‘qitish", isCorrect: false },
+      { answerText: "Regressiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kompyuter ko‘rishda ishlatiladigan mashhur arxitektura bu:",
+    answerOptions: [
+      { answerText: "RNN", isCorrect: false },
+      { answerText: "CNN", isCorrect: true },
+      { answerText: "GAN", isCorrect: false },
+      { answerText: "LSTM", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tasvirlarni CNN orqali tahlil qilishda eng birinchi qatlamda nima bajaradi?",
+    answerOptions: [
+      { answerText: "Klassifikatsiya", isCorrect: false },
+      { answerText: "Konvolyutsiya", isCorrect: true },
+      { answerText: "Max Pooling", isCorrect: false },
+      { answerText: "Fully Connected qatlam", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagi texnikalardan qaysi biri obyekt aniqlash uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Naive Bayes", isCorrect: false },
+      { answerText: "YOLO", isCorrect: true },
+      { answerText: "SVM", isCorrect: false },
+      { answerText: "Apriori algoritmi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Rasmda ko‘p obyektlar mavjud bo‘lsa, ularni ajratish jarayoni nima deyiladi?",
+    answerOptions: [
+      { answerText: "Regulyarizatsiya", isCorrect: false },
+      { answerText: "Segmentatsiya", isCorrect: true },
+      { answerText: "Filtrlash", isCorrect: false },
+      { answerText: "Kodlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi texnologiya SI yordamida real vaqtda video oqimidan obyektlarni",
+    answerOptions: [
+      { answerText: "OCR", isCorrect: false },
+      { answerText: "NLP", isCorrect: false },
+      { answerText: "YOLO", isCorrect: true },
+      { answerText: "AES", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Giperparametrlarni sozlashning mashhur usuli:",
+    answerOptions: [
+      { answerText: "Normalizatsiya", isCorrect: false },
+      { answerText: "Random Forest", isCorrect: false },
+      { answerText: "Grid Search", isCorrect: true },
+      { answerText: "Decision Tree", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi kutubxona LinearRegression modelini taqdim etadi?",
+    answerOptions: [
+      { answerText: "NumPy", isCorrect: false },
+      { answerText: "scikit-learn", isCorrect: true },
+      { answerText: "Pandas", isCorrect: false },
+      { answerText: "Matplotlib", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri baholash metrikasi emas?",
+    answerOptions: [
+      { answerText: "MSE", isCorrect: false },
+      { answerText: "R²", isCorrect: false },
+      { answerText: "MAE", isCorrect: false },
+      { answerText: "KNN", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Qaror daraxtini yaratish jarayonida qaysi birinchi qadam amalga oshiriladi?",
+    answerOptions: [
+      { answerText: "Atributlarni tanlash", isCorrect: true },
+      { answerText: "Daraxtni tarmoqlash", isCorrect: false },
+      { answerText: "Ma'lumotlarni ajratish", isCorrect: false },
+      { answerText: "Maxsus qo‘llanmalarni yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Overfitting nima?",
+    answerOptions: [
+      { answerText: "Modelning o’rgatishda katta xatolik qilish holati", isCorrect: false },
+      { answerText: "Modelning o’rgatilgan ma’lumotga moslashmagan holati", isCorrect: false },
+      { answerText: "Modelning o‘rgatilgan ma’lumotga juda moslashishi", isCorrect: true },
+      { answerText: "Modelning umumlashma qobiliyatining juda pastligi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Underfitting nima?",
+    answerOptions: [
+      { answerText: "Modelning o‘rgatilgan ma’lumotni yaxshi o‘rganishi", isCorrect: false },
+      { answerText: "Modelning o‘rgatilgan ma’lumotni to‘liq o‘rganmasligi", isCorrect: true },
+      { answerText: "Modelning doimiy ravishda o’rgatishda xatolik qilish holati", isCorrect: false },
+      { answerText: "Modelning katta o‘lchamli ma’lumotlardan foydalanishi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "KNN algoritmi qaysi turdagi o‘rganish modeliga kiradi?",
+    answerOptions: [
+      { answerText: "Nazoratli o‘rganish", isCorrect: true },
+      { answerText: "Nazoratsiz o‘rganish", isCorrect: false },
+      { answerText: "Mustahkamlangan o’rganish", isCorrect: false },
+      { answerText: "Chuqur o‘rganish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN modelini tasvirlarni tasniflash uchun o‘rganish jarayonida qanday",
+    answerOptions: [
+      { answerText: "Logistic loss", isCorrect: false },
+      { answerText: "Mean Absolute Error (MAE)", isCorrect: false },
+      { answerText: "Cross-entropy loss", isCorrect: true },
+      { answerText: "Hinge loss", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "CNN modelini tasvirlarni tasniflash uchun tuzishda qaysi qatlamlar ketma-ket",
+    answerOptions: [
+      { answerText: "Fully connected, convolutional, pooling", isCorrect: false },
+      { answerText: "Convolutional, pooling, fully connected", isCorrect: true },
+      { answerText: "Convolutional, recurrent, fully connected", isCorrect: false },
+      { answerText: "Pooling, convolutional, fully connected", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri Python dasturlash tilida kompyuterli ko‘rish",
+    answerOptions: [
+      { answerText: "NLTK", isCorrect: false },
+      { answerText: "OpenCV", isCorrect: true },
+      { answerText: "SciPy", isCorrect: false },
+      { answerText: "BERT", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri Python tilida tabiiy tilni qayta ishlash (NLP) uchun",
+    answerOptions: [
+      { answerText: "Matplotlib", isCorrect: false },
+      { answerText: "TensorFlow", isCorrect: false },
+      { answerText: "NLTK", isCorrect: true },
+      { answerText: "NumPy", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Quyidagilardan qaysi biri kompyuterli ko‘rishda konvolyutsiyali neyron",
+    answerOptions: [
+      { answerText: "OpenCV", isCorrect: false },
+      { answerText: "Pandas", isCorrect: false },
+      { answerText: "TensorFlow", isCorrect: true },
+      { answerText: "NLTK", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Forsiy matnlarni tokenlash, stemming va normalizatsiya qilish uchun ishlab",
+    answerOptions: [
+      { answerText: "SpaCy", isCorrect: false },
+      { answerText: "Hazm", isCorrect: true },
+      { answerText: "Stanza", isCorrect: false },
+      { answerText: "Gensim", isCorrect: false },
+    ],
+  },
+];
+
 export const kiberXavfsizlikQuiz = [
   {
     questionText: "Linux  nima?",
