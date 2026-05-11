@@ -8734,3 +8734,1851 @@ export const kiberXavfsizlikQuiz = [
     ],
   }
 ];
+
+export const quizCyberYakuniy = [
+  {
+    questionText: "Linux nima?",
+    answerOptions: [
+      { answerText: "Amaliy dastur", isCorrect: false },
+      { answerText: "Operatsion tizim", isCorrect: true },
+      { answerText: "Kompyuter o‘yini", isCorrect: false },
+      { answerText: "Internet brauzer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'pwd' komandasi nima qiladi?",
+    answerOptions: [
+      { answerText: "Asosiy fayl yaratadi", isCorrect: false },
+      { answerText: "Joriy katalogni ko‘rsatadi", isCorrect: true },
+      { answerText: "Ma'lumotni butunlay o‘chiradi", isCorrect: false },
+      { answerText: "Nusxa oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'ls' komandasi vazifasi?",
+    answerOptions: [
+      { answerText: "Fayl yaratadi", isCorrect: false },
+      { answerText: "Katalog ichini ko‘rsatadi", isCorrect: true },
+      { answerText: "Tizimni o‘chiradi", isCorrect: false },
+      { answerText: "Internetga uzilishlarsiz ulanadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'cd' komandasi nima qiladi?",
+    answerOptions: [
+      { answerText: "Katalogga o‘tadi", isCorrect: true },
+      { answerText: "Fayl bo’yicha ochadi", isCorrect: false },
+      { answerText: "O‘chiradi", isCorrect: false },
+      { answerText: "Nusxa oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'mkdir' komandasi?",
+    answerOptions: [
+      { answerText: "Fayl bo’yicha ochadi", isCorrect: false },
+      { answerText: "Katalog yaratadi", isCorrect: true },
+      { answerText: "O‘chiradi", isCorrect: false },
+      { answerText: "Ko‘rsatadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'rm' komandasi?",
+    answerOptions: [
+      { answerText: "Fayl yaratadi", isCorrect: false },
+      { answerText: "Fayl o‘chiradi", isCorrect: true },
+      { answerText: "Avtomatik ko‘chiradi", isCorrect: false },
+      { answerText: "O‘qiydi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'cp' komandasi?",
+    answerOptions: [
+      { answerText: "Nusxa olish", isCorrect: true },
+      { answerText: "O‘chirish", isCorrect: false },
+      { answerText: "Ko‘rsatish", isCorrect: false },
+      { answerText: "Ochish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "'mv' komandasi?",
+    answerOptions: [
+      { answerText: "Ko‘rsatish/nomini o‘zgartirish", isCorrect: false },
+      { answerText: "Ko‘chirish/nomini o‘zgartirish", isCorrect: true },
+      { answerText: "O‘chirish/nomini o‘zgartirish", isCorrect: false },
+      { answerText: "Yaratish/nomini o‘zgartirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SSH nima?",
+    answerOptions: [
+      { answerText: "Fayl strukturasi turi", isCorrect: false },
+      { answerText: "Xavfsiz ulanish protokoli", isCorrect: true },
+      { answerText: "Maxsus ulanish bo’yicha dastur", isCorrect: false },
+      { answerText: "Grafik interfeys tizimi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux yadrosi nima?",
+    answerOptions: [
+      { answerText: "GUI", isCorrect: false },
+      { answerText: "Kernel", isCorrect: true },
+      { answerText: "Fayl", isCorrect: false },
+      { answerText: "Brauzer", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux tizimida buyruqlar nimani ta’minlaydi?",
+    answerOptions: [
+      { answerText: "Tizimni boshqarishni", isCorrect: true },
+      { answerText: "Dasturlarni boshqarishni", isCorrect: false },
+      { answerText: "Joriy fayl katalogini", isCorrect: false },
+      { answerText: "root huquqini", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Operatsion tizim vazifasi nima?",
+    answerOptions: [
+      { answerText: "Fayl yaratish", isCorrect: false },
+      { answerText: "Kompyuterni boshqarish", isCorrect: true },
+      { answerText: "Internetga kirish", isCorrect: false },
+      { answerText: "Dastur bo’yicha boshqarish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kernel nima?",
+    answerOptions: [
+      { answerText: "Dastur", isCorrect: false },
+      { answerText: "Tizim yadrosi", isCorrect: true },
+      { answerText: "Fayl katalogi", isCorrect: false },
+      { answerText: "Papka katalogi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux qachon yaratilgan?",
+    answerOptions: [
+      { answerText: "1991", isCorrect: true },
+      { answerText: "2000", isCorrect: false },
+      { answerText: "1980", isCorrect: false },
+      { answerText: "2010", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux kim tomonidan yaratilgan?",
+    answerOptions: [
+      { answerText: "Bill Gates", isCorrect: false },
+      { answerText: "Linus Torvalds", isCorrect: true },
+      { answerText: "Steve Jobs", isCorrect: false },
+      { answerText: "Mark Zuckerberg", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Open source nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Yopiq kodli tizim", isCorrect: false },
+      { answerText: "Ochiq kodli tizim", isCorrect: true },
+      { answerText: "Pullik dastur", isCorrect: false },
+      { answerText: "Internet", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "GUI nima?",
+    answerOptions: [
+      { answerText: "Matnli interfeys", isCorrect: false },
+      { answerText: "Grafik interfeys", isCorrect: true },
+      { answerText: "Buyruqli interfeys", isCorrect: false },
+      { answerText: "Faylli interfeys", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Root nima?",
+    answerOptions: [
+      { answerText: "Oddiy foydalanuvchi", isCorrect: false },
+      { answerText: "Administrator", isCorrect: true },
+      { answerText: "Fayl", isCorrect: false },
+      { answerText: "Dastur", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "touch nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl yaratadi", isCorrect: true },
+      { answerText: "O‘chiradi", isCorrect: false },
+      { answerText: "Ko‘chiradi", isCorrect: false },
+      { answerText: "Ko‘rsatadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "cat nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl o‘qiydi", isCorrect: true },
+      { answerText: "O‘chiradi", isCorrect: false },
+      { answerText: "Yaratadi", isCorrect: false },
+      { answerText: "Ko‘chiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "clear nima qiladi?",
+    answerOptions: [
+      { answerText: "Joriy faylni o‘chiradi", isCorrect: false },
+      { answerText: "Ekranni tozalaydi", isCorrect: true },
+      { answerText: "Yaratadi", isCorrect: false },
+      { answerText: "Ko‘rsatadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SSH orqali nima qilinadi?",
+    answerOptions: [
+      { answerText: "Video ko‘rish", isCorrect: false },
+      { answerText: "Masofadan boshqarish", isCorrect: true },
+      { answerText: "Joriy dasturni yangilaydi", isCorrect: false },
+      { answerText: "Fayl yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SSH porti odatda nechchi?",
+    answerOptions: [
+      { answerText: "21", isCorrect: false },
+      { answerText: "22", isCorrect: true },
+      { answerText: "80", isCorrect: false },
+      { answerText: "443", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ssh user@ip nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Fayl yaratish", isCorrect: false },
+      { answerText: "Masofaviy ulanish", isCorrect: true },
+      { answerText: "SSH protokoli", isCorrect: false },
+      { answerText: "Nusxa olish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux distributiv nima?",
+    answerOptions: [
+      { answerText: "Dasturiy versiya", isCorrect: false },
+      { answerText: "Linux versiyasi", isCorrect: true },
+      { answerText: "Linux fayli", isCorrect: false },
+      { answerText: "Kodlar strukturasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Parrot OS nima?",
+    answerOptions: [
+      { answerText: "Linux tizimi", isCorrect: true },
+      { answerText: "Xavfsizlik tizimi", isCorrect: false },
+      { answerText: "Fayl tizimi", isCorrect: false },
+      { answerText: "Brauzer tizimi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Fayl ruxsatlari nima bilan belgilanadi?",
+    answerOptions: [
+      { answerText: "chmod", isCorrect: true },
+      { answerText: "rm", isCorrect: false },
+      { answerText: "ls", isCorrect: false },
+      { answerText: "cd", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "sudo nima qiladi?",
+    answerOptions: [
+      { answerText: "Linux distributivi", isCorrect: false },
+      { answerText: "Admin huquqini beradi", isCorrect: true },
+      { answerText: "Brauzerni ishga tushiradi", isCorrect: false },
+      { answerText: "Faylni ochadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linuxda foydalanuvchi qo‘shish buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "add", isCorrect: false },
+      { answerText: "useradd", isCorrect: true },
+      { answerText: "newuser", isCorrect: false },
+      { answerText: "createuser", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linuxda foydalanuvchini o‘chirish komandasi?",
+    answerOptions: [
+      { answerText: "adduser", isCorrect: false },
+      { answerText: "deluser", isCorrect: true },
+      { answerText: "newuser", isCorrect: false },
+      { answerText: "touch", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linuxda xizmatlarni boshqarish buyrug‘i?",
+    answerOptions: [
+      { answerText: "service", isCorrect: false },
+      { answerText: "systemctl", isCorrect: true },
+      { answerText: "control", isCorrect: false },
+      { answerText: "start", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "chmod buyrug‘i nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Fayllarni butunlay o‘chirish", isCorrect: false },
+      { answerText: "Ruxsatlarni o‘zgartirish", isCorrect: true },
+      { answerText: "Fayl yaratish", isCorrect: false },
+      { answerText: "Ko‘rsatish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "top buyrug‘i nima qiladi?",
+    answerOptions: [
+      { answerText: "Ruxsatlarni o‘zgartirish", isCorrect: false },
+      { answerText: "Tizim jarayonlarini ko‘rsatadi", isCorrect: true },
+      { answerText: "Papkani to‘liq o‘chirish", isCorrect: false },
+      { answerText: "Ko‘chiradi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ps buyrug‘i nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Joriy fayl ma’lumotlarini ochish", isCorrect: false },
+      { answerText: "Jarayonlarni ko‘rsatish", isCorrect: true },
+      { answerText: "O‘chirish", isCorrect: false },
+      { answerText: "Yaratish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Disk hajmini ko‘rish buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "size", isCorrect: false },
+      { answerText: "df", isCorrect: true },
+      { answerText: "disk", isCorrect: false },
+      { answerText: "show", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Papka hajmini ko‘rish buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "du", isCorrect: true },
+      { answerText: "df", isCorrect: false },
+      { answerText: "size", isCorrect: false },
+      { answerText: "dir", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linuxda yordam olish buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "help", isCorrect: false },
+      { answerText: "man", isCorrect: true },
+      { answerText: "info", isCorrect: false },
+      { answerText: "guide", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linuxning asosiy afzalligi nima?",
+    answerOptions: [
+      { answerText: "Juda qimmatligi", isCorrect: false },
+      { answerText: "Xavfsiz va bepulligi", isCorrect: true },
+      { answerText: "Faqat o‘yin uchunligi", isCorrect: false },
+      { answerText: "Faqat grafik uchunligi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "rm -r nimani bildiradi?",
+    answerOptions: [
+      { answerText: "Faylni to’liq ochish", isCorrect: false },
+      { answerText: "Papkani o‘chirish", isCorrect: true },
+      { answerText: "Ko‘rsatish", isCorrect: false },
+      { answerText: "Nusxa olish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "echo buyrug‘i nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl o‘chiradi", isCorrect: false },
+      { answerText: "Matn chiqaradi", isCorrect: true },
+      { answerText: "Ko‘chiradi", isCorrect: false },
+      { answerText: "Yaratadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SSH orqali ulanish sintaksisi qaysi?",
+    answerOptions: [
+      { answerText: "shsconnect ip", isCorrect: false },
+      { answerText: "ssh user@ip", isCorrect: true },
+      { answerText: "sh login ip", isCorrect: false },
+      { answerText: "open ip", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Terminal nima?",
+    answerOptions: [
+      { answerText: "Linux oynasi", isCorrect: false },
+      { answerText: "Buyruq bajarish muhit", isCorrect: true },
+      { answerText: "Fayl turi", isCorrect: false },
+      { answerText: "Vaqtinchalik muhit", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "history buyrug‘i nima qiladi?",
+    answerOptions: [
+      { answerText: "Joriy kodlarni saqlash platformasi", isCorrect: false },
+      { answerText: "Oldingi buyruqlarni ko‘rsatadi", isCorrect: true },
+      { answerText: "Tarixlarni o‘chiradi", isCorrect: false },
+      { answerText: "Tarixlardan nusxa oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "GitHub’dan loyiha yuklash buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "download", isCorrect: false },
+      { answerText: "git clone", isCorrect: true },
+      { answerText: "copy", isCorrect: false },
+      { answerText: "fetch", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "git clone nima qiladi?",
+    answerOptions: [
+      { answerText: "Faylni butunlay o‘chiradi", isCorrect: false },
+      { answerText: "Loyihani yuklab oladi", isCorrect: true },
+      { answerText: "Ko‘rsatadi", isCorrect: false },
+      { answerText: "Papkani ochadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Repository nima?",
+    answerOptions: [
+      { answerText: "Fayl saqlanadigan joy", isCorrect: false },
+      { answerText: "Kod saqlanadigan joy", isCorrect: true },
+      { answerText: "O‘yin saqlanadigan joy", isCorrect: false },
+      { answerText: "Disk saqlanadigan joy", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Phishing nima?",
+    answerOptions: [
+      { answerText: "GitHub platformasidagi dasturlash muhiti", isCorrect: false },
+      { answerText: "Firibgarlik bilan ma’lumot olish", isCorrect: true },
+      { answerText: "Firibgarlikdan himoya tizimi", isCorrect: false },
+      { answerText: "Linux xatosi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Phishing odatda qayerda bo‘ladi?",
+    answerOptions: [
+      { answerText: "Email", isCorrect: true },
+      { answerText: "Printer", isCorrect: false },
+      { answerText: "Monitor", isCorrect: false },
+      { answerText: "USB", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kuchli parol qanday bo‘ladi?",
+    answerOptions: [
+      { answerText: "123456qwerti", isCorrect: false },
+      { answerText: "Faqat harf", isCorrect: false },
+      { answerText: "Harf, son va belgilar", isCorrect: true },
+      { answerText: "Ism va yil, tug’ilgan kunlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kiberxavfsizlik tahdidlari turlari bu….",
+    answerOptions: [
+      { answerText: "Tajovuzkor dasturlar , zararli dasturlar", isCorrect: true },
+      { answerText: "Maxfiy dasturlar, zararli dasturlar", isCorrect: false },
+      { answerText: "Ijtimoiy dasturlar, tajovuzkor dasturlar", isCorrect: false },
+      { answerText: "Tarmoqli dasturlar, maxfiy dasturlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "….. kompyuter tizimiga ruxsatsiz kirishga va uni buzishga yo'naltirilgan dasturlarni toping",
+    answerOptions: [
+      { answerText: "Tajovuzkor dasturlar", isCorrect: false },
+      { answerText: "Zararli dasturlar", isCorrect: true },
+      { answerText: "Ijtimoiy dasturlar", isCorrect: false },
+      { answerText: "Maxfiy dasturlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "……bu ishonchli manbadan keladigan xabar kabi bo'lib soxta elektron xatlarni tarqatishdir.",
+    answerOptions: [
+      { answerText: "Fishing", isCorrect: true },
+      { answerText: "Control", isCorrect: false },
+      { answerText: "Defense", isCorrect: false },
+      { answerText: "Denial", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DOS nima?",
+    answerOptions: [
+      { answerText: "Xizmat ko'rsatishdan to'xtash ya'ni hisoblash tizimiga xaker hujumi", isCorrect: true },
+      { answerText: "Xizmat ko'rsatishni boshlash ya'ni hisoblash tizimi ishga tushishi", isCorrect: false },
+      { answerText: "Xizmat ko'rsatish sifatini oshirish ya'ni sifatli hizmat ko'rsatish", isCorrect: false },
+      { answerText: "Xizmat ko'rsatishni xavfsizligini taminlash ya'ni hisoblash tizimiga xaker hujumi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Agar hujum bir vaqtning o'zida ko'p sonly kompiyuterlar tomonidan amalga oshirilsa….",
+    answerOptions: [
+      { answerText: "DDOS hujum", isCorrect: true },
+      { answerText: "DOS hujum", isCorrect: false },
+      { answerText: "Glabal hujum", isCorrect: false },
+      { answerText: "Lakal hujum", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DDOS bu?",
+    answerOptions: [
+      { answerText: "Distributed Denial of Service", isCorrect: true },
+      { answerText: "Denial of service", isCorrect: false },
+      { answerText: "Distributed of service", isCorrect: false },
+      { answerText: "Distributed Union of service", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DDOS hujumlarini qo'llashni sabablari to'liq va aniq ko'rsatilgan javobni toping",
+    answerOptions: [
+      { answerText: "Shahsiy adovat, ko'ngil ochish, Garazli raqobat, Shantaj", isCorrect: true },
+      { answerText: "Shahsiy adovat, ko'ngil ochish, pul ishlash, O'zini ko'rsatish", isCorrect: false },
+      { answerText: "Ko'ngil ochish, Garazli raqobat, Fayllarni zararlash, Pul ishlash", isCorrect: false },
+      { answerText: "Garazli raqobat, Shantaj", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kiber hujumlardan himoyalanishga ko'maklashuvchi nechta qoida mavjud",
+    answerOptions: [
+      { answerText: "10 ta", isCorrect: false },
+      { answerText: "12 ta", isCorrect: true },
+      { answerText: "15 ta", isCorrect: false },
+      { answerText: "8 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tizim elementlarining o'zaro aloqasi va turg'un munosabatlar yig'indisi bu…",
+    answerOptions: [
+      { answerText: "Struktura", isCorrect: true },
+      { answerText: "Axborot", isCorrect: false },
+      { answerText: "Maydon", isCorrect: false },
+      { answerText: "Axborotli maydon", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Uning shakli va holatidan qat'iy nazar ma'lum vaqt chegarasidagi axborotlar yig'indisi bu….",
+    answerOptions: [
+      { answerText: "Axborot maydoni", isCorrect: false },
+      { answerText: "Struktura", isCorrect: false },
+      { answerText: "Murakkab Axborot tizimi", isCorrect: false },
+      { answerText: "Axborot oqimi", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Kommunikatsiya kanallari bo'yicha axborot dunyosida harakatchi axborotlar to'plami bu….",
+    answerOptions: [
+      { answerText: "Axborot oqimi", isCorrect: true },
+      { answerText: "Axborot maydoni", isCorrect: false },
+      { answerText: "Struktura", isCorrect: false },
+      { answerText: "Sadda axborot", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Mutaxassislar, axborot resurslari, hujjatlar to'plami va axborot texnologiyalari yig'indisi bu…",
+    answerOptions: [
+      { answerText: "Axborot tizimi", isCorrect: true },
+      { answerText: "Axborot oqimi", isCorrect: false },
+      { answerText: "Axborot maydoni", isCorrect: false },
+      { answerText: "Struktura", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Bir-birini inkor qilmaydigan qoidalarga asoslanadigan elementlardan tashkil topgan tizim bu…",
+    answerOptions: [
+      { answerText: "Sodda axborot tizimi", isCorrect: true },
+      { answerText: "Murakkab axborot tizimi", isCorrect: false },
+      { answerText: "Strukturali axborot tizimi", isCorrect: false },
+      { answerText: "Maydonli axborot tizimi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jamiyatda axborotni yig'ish, uzatish saqlash,avtamatik qayta ishlash va tarqatish imkonini beruvchi muhit nima?",
+    answerOptions: [
+      { answerText: "Axborot infrastrukturasi", isCorrect: true },
+      { answerText: "Murakkab axborot tizim", isCorrect: false },
+      { answerText: "Sodda axborot tizim", isCorrect: false },
+      { answerText: "Strukturali axborot", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MAC manzil nima?",
+    answerOptions: [
+      { answerText: "Kompyuter qurilmasi tarmoq manzili", isCorrect: true },
+      { answerText: "Kompyuter qurilmasining internet manzili", isCorrect: false },
+      { answerText: "Kompyuter qurilmasining Wfi manzili", isCorrect: false },
+      { answerText: "Kompyuter qurilmasining Admin manzili", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MAC address uzatmasini toping?",
+    answerOptions: [
+      { answerText: "Media Access control", isCorrect: true },
+      { answerText: "Media of control", isCorrect: false },
+      { answerText: "Media of Access", isCorrect: false },
+      { answerText: "Media of servis", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "MAC address nima?",
+    answerOptions: [
+      { answerText: "Fizik manzil", isCorrect: true },
+      { answerText: "Tarmoq manzili", isCorrect: false },
+      { answerText: "Internet manzil", isCorrect: false },
+      { answerText: "Pochta manzil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kompyuter tarmog'ida aktiv qurilma yoki ularning ba'zi interfeyslariga beriladigan uncial indentifikator nima?",
+    answerOptions: [
+      { answerText: "Ethernet", isCorrect: true },
+      { answerText: "Internet", isCorrect: false },
+      { answerText: "TCP", isCorrect: false },
+      { answerText: "IP", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "TCP/IP nechanchi yilda ishlab chiqilgan?",
+    answerOptions: [
+      { answerText: "1970 yil", isCorrect: false },
+      { answerText: "1975 yil", isCorrect: false },
+      { answerText: "1982 yil", isCorrect: true },
+      { answerText: "1969 yil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "TCP/IP ni ishlab chiqishdan maqsad nima?",
+    answerOptions: [
+      { answerText: "Axborotlar almashish imkonini yaratish", isCorrect: true },
+      { answerText: "Kompyuter xotirasini kengaytirish", isCorrect: false },
+      { answerText: "Internet tezligini oshirish", isCorrect: false },
+      { answerText: "Axborotlarni qayta ishlash imkonini oshirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Har xil dasturlar o'rtasida m'lumotlarni almashishni amalga oshiruvchi mantiqiy daraja interfeysining kelishuvlari to'plami bu….",
+    answerOptions: [
+      { answerText: "Malumotlarni uzatish protokoli", isCorrect: true },
+      { answerText: "Malumotlarni qabul qilish protokoli", isCorrect: false },
+      { answerText: "Malumotlarni qayta ishlash protokoli", isCorrect: false },
+      { answerText: "Ma'lumotlarni o'chirish protokoli", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tarmoqqa ulangan kompyuterlar o'rtasida bog'lanishni imkonini beruvchi qoida va harakat toplami nima?",
+    answerOptions: [
+      { answerText: "Tarmoq protokoli", isCorrect: true },
+      { answerText: "Uzatish protokoli", isCorrect: false },
+      { answerText: "Qabul qilish protokoli", isCorrect: false },
+      { answerText: "Chiqarish protokoli", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "TCP/IP o'z ichiga nechta darajani qamrab oladi?",
+    answerOptions: [
+      { answerText: "4 ta", isCorrect: true },
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+      { answerText: "3 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Pochta protokoli keltirilgan qatorni toping?",
+    answerOptions: [
+      { answerText: "A va B", isCorrect: true },
+      { answerText: "SMTP", isCorrect: false },
+      { answerText: "FTP", isCorrect: false },
+      { answerText: "POP3", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Elektron pochta xabarlarni uzatish protokoli keltirilgan qatorni toping?",
+    answerOptions: [
+      { answerText: "SMTP", isCorrect: true },
+      { answerText: "FTP", isCorrect: false },
+      { answerText: "OSI", isCorrect: false },
+      { answerText: "POP3", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "HTTP qanday protokol?",
+    answerOptions: [
+      { answerText: "Gipermatnli axborotlarni almashish", isCorrect: true },
+      { answerText: "Elektron pochta xabarlarni uzatish", isCorrect: false },
+      { answerText: "Fayllarni uzatish", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Fayllarni uzatish protokolini ko'rsating?",
+    answerOptions: [
+      { answerText: "FTP", isCorrect: true },
+      { answerText: "HTTP", isCorrect: false },
+      { answerText: "OSI", isCorrect: false },
+      { answerText: "SMTP", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlarni uzatishni boshqaruvchi protokol qaysi?",
+    answerOptions: [
+      { answerText: "TCP", isCorrect: true },
+      { answerText: "HTTP", isCorrect: false },
+      { answerText: "IP", isCorrect: false },
+      { answerText: "DNS", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "IP ning uzaytmasini toping?",
+    answerOptions: [
+      { answerText: "Internet protokol", isCorrect: true },
+      { answerText: "Internet system", isCorrect: false },
+      { answerText: "Transmission protokol", isCorrect: false },
+      { answerText: "Internet open", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DNS nima?",
+    answerOptions: [
+      { answerText: "Nomlarning domen tizimi", isCorrect: false },
+      { answerText: "Nomlarning adressi", isCorrect: false },
+      { answerText: "Ma'lumotlarni uzatish", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Marshurtlar haqidagi axborotlarni uzatish protokolini aniqlang",
+    answerOptions: [
+      { answerText: "RIP", isCorrect: true },
+      { answerText: "DNS", isCorrect: false },
+      { answerText: "IGP", isCorrect: false },
+      { answerText: "EGP", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "O S P F nima?",
+    answerOptions: [
+      { answerText: "Eng qisqa yo'lni birinchi bo'lib och", isCorrect: false },
+      { answerText: "Adressga eng ma'qul yo'l", isCorrect: true },
+      { answerText: "Ma'lumotlarni uzatish", isCorrect: false },
+      { answerText: "Nomlarning domeni", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "IGP nima",
+    answerOptions: [
+      { answerText: "Mashurtlarning ichki protokoli", isCorrect: true },
+      { answerText: "Mashurtlarning tashqi protokoli", isCorrect: false },
+      { answerText: "Mashurtlarning qisqa yo'li", isCorrect: false },
+      { answerText: "Mashurtlar haqidagi axborot", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Marshurtlarning tashqi protokoli ko'rsatilgan qatorni ko'rsating",
+    answerOptions: [
+      { answerText: "EGP", isCorrect: true },
+      { answerText: "IGP", isCorrect: false },
+      { answerText: "BGP", isCorrect: false },
+      { answerText: "RIP", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Chegara mashurtizatorlar protokolini toping",
+    answerOptions: [
+      { answerText: "BGP", isCorrect: true },
+      { answerText: "IGP", isCorrect: false },
+      { answerText: "EGP", isCorrect: false },
+      { answerText: "RID", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kriptologiya so'zi qaysi tildan olingan?",
+    answerOptions: [
+      { answerText: "Lotin tili", isCorrect: false },
+      { answerText: "Grek tili", isCorrect: true },
+      { answerText: "Fors tili", isCorrect: false },
+      { answerText: "Arab tili", isCorrect: false },
+    ],
+  },
+  {
+    questionText: ".Kriptologiya lotinchda qanday ma'noni anglatadi.",
+    answerOptions: [
+      { answerText: "Yashirin so'z", isCorrect: false },
+      { answerText: "Kalit so'z", isCorrect: false },
+      { answerText: "Avtanom so'z", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Kodlar yoki Shifrlarni qo'llagan holda (ochiq) dastlabki axborotlarni maxfiylashtirish nima deyiladi?",
+    answerOptions: [
+      { answerText: "Kriptografiya", isCorrect: true },
+      { answerText: "Kriptoanaliz", isCorrect: false },
+      { answerText: "Kriptos", isCorrect: false },
+      { answerText: "Shifrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kriptoanaliz nima?",
+    answerOptions: [
+      { answerText: "Kod yoki shifrni oshkor qilish", isCorrect: true },
+      { answerText: "Kod yoki shifrni yashirish", isCorrect: false },
+      { answerText: "So'zlarni shifrlash", isCorrect: false },
+      { answerText: "B va C", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ochiq matnlarni kriptogrammaga o'zgartirish nima deyiladi?",
+    answerOptions: [
+      { answerText: "Shifr", isCorrect: true },
+      { answerText: "Mashurt", isCorrect: false },
+      { answerText: "Kriptoanaliz", isCorrect: false },
+      { answerText: "To'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kalit bu?",
+    answerOptions: [
+      { answerText: "Dastlabki matnnni yashiringan shaklga o'zgartirish algoritmi", isCorrect: true },
+      { answerText: "Yashiringan matnni dastlabki matnga ozgartirish algoritmi", isCorrect: false },
+      { answerText: "Dastlabki matnni takroran berish algoritmi", isCorrect: false },
+      { answerText: "Yashiringan matnni o'chirish algoritmi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Dastlabki shifrlar qayerlarda qo'llanilgan?",
+    answerOptions: [
+      { answerText: "Barcha javob to'g'ri", isCorrect: true },
+      { answerText: "Yunoniston,Misr", isCorrect: false },
+      { answerText: "Gretsiya,Xitoy", isCorrect: false },
+      { answerText: "Rim, Sporta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kriptologiyaning rivojlanishi nechta davrga bo'linadi?",
+    answerOptions: [
+      { answerText: "3 ta", isCorrect: true },
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "4 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Xatlarni qo'lda shifrlash usuli qaysi yillarga to'g'ri keladi?",
+    answerOptions: [
+      { answerText: "1949-yilgacha", isCorrect: true },
+      { answerText: "1959-yilgacha", isCorrect: false },
+      { answerText: "1947-yilgacha", isCorrect: false },
+      { answerText: "1969-yilgacha", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "…… bu klassik kriptologiya davri",
+    answerOptions: [
+      { answerText: "1949-1976-yillar", isCorrect: true },
+      { answerText: "1959-1976-yillar", isCorrect: false },
+      { answerText: "1948-1975-yillar", isCorrect: false },
+      { answerText: "1939-1966-yillar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "1949-1976-yillar kriptologiya rivojlanishining qaysi davriga to'g'ri keladi?",
+    answerOptions: [
+      { answerText: "2 davri", isCorrect: true },
+      { answerText: "1 davri", isCorrect: false },
+      { answerText: "3 davri", isCorrect: false },
+      { answerText: "4 davri", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Simmetrik shifrlash deb nimada aytiladi?",
+    answerOptions: [
+      { answerText: "Shifrlash va deshifrlash uchun kalit bitta", isCorrect: true },
+      { answerText: "Shifrlash va deshifrlash uchun kalit ikkita", isCorrect: false },
+      { answerText: "Shifrlash va deshifrlash uchun kalit uchta", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kriptologiyada yagona maxfiy axborot kalit yordamida ham shifrlanadi, ham deshifrlanadi bu qaysi davrga to'g'ri keladi.",
+    answerOptions: [
+      { answerText: "2 davri", isCorrect: true },
+      { answerText: "1 davri", isCorrect: false },
+      { answerText: "4 davri", isCorrect: false },
+      { answerText: "A va B", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Asimmetrik shifrlash to'g'ri keltirilgan qatorni ko'rsating?",
+    answerOptions: [
+      { answerText: "to'g'ri javob yo'q", isCorrect: true },
+      { answerText: "k1=k2", isCorrect: false },
+      { answerText: "k1<k2", isCorrect: false },
+      { answerText: "k1>k2", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kriptologiya rivojlanishining 3 davri qaysi yillarga to'g'ri keladi?",
+    answerOptions: [
+      { answerText: "1976-yildan hozirgacha", isCorrect: true },
+      { answerText: "1977-yildan hozirgacha", isCorrect: false },
+      { answerText: "1949-1976-yillar", isCorrect: false },
+      { answerText: "1959-1976-yillar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shifrlash jarayoniga teskari jarayon bo'lib shifrdagi ma'lum qoidalar asosida shifrlangan xabarni dastlabki holatga keltirish qanday jarayon deyiladi?",
+    answerOptions: [
+      { answerText: "Deshifrlash", isCorrect: true },
+      { answerText: "Shifrlash", isCorrect: false },
+      { answerText: "Nusxalash", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "g(B)=A bu qanday sxema?",
+    answerOptions: [
+      { answerText: "Deshifrlash", isCorrect: true },
+      { answerText: "Shifrlash", isCorrect: false },
+      { answerText: "Nusxalash", isCorrect: false },
+      { answerText: "Simmetrik shifrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shifrlash sxemasini ko'rsating",
+    answerOptions: [
+      { answerText: "f(A)=B", isCorrect: true },
+      { answerText: "g(B)=A", isCorrect: false },
+      { answerText: "f(A)=B/2", isCorrect: false },
+      { answerText: "Y=k(X)", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DES nima?",
+    answerOptions: [
+      { answerText: "Simmetrik shifrlash algoritmi", isCorrect: true },
+      { answerText: "Asimmetrik shifrlash algoritmi", isCorrect: false },
+      { answerText: "Shifrlash algoritmi", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Simmetrik shifrlash algoritmini qaysi firma ishlab chiqqan.",
+    answerOptions: [
+      { answerText: "IBM", isCorrect: true },
+      { answerText: "Windovs", isCorrect: false },
+      { answerText: "NOD32", isCorrect: false },
+      { answerText: "UNIX", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DES algoritmini davomchisi nima?",
+    answerOptions: [
+      { answerText: "3DES", isCorrect: false },
+      { answerText: "AES", isCorrect: true },
+      { answerText: "RID", isCorrect: false },
+      { answerText: "2DES", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "DESning blok o'lchami qancha?",
+    answerOptions: [
+      { answerText: "64-bit", isCorrect: true },
+      { answerText: "128-bit", isCorrect: false },
+      { answerText: "32-bit", isCorrect: false },
+      { answerText: "16-bit", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Simmetrik blokli shifrlash algoritmi blok o'lchami qaysi?",
+    answerOptions: [
+      { answerText: "128-192-256 bit", isCorrect: true },
+      { answerText: "64-128-256 bit", isCorrect: false },
+      { answerText: "32-64-128 bit", isCorrect: false },
+      { answerText: "128-196-256 bit", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Blowfish nima?",
+    answerOptions: [
+      { answerText: "Kriptrografik algoritm", isCorrect: false },
+      { answerText: "Simmetrik bloklash", isCorrect: true },
+      { answerText: "Assimetrik shifrlash", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Blowfish nechanchi yil ishlab chiqilgan?",
+    answerOptions: [
+      { answerText: "1993 yil", isCorrect: true },
+      { answerText: "1992 yil", isCorrect: false },
+      { answerText: "1994 yil", isCorrect: false },
+      { answerText: "1991 yil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Axborot ro'yxatdan o'tmagan shaxsga faqat zarur paytda murojati ruxsat etilishi shart bu printsip nima?",
+    answerOptions: [
+      { answerText: "Ruxsatlilik", isCorrect: false },
+      { answerText: "Butunlik", isCorrect: false },
+      { answerText: "Maxfiylik", isCorrect: true },
+      { answerText: "barchasi to'g'ri", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ochiq kalit bu?",
+    answerOptions: [
+      { answerText: "Hammaga ma'lum bo'lgan kalit bo'lib, shifrlash algoritmining maxfiy qismi emas", isCorrect: true },
+      { answerText: "Hammaga ma'lum bo'lmagan kalit", isCorrect: false },
+      { answerText: "Hammaga ma'lum bo'lgan kalit bo'lib, shifrlash algoritmining maxfiy qismi", isCorrect: false },
+      { answerText: "Hammaga ma'lum bo'lmagan kalit bo'lib, shifrlash algoritmining maxfiy qismi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Yopiq kalit bu..?",
+    answerOptions: [
+      { answerText: "Algartmning bir qismi bo'lib,maxfiy ma'lumotlar saqlanadi", isCorrect: true },
+      { answerText: "Hammaga ma'lum bo'lgan kalit bo'lib, shifrlash algoritmining maxfiy qismi", isCorrect: false },
+      { answerText: "Hammaga ma'lum bo'lmagan kalit bo'lib, shifrlash algoritmining maxfiy qismi emas", isCorrect: false },
+      { answerText: "Algartmning bir qismi bo'lib,maxfiy bo'lmagan ma'lumotlar saqlanadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RSA kriptotizimi nimalar ucun dastlabki standart hisoblanadi?",
+    answerOptions: [
+      { answerText: "Shifrlash va Elektron imzo", isCorrect: true },
+      { answerText: "Shifrlash", isCorrect: false },
+      { answerText: "Elektron imzo", isCorrect: false },
+      { answerText: "Yopiq kalit", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Axborot tizimlari nechta turga bo'linadi?",
+    answerOptions: [
+      { answerText: "2 ta", isCorrect: true },
+      { answerText: "3 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+      { answerText: "4 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Murakkab axborot tizimi nima?",
+    answerOptions: [
+      { answerText: "Har xil qoidalarga asoslanadigan elementlardan tashkil topgan tizimdir", isCorrect: true },
+      { answerText: "Bir xil qoidalarga asoslanadigan elementlardan tashkil topgan tizimdir", isCorrect: false },
+      { answerText: "Har xil qoidalarga asoslanadigan maxfiy elementlardan tashkil topgan tizimdir", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Identifikatsiya bu?",
+    answerOptions: [
+      { answerText: "Subyekt va obyektlarga murojaat qilish", isCorrect: true },
+      { answerText: "Ma'lumotlarni fizik himoyalash", isCorrect: false },
+      { answerText: "Ma'lumotlarni electron shaklda uzatish", isCorrect: false },
+      { answerText: "Ma'lumotlarni parollash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Murojaat qilishning idenfikatsiya vositasi bo'lib murojat qilishda subyekt va obyektning belgisini taqdim etish nima deyiladi?",
+    answerOptions: [
+      { answerText: "Identifikator", isCorrect: true },
+      { answerText: "Blowfish", isCorrect: false },
+      { answerText: "Shifrlash", isCorrect: false },
+      { answerText: "Avtorizatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Elektron shaklda uzatiladigan ma'lumotlarning to'g'riligini yoki haqiqiyligini tasdiqlash jarayoni nima deyiladi?",
+    answerOptions: [
+      { answerText: "Autentifikatsiya", isCorrect: true },
+      { answerText: "Blowfish", isCorrect: false },
+      { answerText: "Shifrlash", isCorrect: false },
+      { answerText: "Avtorizatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Autentifikatsiya vositasi bo'lib foydalanuvchi va jarayonning alohida belgisini taqdim etish nima deyiladi?",
+    answerOptions: [
+      { answerText: "Autentifikator", isCorrect: true },
+      { answerText: "Idenfikator", isCorrect: false },
+      { answerText: "Shifrlash", isCorrect: false },
+      { answerText: "Avtorizatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Autentifikatsiya protsedurasidan o'tgandan so'ng tizimning resurslariga murojaat qilish uchun subyektga ma'lum huquqlarni berish protsedurasi nima?",
+    answerOptions: [
+      { answerText: "Avtorizatsiya", isCorrect: true },
+      { answerText: "Identifikator", isCorrect: false },
+      { answerText: "Audentifikator", isCorrect: false },
+      { answerText: "Shifrlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "IT mutaxasislari disklar bilan ishlashda nechta asosiy muammoga duch kelishadi?",
+    answerOptions: [
+      { answerText: "2 ta", isCorrect: false },
+      { answerText: "3 ta", isCorrect: true },
+      { answerText: "4 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ma'lumotlarni virtual saqlash texnologiyasi bo'lib bir nechta qattiq disklarni yagona mantiqiy elementga birlashtirish nima deyiladi?",
+    answerOptions: [
+      { answerText: "RAID", isCorrect: true },
+      { answerText: "IT", isCorrect: false },
+      { answerText: "SSD", isCorrect: false },
+      { answerText: "TCP", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "AQSHda axborotlarni shifrlashda qaysi standart ishlatiladi?",
+    answerOptions: [
+      { answerText: "DES", isCorrect: true },
+      { answerText: "ASC", isCorrect: false },
+      { answerText: "HTTP", isCorrect: false },
+      { answerText: "IT", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shifrlangan matndan maxfiy kalitni bilmay turib ochiq matnni olish va tiklash nima deyiladi",
+    answerOptions: [
+      { answerText: "Kriptotahlil", isCorrect: true },
+      { answerText: "Avtorizatsiya", isCorrect: false },
+      { answerText: "Parity", isCorrect: false },
+      { answerText: "Identifikator", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Foydalanuvchining tarmoqdagi harakatini uning resurslardan foydalanishga urinishlarini qayt etish nima deyiladi?",
+    answerOptions: [
+      { answerText: "Ma'murlash", isCorrect: true },
+      { answerText: "Kriptotahlil", isCorrect: false },
+      { answerText: "Avtorizatsiya", isCorrect: false },
+      { answerText: "Parity", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ISO nima?",
+    answerOptions: [
+      { answerText: "Standartlashtirish bo'yicha xalqaro tashkilotdir", isCorrect: true },
+      { answerText: "Xakkerlarni nazorat qiluvchi tashkilot", isCorrect: false },
+      { answerText: "Kiberxavfsizlikni taminlovchi tashkilot", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ICMP nima?",
+    answerOptions: [
+      { answerText: "Internet orqali xabar yozish protokoli", isCorrect: true },
+      { answerText: "Ma'lumotlar bilan ishlash protokoli", isCorrect: false },
+      { answerText: "Standartlashtirish protokoli", isCorrect: false },
+      { answerText: "Ma'lumotlar kiritish protokoli", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tarmoq kompyuterlariga ulanish va ma'lumot almashish imkonini beradigan qoidalar va texnik protseduralar nima deyiladi?",
+    answerOptions: [
+      { answerText: "Tarmoq Protokoli", isCorrect: true },
+      { answerText: "Baza Protokoli", isCorrect: false },
+      { answerText: "Lokal tarmoq", isCorrect: false },
+      { answerText: "Internet tarmog'i", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ba'zi aloqalarni amalga oshirishni tartibga soluvchi qoidalar va protseduralar to'plami nima?",
+    answerOptions: [
+      { answerText: "Protokol", isCorrect: true },
+      { answerText: "Parol", isCorrect: false },
+      { answerText: "Prosedura", isCorrect: false },
+      { answerText: "Ma'murlash", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "OSI Network Model nima?",
+    answerOptions: [
+      { answerText: "Tarmoq aloqalari va tarmoq protokollarini ishlab chiqish uchun mavhum model", isCorrect: true },
+      { answerText: "Ba'zi aloqalarni amalga oshirishni tartibga soluvchi qoidalar va protseduralar to'plami", isCorrect: false },
+      { answerText: "Tarmoq kompyuterlariga ulanish va ma'lumot almashish imkonini beradigan qoidalar", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Jahon Internet tarmog'i nechanchi yil vujudga kelgan?",
+    answerOptions: [
+      { answerText: "1992-yil", isCorrect: false },
+      { answerText: "1991-yil", isCorrect: true },
+      { answerText: "1994-yil", isCorrect: false },
+      { answerText: "1993-yil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "WWW ning ma'nosi nima?",
+    answerOptions: [
+      { answerText: "World Wide Web", isCorrect: true },
+      { answerText: "Wor Wid Web", isCorrect: false },
+      { answerText: "Word Wide Web", isCorrect: false },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "WWW ni kim yaratgan?",
+    answerOptions: [
+      { answerText: "Tim Bernars", isCorrect: true },
+      { answerText: "Maykl Oven", isCorrect: false },
+      { answerText: "Tim Bekker", isCorrect: false },
+      { answerText: "Stiv Job", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "WEB hujumlar qatorini toping?",
+    answerOptions: [
+      { answerText: "barcha javoblar to'g'ri", isCorrect: true },
+      { answerText: "DOS", isCorrect: false },
+      { answerText: "DDOS", isCorrect: false },
+      { answerText: "Fishing", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kiberjinoyatchilik nima?",
+    answerOptions: [
+      { answerText: "Texnologik jinoyat", isCorrect: true },
+      { answerText: "Fiziologik jinoyat", isCorrect: false },
+      { answerText: "Texnik jinoyat", isCorrect: false },
+      { answerText: "Shaxsiy jinoyat", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tarmoq hujumlariga qaysilar kiradi?",
+    answerOptions: [
+      { answerText: "Sniffer", isCorrect: true },
+      { answerText: "DOS", isCorrect: false },
+      { answerText: "DDOS", isCorrect: false },
+      { answerText: "Phishing", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oliy o'quv yurtlari tarmog'ining domen belgisini aniqlang?",
+    answerOptions: [
+      { answerText: "edu", isCorrect: true },
+      { answerText: "com", isCorrect: false },
+      { answerText: "gov", isCorrect: false },
+      { answerText: "net", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tijorat tashkilotlari tarmog'ining domen belgisini aniqlang?",
+    answerOptions: [
+      { answerText: "com", isCorrect: true },
+      { answerText: "edu", isCorrect: false },
+      { answerText: "net", isCorrect: false },
+      { answerText: "gov", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hukumat tashkilotlari tarmog'ining domen belgisini aniqlang?",
+    answerOptions: [
+      { answerText: "gov", isCorrect: true },
+      { answerText: "net", isCorrect: false },
+      { answerText: "org", isCorrect: false },
+      { answerText: "int", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ijtimoiy injineriya bu…",
+    answerOptions: [
+      { answerText: "g'arazli foydalanuvchilar tomonidan boshqa foydalanuvchilarning maxfiy ma'lumotlarini ochishga qaratilgan taktika.", isCorrect: true },
+      { answerText: "zararli dasturiy taminot turi hisoblanib kompyuterdagi fayllarga murojatni berkitish orqali pul talab qilioshga qaratilgan.", isCorrect: false },
+      { answerText: "kompyuterga ruxsatsiz kirishga yoki kompyuterga tizimini zararlashga qaratilgan", isCorrect: false },
+      { answerText: "ishonchli manbadan kelayotgan xatlar kabi ko'rinuvchi sohta electron xatlarni tarqatish.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Fishing bu…",
+    answerOptions: [
+      { answerText: "ishonchli manbadan kelayotgan xatlar kabi ko'rinuvchi sohta electron xatlarni tarqatish.", isCorrect: true },
+      { answerText: "kompyuterga ruxsatsiz kirishga yoki kompyuterga tizimini zararlashga qaratilgan", isCorrect: false },
+      { answerText: "g'arazli foydalanuvchilar tomonidan boshqa foydalanuvchilarning maxfiy ma'lumotlarini ochishga qaratilgan taktika.", isCorrect: false },
+      { answerText: "zararli dasturiy taminot turi hisoblanib kompyuterdagi fayllarga murojatni berkitish orqali pul talab qilioshga qaratilgan.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Eng keng tarqalgan kiber hujum turi qaysi?",
+    answerOptions: [
+      { answerText: "fishing dasturi.", isCorrect: false },
+      { answerText: "Tajovuz qiluvchi dasturlar.", isCorrect: false },
+      { answerText: "zararli dasturlar.", isCorrect: true },
+      { answerText: "ijtimoiy injineriya.", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Agar xujum bir vaqtning o'zida ko'p sonli kompyuterlar tomonidan uyushtirilsa bu qanday xujum hisoblanadi?",
+    answerOptions: [
+      { answerText: "DDOS", isCorrect: true },
+      { answerText: "DOS", isCorrect: false },
+      { answerText: "DDOSva DOS", isCorrect: false },
+      { answerText: "TCP", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tanlangan tugunlarni hujumga moyil bo'lib kiberjinoyatchi kompyuterlar ustudan administrator huquqini olgach ularga qanday dasturlar o'rnatadi?",
+    answerOptions: [
+      { answerText: "Troyan dasturlar", isCorrect: true },
+      { answerText: "Tajovuz qiluvchi dasturlar", isCorrect: false },
+      { answerText: "Zararli dasturlar", isCorrect: false },
+      { answerText: "Fishing dasturlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Troyan dasturlari qanday rejimlarda ishlaydi?",
+    answerOptions: [
+      { answerText: "fon rejimida", isCorrect: false },
+      { answerText: "oddiy rejimda", isCorrect: false },
+      { answerText: "murakkab rejimda", isCorrect: false },
+      { answerText: "fon va oddiy rejimlarida", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Dastlabki kiberhujum qachon amalga oshirilgan?",
+    answerOptions: [
+      { answerText: "1982-yil", isCorrect: false },
+      { answerText: "1985-yil", isCorrect: false },
+      { answerText: "1988-yil", isCorrect: true },
+      { answerText: "1992-yil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Yo'l harakati tashkilotini 2ta injineri shahar svetaforlariga hujumni qchon va qayerda uyushtiradilar?",
+    answerOptions: [
+      { answerText: "2006-yil Losangelesda", isCorrect: true },
+      { answerText: "2006-yil AQSHda", isCorrect: false },
+      { answerText: "2015-yil Losangelesda", isCorrect: false },
+      { answerText: "2015-yil AQSHda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Ukrainada milliy elektr tarmoqlari kompyuterlariga kiberhujum qachon uyushtiriladi?",
+    answerOptions: [
+      { answerText: "2015-yil", isCorrect: true },
+      { answerText: "2006-yil", isCorrect: false },
+      { answerText: "2007-yil", isCorrect: false },
+      { answerText: "2005-yil", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Dastlabki Internet inflastrukturasiga bo'lgan hujum nechinchi yilda amalga oshirilgan?",
+    answerOptions: [
+      { answerText: "2007-yil 27-aprelda", isCorrect: false },
+      { answerText: "2007-yil 18-mart", isCorrect: false },
+      { answerText: "2006-yil 27-aprel", isCorrect: true },
+      { answerText: "2006-yil 18-mart", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "\"Oq\" hakerlarni yo'llashdan maqsad?",
+    answerOptions: [
+      { answerText: "xavfsizlik darajasini aniqlab kompaniyaning xavf xatarlarini baholab beradi", isCorrect: false },
+      { answerText: "tizimdagi xatoliklarni aniqlaydi.", isCorrect: false },
+      { answerText: "Ichki va tashqi komunikatsiyalarni aniqlaydi", isCorrect: false },
+      { answerText: "b va c", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Struktura bu…",
+    answerOptions: [
+      { answerText: "tizim elementlari orasidagi aloqasi va turg'un munosabatlar yig'indisidir.", isCorrect: true },
+      { answerText: "xavfsizlik darajasini aniqlab kompaniyaning xavf xatarlarini baholay olish.", isCorrect: false },
+      { answerText: "komunikatsiya qarorlari bo'yicha axborot sohasida harakatlanuvchi axborotlar yig'indisi.", isCorrect: false },
+      { answerText: "axborotning shakliga va holatiga bog'liq bo'lmagan holda yig'indisi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Axborot tizimlari shartli ravishda nechta turga ajraladi?",
+    answerOptions: [
+      { answerText: "2ta oddiy va murakkab axborot tizimi", isCorrect: true },
+      { answerText: "3ta sohta, oddiy va qiyin", isCorrect: false },
+      { answerText: "oddiy", isCorrect: false },
+      { answerText: "murakkab", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Oddiy axborot tizim deb qanday tizimga aytiladi?",
+    answerOptions: [
+      { answerText: "bir xil qoidaga asoslangan elementlardan tashkil topgan tizim", isCorrect: true },
+      { answerText: "har xil qoidalarfa bo'ysunuvchi elementlardan tashkil topgan tizim", isCorrect: false },
+      { answerText: "axborotning shakliga va holatiga bog'liq bo'lmagan holda yig'indisi", isCorrect: false },
+      { answerText: "tizim elementlari orasidagi aloqasi va turg'un munosabatlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Murakkab axborot tizimi dab qanday tizimga aytiladi?",
+    answerOptions: [
+      { answerText: "har xil qoidalarga bo'ysunuvchi elementlardan tashkil topgan tizim", isCorrect: true },
+      { answerText: "bir xil qoidaga asoslangan elementlardan tashkil topgan tizim", isCorrect: false },
+      { answerText: "axborotning shakliga va holatiga bog'liq bo'lmagan holda yig'indisi", isCorrect: false },
+      { answerText: "tizim elementlari orasidagi aloqasi va turg'un munosabatlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Axborot telekomunikatsion inflastruktura - …",
+    answerOptions: [
+      { answerText: "mamlakatda aloqa va telekomunikatsiya vositalari orqali tarmoqda o'zaro bog'langan hududiy taqsimlangan kompaniyalar.", isCorrect: true },
+      { answerText: "jamiyatda axborotni yig'ish uzatish saqlash avtomatik qayta ishlash va tarqatishni ta'minlovchi muhit.", isCorrect: false },
+      { answerText: "axborotning shakliga va holatiga bog'liq bo'lmagan holda yig'indisi", isCorrect: false },
+      { answerText: "tizim elementlari orasidagi aloqasi va turg'un munosabatlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Axborot inflastrukturasi - ….",
+    answerOptions: [
+      { answerText: "jamiyatda axborotni yig'ish uzatish saqlash avtomatik qayta ishlash va tarqatishni ta'minlovchi muhit.", isCorrect: true },
+      { answerText: "mamlakatda aloqa va telekomunikatsiya vositalari orqali tarmoqda o'zaro bog'langan hududiy taqsimlangan kompaniyalar.", isCorrect: false },
+      { answerText: "axborotning shakliga va holatiga bog'liq bo'lmagan holda yig'indisi", isCorrect: false },
+      { answerText: "tizim elementlari orasidagi aloqasi va turg'un munosabatlar", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Axborot komunikatsiya texnologiyalaridan foydalanishni o'sish darajasi yer yuzida yiliga nechcha foizni tashkil qiladi?",
+    answerOptions: [
+      { answerText: "5%", isCorrect: false },
+      { answerText: "10%", isCorrect: true },
+      { answerText: "8%", isCorrect: false },
+      { answerText: "6%", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "IT inflastrukturada o'rin olgan nechta ko'rsatkich mavjud?",
+    answerOptions: [
+      { answerText: "6ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: true },
+      { answerText: "7ta", isCorrect: false },
+      { answerText: "10ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linuxda joriy foydalanuvchini ko‘rish buyrug‘i?",
+    answerOptions: [
+      { answerText: "whoami", isCorrect: true },
+      { answerText: "user", isCorrect: false },
+      { answerText: "name", isCorrect: false },
+      { answerText: "idduser", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Fayl ichini ko‘rish buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "show", isCorrect: false },
+      { answerText: "cat", isCorrect: true },
+      { answerText: "open", isCorrect: false },
+      { answerText: "read", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Tarmoqni tekshirish buyrug‘i qaysi?",
+    answerOptions: [
+      { answerText: "ping", isCorrect: true },
+      { answerText: "check", isCorrect: false },
+      { answerText: "net", isCorrect: false },
+      { answerText: "test", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Portlarni tekshirish uchun qaysi vosita ishlatiladi?",
+    answerOptions: [
+      { answerText: "nano", isCorrect: false },
+      { answerText: "nmap", isCorrect: true },
+      { answerText: "cat", isCorrect: false },
+      { answerText: "rm", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "ifconfig nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl yaratadi", isCorrect: false },
+      { answerText: "Tarmoqni ko‘rsatadi", isCorrect: true },
+      { answerText: "Tarmoqdagi antivirus", isCorrect: false },
+      { answerText: "Nusxa oladi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "wget nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl o‘chiradi", isCorrect: false },
+      { answerText: "Internetdan yuklab oladi", isCorrect: true },
+      { answerText: "Internetdagi xabarni ko‘rsatadi", isCorrect: false },
+      { answerText: "Ochadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "nano nima?",
+    answerOptions: [
+      { answerText: "O‘yin o’ynaydi", isCorrect: false },
+      { answerText: "Matn muharriri", isCorrect: true },
+      { answerText: "Fayl tizimi", isCorrect: false },
+      { answerText: "Disk", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "find buyrug‘i nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl qidiradi", isCorrect: true },
+      { answerText: "O‘chiradi", isCorrect: false },
+      { answerText: "Ko‘chiradi", isCorrect: false },
+      { answerText: "Ochadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "grep nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl o‘chiradi", isCorrect: false },
+      { answerText: "Matndan qidiradi", isCorrect: true },
+      { answerText: "Ko‘chiradi", isCorrect: false },
+      { answerText: "Yaratadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "tar nima uchun ishlatiladi?",
+    answerOptions: [
+      { answerText: "Arxivlash", isCorrect: true },
+      { answerText: "O‘chirish", isCorrect: false },
+      { answerText: "Ko‘rsatish", isCorrect: false },
+      { answerText: "Ochish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "zip nima qiladi?",
+    answerOptions: [
+      { answerText: "Fayl yaratadi", isCorrect: false },
+      { answerText: "Faylni siqadi", isCorrect: true },
+      { answerText: "Faylni o‘chiradi", isCorrect: false },
+      { answerText: "Faylni ko‘rsatadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "uname nima ko‘rsatadi?",
+    answerOptions: [
+      { answerText: "Fayl konfiguratsiyasi nomi", isCorrect: false },
+      { answerText: "Tizim ma’lumotlari", isCorrect: true },
+      { answerText: "Sistema versiyasi", isCorrect: false },
+      { answerText: "Disk hajmi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux xavfsizligining asosiy sababi?",
+    answerOptions: [
+      { answerText: "Boshqa tizimlardan qimmatligi", isCorrect: false },
+      { answerText: "Ochiq kod va nazorat", isCorrect: true },
+      { answerText: "Sekin ishlashi", isCorrect: false },
+      { answerText: "Yopiqligi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Root foydalanuvchi kim?",
+    answerOptions: [
+      { answerText: "Oddiy user", isCorrect: false },
+      { answerText: "Administrator", isCorrect: true },
+      { answerText: "Mehmon", isCorrect: false },
+      { answerText: "Dasturchi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Linux qaysi turga kiradi?",
+    answerOptions: [
+      { answerText: "Yopiq kodli tizim", isCorrect: false },
+      { answerText: "Ochiq kodli tizim", isCorrect: true },
+      { answerText: "Pullik tizim", isCorrect: false },
+      { answerText: "Brauzer tizimi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shifrlash nima?",
+    answerOptions: [
+      { answerText: "Parol qo’yish", isCorrect: false },
+      { answerText: "Ma’lumotni yashirish", isCorrect: true },
+      { answerText: "Nusxa olishni cheklash", isCorrect: false },
+      { answerText: "Parolni ochish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shifrlashning asosiy maqsadi nima?",
+    answerOptions: [
+      { answerText: "Tezlik", isCorrect: false },
+      { answerText: "Xavfsizlik", isCorrect: true },
+      { answerText: "O‘yin", isCorrect: false },
+      { answerText: "Ko‘rsatish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Encryption nimani anglatadi?",
+    answerOptions: [
+      { answerText: "O‘chirish", isCorrect: false },
+      { answerText: "Shifrlash", isCorrect: true },
+      { answerText: "Ko‘rsatish", isCorrect: false },
+      { answerText: "Nusxa olish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Decryption nima?",
+    answerOptions: [
+      { answerText: "Yashirish", isCorrect: false },
+      { answerText: "Shifrni ochish", isCorrect: true },
+      { answerText: "O‘chirish", isCorrect: false },
+      { answerText: "Nusxa olish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kalit (key) nima?",
+    answerOptions: [
+      { answerText: "Fayl vositasi", isCorrect: false },
+      { answerText: "Shifrlash vositasi", isCorrect: true },
+      { answerText: "Ma'lumot vositasi", isCorrect: false },
+      { answerText: "Disk vositasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Simmetrik shifrlash nima?",
+    answerOptions: [
+      { answerText: "2 xil kalit", isCorrect: false },
+      { answerText: "1 xil kalit", isCorrect: true },
+      { answerText: "Kalitsiz", isCorrect: false },
+      { answerText: "Noto‘g‘ri", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Asimmetrik shifrlash nima?",
+    answerOptions: [
+      { answerText: "1 kalit", isCorrect: false },
+      { answerText: "2 kalit", isCorrect: true },
+      { answerText: "Kalitsiz", isCorrect: false },
+      { answerText: "O‘yin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "AES qaysi turga kiradi?",
+    answerOptions: [
+      { answerText: "Asimmetrik", isCorrect: false },
+      { answerText: "Simmetrik", isCorrect: true },
+      { answerText: "Hash", isCorrect: false },
+      { answerText: "O‘yin", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "RSA qaysi turga kiradi?",
+    answerOptions: [
+      { answerText: "Simmetrik", isCorrect: false },
+      { answerText: "Asimmetrik", isCorrect: true },
+      { answerText: "Hash", isCorrect: false },
+      { answerText: "Fayl", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Hash nima?",
+    answerOptions: [
+      { answerText: "Shifrlash funksiyasi", isCorrect: false },
+      { answerText: "Bir tomonlama funksiya", isCorrect: true },
+      { answerText: "Parol funksiyasi", isCorrect: false },
+      { answerText: "Disk funksiyasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SHA-256 nima?",
+    answerOptions: [
+      { answerText: "Hash algoritmi", isCorrect: true },
+      { answerText: "Parol algoritmi", isCorrect: false },
+      { answerText: "Fayl algoritmi", isCorrect: false },
+      { answerText: "Disk algoritmi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Shifrlash qayerda ishlatiladi?",
+    answerOptions: [
+      { answerText: "Internetda", isCorrect: false },
+      { answerText: "Bankda", isCorrect: false },
+      { answerText: "Login tizimida", isCorrect: false },
+      { answerText: "Barchasida", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "HTTPS nimani bildiradi?",
+    answerOptions: [
+      { answerText: "Oddiy ulanish", isCorrect: false },
+      { answerText: "Xavfsiz ulanish", isCorrect: true },
+      { answerText: "Parolli ulanish", isCorrect: false },
+      { answerText: "Kodli ulanish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "SSL/TLS nima?",
+    answerOptions: [
+      { answerText: "Oddiy protokol", isCorrect: false },
+      { answerText: "Xavfsiz protokol", isCorrect: true },
+      { answerText: "Dasturli protokol", isCorrect: false },
+      { answerText: "Kodli protokol", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Kuchli parol qanday bo‘ladi?",
+    answerOptions: [
+      { answerText: "123456", isCorrect: false },
+      { answerText: "Faqat ism", isCorrect: false },
+      { answerText: "Harf=son=belgi", isCorrect: true },
+      { answerText: "Faqat harf", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Parol uzunligi qanday bo‘lishi kerak?",
+    answerOptions: [
+      { answerText: "3 ta", isCorrect: false },
+      { answerText: "5 ta", isCorrect: false },
+      { answerText: "8 = belgidan", isCorrect: true },
+      { answerText: "2 ta", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Parolni qayerda saqlash xavfsiz?",
+    answerOptions: [
+      { answerText: "Qog‘ozda", isCorrect: false },
+      { answerText: "Parol menejerda", isCorrect: true },
+      { answerText: "Do‘stga aytish", isCorrect: false },
+      { answerText: "Faylda", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "2FA nima?",
+    answerOptions: [
+      { answerText: "Uch bosqichli autentifikatsiya", isCorrect: false },
+      { answerText: "Ikki bosqichli autentifikatsiya", isCorrect: true },
+      { answerText: "Bir bosqichli autentifikatsiya", isCorrect: false },
+      { answerText: "Ikki faktorli identifikatsiya", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "OTP nima?",
+    answerOptions: [
+      { answerText: "Doimiy parol", isCorrect: false },
+      { answerText: "Bir martalik parol", isCorrect: true },
+      { answerText: "Saqlangan parol", isCorrect: false },
+      { answerText: "Diskdagi parol", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Parolni tez-tez o‘zgartirish kerakmi?",
+    answerOptions: [
+      { answerText: "Yo‘q", isCorrect: false },
+      { answerText: "Ha", isCorrect: true },
+      { answerText: "Kerak emas", isCorrect: false },
+      { answerText: "Bilmayman", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Eng xavfli parol qaysi?",
+    answerOptions: [
+      { answerText: "Qiyin", isCorrect: false },
+      { answerText: "Oddiy", isCorrect: true },
+      { answerText: "Uzun", isCorrect: false },
+      { answerText: "Murakkab", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Brute force nima?",
+    answerOptions: [
+      { answerText: "Kodlash tizimi yashirish", isCorrect: false },
+      { answerText: "Parolni taxmin qilish", isCorrect: true },
+      { answerText: "Parol yaratish", isCorrect: false },
+      { answerText: "Oddiy parol", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Dictionary attack nima?",
+    answerOptions: [
+      { answerText: "Lug‘at orqali parol topish", isCorrect: true },
+      { answerText: "Ma'lumot izlari orqali topish", isCorrect: false },
+      { answerText: "Faylni ochish", isCorrect: false },
+      { answerText: "Xavfsiz parol topish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Qaysi parol eng xavfsiz hisoblanadi?",
+    answerOptions: [
+      { answerText: "user123", isCorrect: false },
+      { answerText: "12345678", isCorrect: false },
+      { answerText: "P@ssw0rd", isCorrect: false },
+      { answerText: "X7!kL9@qZ#2", isCorrect: true },
+    ],
+  },
+  {
+    questionText: "Brauzerda parol saqlashning xavfi nima?",
+    answerOptions: [
+      { answerText: "Parol o‘chib ketadi", isCorrect: false },
+      { answerText: "Virus tushsa parollar ochilishi mumkin", isCorrect: true },
+      { answerText: "Internet sekinlashadi", isCorrect: false },
+      { answerText: "Fayllar o‘chadi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Rainbow table nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Rangli jadval odamlarni aldash", isCorrect: false },
+      { answerText: "Oldindan hisoblangan hashlar bazasi", isCorrect: true },
+      { answerText: "Parol generatori", isCorrect: false },
+      { answerText: "Antivirus turi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Social engineering hujumi nimaga asoslanadi?",
+    answerOptions: [
+      { answerText: "Algoritmlarga asoslangan", isCorrect: false },
+      { answerText: "Odamlarni aldashga", isCorrect: true },
+      { answerText: "Qurilmalarga", isCorrect: false },
+      { answerText: "Fayl tizimiga", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Rainbow table nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Rangli jadval bo’yicha", isCorrect: false },
+      { answerText: "Hash qiymatlar bazasi", isCorrect: true },
+      { answerText: "Parol generatori", isCorrect: false },
+      { answerText: "Antivirus vositasi", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Antivirus dasturining asosiy vazifasi nima?",
+    answerOptions: [
+      { answerText: "O‘yin o‘ynash", isCorrect: false },
+      { answerText: "Zararli dasturlarni yo‘q qilish", isCorrect: true },
+      { answerText: "Fayl yaratish", isCorrect: false },
+      { answerText: "Internetni tezlashtirish", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Malware atamasi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Oddiy dastur", isCorrect: false },
+      { answerText: "Tizimni tezlashtiruvchi", isCorrect: false },
+      { answerText: "Zararli dasturlar nomi", isCorrect: true },
+      { answerText: "Grafik interfeys", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Malware atamasi nimani anglatadi?",
+    answerOptions: [
+      { answerText: "Oddiy dastur nomi", isCorrect: false },
+      { answerText: "Tizim tezlatuvchi", isCorrect: false },
+      { answerText: "Zararli dasturlar nomi", isCorrect: true },
+      { answerText: "Grafik interfeysga mo’ljallangan dastur", isCorrect: false },
+    ],
+  },
+  {
+    questionText: "Backup qilishning foydasi nima?",
+    answerOptions: [
+      { answerText: "Tezlashtirish", isCorrect: false },
+      { answerText: "Ma’lumot yo‘qolsa tiklash", isCorrect: true },
+      { answerText: "Internetni tezlatish", isCorrect: false },
+      { answerText: "Parolni buzishni himoyalash", isCorrect: false },
+    ],
+  },
+];

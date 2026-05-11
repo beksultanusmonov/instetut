@@ -15,6 +15,54 @@ function Home() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
+          {/* Cyber Yakuniy Quiz */}
+          <div className="group">
+            <div className="bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-100 overflow-hidden">
+              <div className="h-24 md:h-32 bg-linear-to-r from-emerald-600 to-teal-700 flex items-center justify-center">
+                <svg
+                  className="h-10 w-10 md:h-12 md:w-12 text-white"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M12 3l7 4v5c0 5-3.5 8-7 9-3.5-1-7-4-7-9V7l7-4zm0 6v4m0 4h.01"
+                  />
+                </svg>
+              </div>
+              <div className="p-4 md:p-6">
+                <h3 className="text-lg md:text-xl font-bold text-gray-900 mb-2">
+                  Cyber Yakuniy
+                </h3>
+                <p className="text-gray-600 mb-3 md:mb-4 text-sm md:text-base">
+                  Linux va kiberxavfsizlik bo'yicha yakuniy testlar to'plami
+                </p>
+                <Link
+                  to="/test?quiz=cyberyakuniy"
+                  className="inline-flex items-center px-3 md:px-4 py-2 bg-teal-700 text-white rounded-lg hover:bg-teal-800 transition-colors duration-200 font-medium text-sm md:text-base"
+                >
+                  Boshlash
+                  <svg
+                    className="ml-2 h-3 w-3 md:h-4 md:w-4"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M9 5l7 7-7 7"
+                    />
+                  </svg>
+                </Link>
+              </div>
+            </div>
+          </div>
+
           {/* Suniy Intelekt Quiz */}
           <div className="group">
             <div className="bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-100 overflow-hidden">
