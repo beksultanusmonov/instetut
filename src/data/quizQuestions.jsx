@@ -9063,8 +9063,8 @@ export const quizCyberYakuniy = [
   {
     questionText: "Linuxda yordam olish buyrug‘i qaysi?",
     answerOptions: [
-      { answerText: "help", isCorrect: false },
-      { answerText: "man", isCorrect: true },
+      { answerText: "help", isCorrect: true },
+      { answerText: "man", isCorrect: false },
       { answerText: "info", isCorrect: false },
       { answerText: "guide", isCorrect: false },
     ],
