@@ -9441,10 +9441,10 @@ export const quizCyberYakuniy = [
   {
     questionText: "DNS nima?",
     answerOptions: [
-      { answerText: "Nomlarning domen tizimi", isCorrect: false },
+      { answerText: "Nomlarning domen tizimi", isCorrect: true },
       { answerText: "Nomlarning adressi", isCorrect: false },
       { answerText: "Ma'lumotlarni uzatish", isCorrect: false },
-      { answerText: "to'g'ri javob yo'q", isCorrect: true },
+      { answerText: "to'g'ri javob yo'q", isCorrect: false },
     ],
   },
   {

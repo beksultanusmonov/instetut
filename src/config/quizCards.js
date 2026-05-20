@@ -1,0 +1,69 @@
+export const PUBLIC_QUIZ_CARDS = [
+  {
+    id: 'cyberyakuniy',
+    title: 'Cyber Yakuniy',
+    description: "Linux va kiberxavfsizlik bo'yicha yakuniy testlar to'plami",
+    gradient: 'from-emerald-600 to-teal-700',
+    buttonClass: 'bg-teal-700 hover:bg-teal-800',
+    icon: 'shield',
+  },
+  {
+    id: 'suniyintelekt',
+    title: 'SuniyIntelekt Quiz',
+    description: "Sun'iy intellekt test yakuniy nazorat uchun",
+    gradient: 'from-cyan-500 to-indigo-600',
+    buttonClass: 'bg-indigo-600 hover:bg-indigo-700',
+    icon: 'chip',
+  },
+  {
+    id: 'kiberxavfsizlik',
+    title: 'Kiber Xavfsizlik',
+    description: 'IV semestr KiberXavfsizlik fani uchun oraliq test',
+    gradient: 'from-slate-700 to-slate-900',
+    buttonClass: 'bg-slate-800 hover:bg-slate-900',
+    icon: 'lock',
+  },
+  {
+    id: 'enterprise',
+    title: '1C Enterprise',
+    description: 'IV semestr Test oraliq sinov va yakuniy nazorat uchun',
+    gradient: 'from-red-500 to-red-600',
+    buttonClass: 'bg-red-600 hover:bg-red-700',
+    icon: 'building',
+  },
+  {
+    id: 'baza',
+    title: "Ma'lumotlar Bazasi",
+    description: 'III-semestr Yakuniy nazorat uchun',
+    gradient: 'from-blue-500 to-blue-600',
+    buttonClass: 'bg-blue-600 hover:bg-blue-700',
+    icon: 'database',
+  },
+  {
+    id: 'tarmoq',
+    title: 'Kompyuter Tarmoqlari',
+    description: 'III-semestr Yakuniy nazorat uchun',
+    gradient: 'from-green-500 to-green-600',
+    buttonClass: 'bg-green-600 hover:bg-green-700',
+    icon: 'network',
+  },
+  {
+    id: 'questions',
+    title: "Ma'lumotlar Bazasi",
+    description: 'III-semestr 21-kungi test oraliq sinov uchun',
+    gradient: 'from-purple-500 to-purple-600',
+    buttonClass: 'bg-purple-600 hover:bg-purple-700',
+    icon: 'document',
+  },
+];
+
+export const SECRET_QUIZ_CARDS = [
+  {
+    id: 'secret1c',
+    title: '1C Enterprise',
+    description: 'Maxfiy testlar — yakuniy nazorat va oraliq sinov',
+    gradient: 'from-red-600 to-rose-800',
+    buttonClass: 'bg-red-700 hover:bg-red-800',
+    icon: 'building',
+  },
+];
