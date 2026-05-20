@@ -87,7 +87,7 @@ function Quiz() {
   const modeLabel =
     mode === 'random' ? 'Random 25 ta' : mode === 'range' ? rangeLabel : 'Barcha testlar';
 
-  if (!isValidQuizType(quizType) || quizData.length === 0) {
+  if (!isValidQuizType(quizType, isSecret) || quizData.length === 0) {
     return (
       <div className="min-h-screen bg-linear-to-br from-slate-50 to-blue-50 flex items-center justify-center">
         <div className="text-center">
