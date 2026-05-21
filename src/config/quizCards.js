@@ -1,5 +1,13 @@
 export const PUBLIC_QUIZ_CARDS = [
   {
+    id: 'yakuniy1c',
+    title: '1C Yakuniy Nazorat',
+    description: '1C Enterprise fani bo\'yicha yakuniy nazorat testlari',
+    gradient: 'from-red-500 to-orange-600',
+    buttonClass: 'bg-orange-600 hover:bg-orange-700',
+    icon: 'building',
+  },
+  {
     id: 'cyberyakuniy',
     title: 'Cyber Yakuniy',
     description: "Linux va kiberxavfsizlik bo'yicha yakuniy testlar to'plami",

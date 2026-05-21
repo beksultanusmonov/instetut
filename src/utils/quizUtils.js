@@ -6,6 +6,7 @@ import {
   quizQuestions,
   quizTarmoq,
   suniyIntelektQuiz,
+  yakuniy1cQuiz,
 } from '../data/quizQuestions';
 import { secret1cQuiz } from '../data/secretQuizes';
 
@@ -27,6 +28,10 @@ export const QUIZ_META = {
   enterprise: {
     title: '1C Enterprise',
     description: 'IV semestr Test oraliq sinov va yakuniy nazorat uchun',
+  },
+  yakuniy1c: {
+    title: '1C Yakuniy Nazorat',
+    description: '1C Enterprise fani bo\'yicha yakuniy nazorat testlari',
   },
   baza: {
     title: "Ma'lumotlar Bazasi",
@@ -74,6 +79,8 @@ export function getQuizByType(quizType, isSecret = false) {
       return suniyIntelektQuiz;
     case 'cyberyakuniy':
       return quizCyberYakuniy;
+    case 'yakuniy1c':
+      return yakuniy1cQuiz;
     default:
       return null;
   }

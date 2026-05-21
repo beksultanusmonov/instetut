@@ -1,0 +1,1027 @@
+?1C Enterprise nima? 
+= Moliya hisobi tizimini hisoblash dasturi
++ Buxgalteriya va boshqaruvni hisoblash dasturi.
+= Veb-brauzer haqidagi axborotni hisoblash dasturi
+= Grafik dizayn dasturining korinish dasturi
+ ?1C Enterprise ning asosiy foydasi nima? 
++ Hisob-kitob va ish jarayonlarini avtomatlashtirish
+= Grafik dizayn va rasm chizish ishlarini avtomatlashtirish
+= Oddiy fayllarni saqlash va ko‘rishni avtomatlashtirish
+= Dasturlash tillarida kod yozishni avtomatlashtirish
+?1C Enterprise dasturi qaysi sohalarda ishlatiladi?
++ Buxgalteriya, savdo va ombor boshqaruvida
+= Sanoat texnikalarini ishlab chiqarishda
+= Internet saytlarini ko‘rish jarayonini yaratishda
+= Kompyuter o‘yinlarini yaratishda
+?1C Enterprise tizimida axborot bazasi nima
+= Internet brauzerida ochilgan maxsus oyna
++Ma’lumotlar va jarayonlar jamlanmasi
+= Kompyuterda saqlanadigan ma’lumotlar va jarayonlar jamlanmasi
+= Foydalanuvchi uchun yaratilgan ma’lumotlar va jarayonlar jamlanmasi
+?1C Enterprise da ma’lumotlar bazasi qayerda saqlanadi?
++ Server yoki maxsus fayl rejimida saqlanadi
+= Internet brauzerining vaqtinchalik xotirasida 
+= Grafik va rasm fayllari papkasida joylashadi 
+= Microsoft Word hujjati ko‘rinishida saqlanadi
+?1C Enterprise da ma’lumotnoma nima? 
++ Standart referensiya ma’lumotlari to‘plam turi
+= Korxonaning buxgalteriya hisob-kitob tizimi
+= Internet orqali ishlovchi maxsus xizmat turi
+= Kompyuterda ishlatiladigan fayl formati turi
+? Hujjatlar 1C da nima uchun ishlatiladi
+= Foydalanuvchi uchun oynalarni yaratish uchun 
++ Operatsiya va ish jarayonlarini qayd etish uchun
+= Grafik tasvirlar bilan ishlash imkoniyati uchun
+= Dastur sozlamalarini saqlash vazifasi uchun
+?1C da jamg‘arma registri nimalarga xizmat qiladi
+= Grafik va diagrammalarni chizish jarayoni uchun
+= Foydalanuvchilar hisobini yuritish vazifasi uchun
+= Zaxira nusxalarini avtomatik yaratish uchun 
++ Moliyaviy va resurs hisoblarini yuritish uchun
+ ?1C da oddiy hisobot nima? 
+= Internet sahifasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi sozlamasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Grafik chizmada ko'rsatiladigan ma'lumot
++ Oldindan belgilangan ma'lumotni chiqaruvchi hisobot
+ ?1C da maket nima? 
+= Ma'lumotlar bazasi turi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Hujjatning vizual ko'rinishi va strukturasini belgilovchi shablonda tizimli tahlil qilish
+= Qurilmalar ro'yxati jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Hisobot turi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+ ?1C da shakillarni tahrirlash nima bilan bog'liq? 
++ Hujjat yoki hisobot maketini o'zgartirishda tizimli tahlil qilish
+= Registrni tozalash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ma'lumot bazasini yaratish jarayonlarini vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi rejimini sozlashda tizimli tahlil qilish
+ ? Davriy ma'lumotlar registri qaysi maqsadga xizmat qiladi? 
+= Foydalanuvchi parolini o'zgartirishda
++ Vaqt bo'yicha qiymatlarni saqlashda
+= Matn faylini saqlash jarayonlarini vizual ko'rinishda 
+= Grafik yaratish jarayonlarini vizual ko'rinishda 
+ ? Ro'yxatlar 1C da nimani ifodalaydi? 
+= Maketlarni jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishda
++ Tovarlar, xizmatlar, xodimlar kabi ichki ma'lumotlar to'plamini taxlil qilishda
+= Hisobot turi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishda
+= Hujjatlar ro'yxatini jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishda
+ ? Hujjatni bir nechta registr bo'yicha o'tkazish nimani anglatadi? 
+= Hujjatni ko'chirish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishda
+= Hujjatni o'chirish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishda
++ Hujjat asosida bir nechta registrlar bo'yicha yozuvlar hosil qilishda
+= Hujjatni bir vaqtda bir nechta foydalanuvchiga yuborishni hosil qilishda
+? Aylanma jamg'arma registrlari nimalarga mos keladi? 
+= Foydalanuvchi interfeysi komponentlarini
+= Hisobotlarni saqlash jarayonlarini vizual ko'rinishda 
+= Grafik fayllarga jarayonlarini alohida vizual ko'rinishda 
++ Resurslar aylanishi va zaxira hisobi ko’rinishida
+? Hisobotlar 1C da qanday ishlaydi? 
++Ma'lumotlarni tahlil qilish va chiqarish uchun tizimli tahlil qilish
+= Internetni tekshirish uchun jarayonlarini tizimli tahlil qilish
+= Dastur kodini tuzish uchun jarayonlarini tizimli tahlil qilish
+= Fayllarni kompress qilish uchun jarayonlarini tizimli tahlil qilish
+? 1C da Xizmat ko'rsatish hujjati nimani anglatadi? 
+= Hisobot yaratish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi ichki xatoni jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Avtomobil ta'mirlash servisini yuklash uchun  hujjat
++ Servis xizmatlari va xizmat ko'rsatish ishlarini yuklash uchun hujjat
+? 1C da Xizmat ko'rsatish hujjatini optimallashtirish nima? 
+= Hujjatni o'chirish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ma'lumotlarni siqish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Grafik maketini o'zgartirish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Yuklamalarni kamaytirish va tez ishlash uchun hujjat oqimini soddalashtirish
+? Xususiyatlar turlari rejasi hisobi 1C da nimalarni ifodalaydi? 
+= Hisobot shablonini jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Server sozlamalarini saqlash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Mahsulot xususiyatlarini hisoblash va variantlarni boshqarishni tahlil qilish
+= Foydalanuvchi huquqlarini ro'yxatga olishni tizimli tahlil qilish
+? 1C Enterprise da Axborot bazasini yaratish bosqichlari qaysilar? 
++ Yangi baza yaratish, struktura belgilash, ma'lumotlarni import qilish
+= Maket yaratish, himoyalash, chop etish 
+= Faylni ochish, chizma chizish, eksport, import qilish strukturasi va chop etish
+= Test yozish, kompilyatsiya, tarqatishni chop etish 
+? 1C ma'lumotlarni qaysi turdagi obyekt sifatida tashkil qiladi? 
++ Registr, hujjat, ma'lumotnoma hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash 
+= Rasm obyekti jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Matn stringi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Massiv jarayonlarini alohida vizual ko'rinishda va rasm obyekti jarayonini tizimli tahlil qilish
+? Ma'lumotnoma sifatida nimani ishlatish mumkin? 
+= Server xotirasi jarayonlarini va fayl manzili jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Noaniq yozuv jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++Tovarlar, mijozlar, kassalar hamda uning barcha zaruriy mexanizmlarini tahlil qilish
+= Fayl manzili jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Hujjatlar qaysi elementlardan tashkil topadi? 
+= Atributlar, o'lcham, rang jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ro'yxat, tasvir, fayl jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi, parol, login jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Sarlavha, satrlar, imzo hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlashni tahlil qilish 
+? 1C da Nazariy ma'lumotlar nimani anglatadi? 
+= Internet sozlamalari jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Grafik elementlar jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Mantiqiy qoidalar va tushunchalar bo'yicha ma'lumotni tizimli tahlil qilish
+= Foydalanuvchi huquqlari jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Jamg'arma registrlarida qaysi ish bajariladi? 
+= Kichik grafika yaratish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Faylni zaxiralash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Moliyaviy resurslar va miqdorlarni hisoblashni tahlil qilish
+= Internet so'rovlarini yuborishni tizimli tahlil qilish
+? Oddiy hisobotda qanday ma'lumotlar ko'rsatiladi? 
+= Hujjat metadata jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Fayl ma'lumotlari jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Strukturaviy va statistik ma'lumotlarni tahlil qilish
+= Rasm pikseli jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Maketlar 1C da nimani belgilaydi? 
+= Server manzilini jarayonlarini tahlil qilish
+= Internet linkini jarayonlarini tahlil qilish
++ Hujjat va hisobot ko'rinishini tahlil qilish
+= Tizim foydalanuvchisini jarayonlarini tahlil qilish
+? Shakillarni tahrirlash qachon kerak bo'ladi? 
+= Ma'lumotlar bazasini ishlatishda
+= Serverni ishga tushirishda tahlil qilish
+= Foydalanuvchi loginini o'zgartirishda
++ Hisobot ko'rinishini moslashtirishda
+? Davriy ma'lumotlar registri eng ko'p qaysi ma'lumotlar uchun ishlatiladi? 
+= Parol saqlash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Inventarizatsiya, narx o'zgarishlari, holatlar bo'yicha tahlil qilish
+= Rasm fayllar jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Brauzer tarix jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Ro'yxatlar uchun to'g'ri ta'rifni tanlang. 
++ Tizimga oid ob'ektlar to'plami
+= Hujjatga bog'liq fayllar to’plami
+= Cheksiz matn bloklar to’plami 
+= Xabar uzatish protokoli to’plami
+? Hujjatni registr bo'yicha o'tkazish qanday natija beradi? 
+= Fayl o'chadi yangi yozuvlar keladi
++ Hujjatga yangi yozuvlar keladi 
+= Hujjat yo'qoladi jarayonlarini hujjatga yangi yozuvlar keladi
+= Server restart bo'ladi jarayonlarini hujjatga yangi yozuvlar keladi
+? Aylanma jamg'arma registrlari asosida nima hisoblanadi? 
+= Grafik piksellar ko’rinishi hisoblanadi 
+= Fayl formatlar ko’rinishi hisoblanadi 
++ Soddalashtirilgan tovar aylanishi hisoblanadi
+= Og'irlik rejim ko’rinishi hisoblanadi
+? Hisobotlarning asosiy vazifasi nima? 
+= Serverga kirish vazifasini bajaradi
+= Foydalanuvchi parolini saqlash
++ Ma'lumotlar tahlili va chiqarilishi
+= Maket yaratish vazifasini bajaradi
+? Xizmat ko'rsatish hujjati qaysi jarayonni belgilaydi? 
+= Tizim xavfsizligini jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ma'lumotlarni zaxiralashni jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Xizmat ishlari va kafolatni hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Marketing kampaniyasini jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Optimallashtirish nima uchun muhim? 
++ Ish jarayonini tezlashtirish va xatoliklarni kamaytirish uchun 
+= Fayl hajmini oshirish uchun 
+= Grafik hajmini oshirish va uning barcha zaruriy mexanizmlari uchun
+= Foydalanuvchi izohlarini ko'paytirish uchun
+? Xususiyatlar turlari rejasi hisobi qaysi tizimda bo'ladi? 
+= Ish jarayonini tezlashtirish va xatoliklarni kamaytirishda bo’ladi
++ Mahsulot variantlari rejalashtirilgan ma'lumotlarda
+= Hisob-kitob va jadval bo'limlarida bo’ladi
+= Brauzer xabarnomasida bo’ladi
+? 1C'da Axborot bazasi yaratishda qaysi element muhim? 
++ Struktura va shablon hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Qurilmalar drayveri va brauzer tuzilishi jarayonlarini alohida vizual ko'rinishda ta’minlash
+= Rasm chizish jarayonlarini alohida vizual ko'rinishda ta’minlash
+= Brauzer tuzilishi jarayonlarini alohida vizual ko'rinishda ta’minlash
+? Ma'lumotnomalar qaysi maqsadga xizmat qiladi? 
+= Grafik yaratish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Tizim sozlamalarini saqlash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Hujjat import qilish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Standart ma'lumotlarni boshqarish va tanlashni tahlil qilish
+? Hujjatlar qaysi turi 1C da mavjud? 
+= Rezident va norezident jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Hisob, tovar, xizmat hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Dastur, raport, yangilik jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Qisqa, o'rta, uzoq jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Nazariy ma'lumotlar 1C da nimani anglatadi? 
+= Tizim so'rovlari fizik modeli
++ Ish jarayonining matematik modeli
+= Mijoz fikri asosidagi model
+= Mahsulot variantlari rejalashtirilgan ma'lumotlar modeli
+? Jamg'arma registrini tanlang. 
+= Hisob-kitoblarni saqlash harakati
+= Serverni qayta ishga tushirish harakati
++ Moliyaviy resurslar va ularning harakati
+= Operatsion yozuvlar hosil qilish harakati
+? Oddiy hisobot qanday ko'rsatiladi? 
+= E-mail xabarnoma jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Portfel diagrammasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Jadval va to'plam tarzida hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Hujjat matni sifatida va portfel diagrammasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Maketlarni tahrirlashda nima o'zgartiriladi? 
++ Hujjat yoki hisobot ko'rinishi va standart bloki
+= Serverni qayta ishga tushirish bloki
+= Foydalanuvchi autentifikatsiya bloki 
+= Ma'lumotlar bazasi jadvali bloki
+? Davriy ma'lumotlar registri nimani saqlaydi? 
+= Internet brauzer ma’lumotlari
+= Parol tarixi ma’lumotlari
+= Grafik parametrlarini ma’lumotlari
++ Vaqt bo'yicha o'zgaradigan ma'lumotlarni
+? Ro'yxatlar nima uchun mos keladi? 
+= Internet so'rovlarini bajarish uchun
++ Modeldagi kriteriyalar ro'yxatini saqlash uchun
+= Faylni bosib chiqarish uchun 
+= Buxgalteriya, savdo va ombor uchun 
+? Hujjatni registrlar bo'yicha o'tkazish qachon kerak? 
++ Operatsion yozuvlar hosil qilishda
+= Fayl eksportni hosil qilishda
+= Yangi hisobot yaratishni hosil qilishda
+= Tizimni yangilashni hosil qilishda
+? Aylanma jamg'arma registrlari qaysi yo'nalishda ishlaydi? 
+= Grafik interaktivlik uchun jarayonlarini alohida vizual ko'rinishda tizimli ta’minlash
++ Aylanish va qayta hisob uchun hamda uning barcha zaruriy mexanizmlarini ta'minlash
+= Server xavfsizligi uchun jarayonlarini alohida vizual ko'rinishda tizimini ta’minlash
+= Statik hisobot va grafik interaktivlik uchun jarayonlarini alohida vizual ko'rinish to’liq tizimini ta’minlash
+? Maketlar 1C da qaysi elementlarga ta'sir qiladi? 
+= Server yadro konfiguratsiyasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Internet tezligi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Fayl ruxsatlari jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Hujjat yoki hisobot sahifasi ko'rinishini tizimli tahlil qilish
+? Shakllarni tahrirlash qaysi bosqichda sodir bo'ladi? 
+= Dasturlash tillarida kod yozishda
++ Hisobot yoki hujjatni sozlashda
+= Foydalanuvchi uchun yaratilgan interfeysda
+= Sanoat texnikalarini ishlab chiqarishda
+? Davriy ma'lumotlar registrlari qanday ma'lumotlar bilan ishlaydi? 
+= Internet trafik bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Vaqt bo'yicha kirim-chiqimlar va statistikalarni tahlil qilishda
+= Hujjat metadata bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Grafik fayllar bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Ro'yxatlar va ma'lumotnomalar orasidagi farq nima? 
+= Qurilmalar ro'yxati jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Ro'yxatlar ko'proq ichki tizim ob'ektlari, ma'lumotnomalar referensiya ob'ektlar
+= Ma'lumotnomalar faqat fayllar va ro'yxatlar faqat hisobotlar uchun
+= Ular aynan bir xil jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Hujjatni bir nechta registr bo'yicha o'tkazish natijasida nima hosil bo'ladi? 
+= Internet so'rovi hosil bo’ladi
+= Moliyaviy va resurs hisoblar bo’ladi
++ Registrlar bo'yicha avto yozuvlar bo’ladi
+= Grafik hosil bo'ladi 
+? Aylanma jamg'arma registrlarining yana bir nomi? 
+= Foydalanuvchi konfiguratsiyasi hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
++ Qaytariladigan registrlar hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Grafik kompozitsiyalar jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Statik ma'lumotlar jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Hisobotlarni optimallashtirish nimalarni o'z ichiga oliga? 
++ Keraksiz elementlarni kamaytirish va ma'lumotni tez chiqarishni tahlil qilish
+= Serverni yopish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Rasm o'lchamini oshirish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi sozlamasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Xizmat ko'rsatish hujjatini qayta ishlash nimalarni kamaytiradi? 
++ Ishlash vaqtini va xatoliklarni kamaytiradi
+= Tarmoq paketlarini kamaytiradi
+= Fayl hajmini kamaytiradi
+= Rasm ranglarini va hajmini kamaytiradi
+? Xususiyatlar turlari rejasi hisobi qaysi sohada qo'llaniladi? 
+= Foydalanuvchi interfeysi dizayni kombinatsiyasi
+= Foydalanuvchi interfeysi elementlari kombinatsiyasi
++ Tovarlar va mahsulotlar kombinatsiyasi
+= Grafik animatsiya kombinatsiyasi 
+? 1C da Status Bar qaysi ma'lumotlarni ko'rsatadi? 
++ Foydalanuvchi nomi va vaqt hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Grafik fayllar jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish va to'liq ta'minlash
+= Konfiguratsiya sozlamalari jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Faqatgina tizimdagi hisobotlar jarayonlarini va uning texnik parametrlarini sozlash
+? Status Bar da qaysi element ko'rinadi? 
+= Report Generator vz File Menu jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= File Menu jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Configuration Window jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ User Name hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlashni tahlil qilish
+? 1C ning Status Bar i qayerda joylashgan? 
++ Quyi panelda hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Hisobot oynasida jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Navigatsiya panelida jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Yuqori menyuda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Status Bar da Date/Time qanday ko'rsatiladi? 
+= Kun tartibi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Faqatgina tizimdagi vaqt jarayonlarini va uning texnik parametrlarini sozlash
++ Joriy sana va vaqt hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tizimdagi sana jarayonlarini va uning texnik parametrlarini sozlash
+? 1C da Status Bar ning asosiy vazifasi nima? 
+= Hujjat yaratish va ma'lumot import qilish jarayonlarini tizimli tahlil qilish
+= Grafik tahrirlash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ma'lumot import qilish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash
++ Tizim holatini ko'rsatish hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? Status Bar da qaysi ma'lumot foydalanuvchi uchun muhim? 
++ User Name va Date/Time hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Fayl hajmi va server xamda IP jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Server IP jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Internet tezligi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? 1C ning Status Bar i qaysi operatsiyalarda yordam beradi? 
+= Dastur yozishda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Tizim monitoringida hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Fayl saqlashda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Grafik yaratishda va dastur yozishda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Status Bar da Progress Indicator nima uchun ishlatiladi? 
+= Vaqtni sozlash holatini ko'rsatish
++ Uzun operatsiyalarning holatini ko'rsatish
+= Hisobot chiqarish holatini ko'rsatish
+= Foydalanuvchi nomini o'zgartirishni ko’rsatish
+? 1C da Status Bar ning Progress Indicator i qayerda ko'rinadi? 
+= Yuqori panelda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Quyi panelda hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= O'ng panelda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash
+= Chap panelda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Status Bar da qaysi tugma mavjud? 
+= Saqlash tugmasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Yangi tugmasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash 
+= O'chirish tugmasi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash
++Ba'zi hollarda yordam tugmasi hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? 1C ning Status Bar i qaysi ma'lumotlarni o'z ichiga olmaydi? 
+= Joriy vaqt jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi nomi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Tizim holati va joriy vaqt jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Foydalanuvchi paroli hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? Status Bar da Database Name qanday ko'rsatiladi? 
++ Baza nomi sifatida hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tizimdagi raqam bilan jarayonlarini va uning texnik parametrlarini sozlash
+= Grafik bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Rang bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? 1C da Status Bar ning Database Name elementi nima uchun kerak? 
++ Qaysi bazada ishlashni aniqlash
+= Hisobot yaratishni aniqlash
+= Konfiguratsiya o'zgartirishni aniqlash
+= Fayl nomini o'zgartirishni aniqlash
+? Status Bar da Configuration Version qanday ko'rsatiladi? 
+= Tugma bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Versiya raqami bilan hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tizimdagi sana bilan jarayonlarini va uning texnik parametrlarini sozlash
+= Rasm bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? 1C ning Status Bar i qaysi foydalanuvchilarga ko'rinadi? 
+= Faqatgina tizimdagi mehmonlarga jarayonlarini va uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi dasturchilarga jarayonlarini va uning texnik parametrlarini sozlash
++ Barcha foydalanuvchilarga hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tizimdagi administratorlarga jarayonlarini va uning texnik parametrlarini sozlash
+? Status Bar da qaysi element tizim xabarlari uchun ishlatiladi? 
+= Report Window jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= File Menu jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish to’liq ta’minlash
+= Navigation Panel jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Status Messages hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? 1C da Status Bar ning Status Messages elementi nima ko'rsatadi? 
+= Hisobot natijalari jarayonlarini tizimli tahlil qilish
+= Foydalanuvchi ro'yxati jarayonlarini tizimli tahlil qilish
+= Konfiguratsiya o'zgarishlari jarayonlarini tizimli tahlil qilish
++Tizim xabarlari va ogohlantirishlarini tizimli tahlil qilish
+
+? Status Bar da Lock Indicator nima anglatadi? 
++ Baza qulflanganligini ko'rsatadi
+= Hisobot tugaganini ko'rsatadi
+= Konfiguratsiya yuklanganini ko'rsatadi 
+= Fayl saqlangan holatini ko'rsatadi
+? 1C ning Status Bar i qaysi rangda bo'lishi mumkin? 
++Turli ranglarda, holatga qarab tizimli tahlil qilish
+= Faqatgina tizimdagi qizil jarayonlarini tizimli tahlil qilish
+= Faqatgina tizimdagi yashil jarayonlarini tizimli tahlil qilish
+= Faqatgina tizimdagi ko'k jarayonlarini tizimli tahlil qilish
+? Status Bar da qaysi ma'lumot konfiguratsiya bilan bog'liq? 
+= User Password jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Internet Connection jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= File Size jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Configuration Version hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? 1C da Status Bar ning Lock Indicator i qachon ko'rinadi? 
+= Hisobot ishga tushganda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Baza qulflangan paytda hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Har doim jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Faqatgina tizimdagi administrator kirganda jarayonlarini va uning texnik parametrlarini tahlil qilish
+? Status Bar da Date/Time elementi qaysi formatda bo'ladi? 
+= Faqatgina tizimdagi raqamlar bilan jarayonlarini va uning texnik parametrlarini sozlashni ta’minlash
+= Harflar bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash 
++ Standart sana/vaqt formatida hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Rasm bilan jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash
+? 1C ning Status Bar i qaysi operatsiyalardan keyin o'zgaradi? 
+= Fayl ochganda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Login va logout dan keyin hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Grafik chizganda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash
+= Hisobot bosganda jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash
+? Status Bar da qaysi element foydalanuvchi huquqlarini ko'rsatadi? 
+= Report Name jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ User Name hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Configuration Name jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= File Path jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni ta’minlash 
+? 1C da Status Bar ning asosiy komponentlari qaysilar? 
++ User Name, Date/Time, Database Name 
+= File Menu, Edit Menu 
+= Report Window, Print Dialog 
+= Navigation Panel, Work Area 
+? 1C: Enterprise da platforma va konfiguratsiya o'rtasidagi farq nimada? 
+= Platforma va konfiguratsiya bir xil tizimli tahlil qilish
+= Konfiguratsiya faqat grafik dizayn tizimli tahlil qilish
+= Platforma faqat veb-brauzer jarayonlarini tizimli tahlil qilish
++Platforma - ishga tushirish muhiti; konfiguratsiya -biznes logika va ob'ektlar
+? Qaysi mijoz turi odatda eng ko'p funksionallikni qo'llab-quvvatlaydi? 
+= Nogiron mijoz jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilishni sozlash
++ Qalin mijoz (thick client) hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tizimdagi PDF ko'ruvchi jarayonlarini va uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi mobil ilova jarayonlarini va uning texnik parametrlarini sozlash
+? Boshqariladigan shakllar (managed forms) asosan qayerda ishlaydi? 
+= Faqatgina tizimdagi brauzerda jarayonlarini va uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi Excelda jarayonlarini va uning texnik parametrlarini sozlash
++ Mijoz va serverda qoidalarga muvofiq jarayon parametrlarini sozlash 
+= Faqatgina tizimdagi printerda jarayonlarini va uning texnik parametrlarini sozlash
+? 1C da oqim (pipeline) rejimi nimani anglatadi? 
+= Grafik faylni ochish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Ma'lumotlarni ketma-ket qayta ishlash va uzatish sxemasini taxlil qilish
+= Parolni shifrlash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Internet tezligini o'lchash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+? Rollar (roles) 1C da asosan nimani belgilaydi? 
+= Faqatgina ulangan chop etish qurilmasining markasi va modelini aniqlash
++ Foydalanuvchining ruxsatlari va ko'rinish chegaralarini aniqlash
+= Faqatgina tizimdagi hisobot formati jarayonlarini va uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi rang sxemasi jarayonlarini va uning texnik parametrlarini sozlash
+? Administrator roli odatda nimani boshqarishi mumkin? 
+= Faqatgina tizimdagi rasm chizish jarayonlari
+= Faqatgina tizimdagi internet tarix jarayonlari
++ Foydalanuvchilar, rollar va tizim sozlamalari
+= Faqatgina tizimdagi klaviatura tartibi jarayonlari
+? 1C da seans parametrlari nim uchun ishlatiladi? 
+= Faqatgina tizimdagi Excel ustunlari jarayonlari uchun
++ Seans davomida saqlanadigan va sozlanadigan qiymatlar uchun
+= Faqatgina internet brauzeridagi vaqtinchalik cookie ma'lumotlar uchun
+= Faqatgina chop etish qurilmasining qog'oz o'lchami uchun
+? Umumiy modullar (common modules) nimani soddalashtiradi? 
+= Internetni o'chirish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Takrorlanuvchi kodni markazlashtirish va qayta ishlatishni tahlil qilish 
+= Grafik faylni siqish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ma'lumotlar bazasini o'chirishni vizual ko'rinishda tizimli tahlil qilish
+? Ob'ekt modullari odatda qayerda joylashadi?  
+= Faqatgina tizimdagi brauzer keshida jarayonlarini sozlash
++ Muayyan metadata ob'ekti bilan bog'langan
+= Faqatgina tizimdagi Word hujjatida sozlash
+= Faqatgina tizimdagi rasm papkasida sozlash
+? 1C da voqealar obunasi (event subscription) nimaga xizmat qiladi? 
+= Faqatgina tizimdagi hisobotlarni rangini o'zgartirish jarayonlari
++ Belgilangan voqeada avtomatik ravishda kodni ishga tushirish
+= Faqatgina tizimdagi printerni o'chirish parametrlarini sozlash
+= Faqatgina tizimdagi fayl nomlarini parametrlarini sozlash
+? Rejalashtirilgan ishlar (scheduled jobs) nimani bajaradi? 
++ Belgilangan vaqtda yoki intervallarda fon vazifalarini
+= Faqatgina tizimdagi brauzerni yopish jarayonlari vazifalari
+= Faqatgina tizimdagi foydalanuvchini bloklash parametrlarini sozlash
+= Faqatgina tizimdagi grafikni aylantirish parametrlarini sozlash
+? Almashish rejasi (exchange plan) qaysi vazifaga xizmat qiladi? 
++ Tarmoqlar o'rtasida ma'lumotlarni sinxronlashtirish
+= Faqatgina tizimdagi rasm yuklash jarayonlari sinxronlashtirish
+= Faqatgina tizimdagi parol tiklash jarayonlari sinxronlashtirish
+= Faqatgina printerni kalibrlash jarayonlari sinxronlashtirish
+? To'liq matn qidiruv 1C da nimani tezlashtiradi? 
+= Faqatgina tizimdagi printer tezligini jarayonlarini sozlash
++ Katta hajmdagi matn maydonlarida qidiruvni sozlash
+= Faqatgina kompyuter monitorining sozlash
+= Faqatgina kompyuterga ulangan tashqi sichqonchani sozlash
+? 1C da indekslar nimaga yordam beradi? 
+= Fayl nomini qisqartirishni tahlil qilish
+= Internet paketlarini siqish jarayonlari
++ So'rovlar va tanlashlarni tezlashtirish
+= Grafik sifatini oshirish ko'rinishi
+? Fayl rejimidagi axborot bazasi qayerda saqlanadi? 
+= Faqatgina tizimdagi bulutda majburiy jarayonlarini va uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi printer xotirasida jarayonlarini va uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi brauzer keshida jarayonlarini va uning texnik parametrlarini sozlash
++ Diskdagi fayl(lar) sifatida hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? Server rejimida ma'lumotlarni qayta ishlash qanday tashkil etiladi? 
+= Hamma narsa faqat Excel jarayonlarini tizimli tahlil qilish
++Server va mijoz o'rtasida taqsimlangan yuklama
+= Faqatgina grafik karta jarayonlarini tizimli tahlil qilish
+= Hamma narsa faqat printer jarayonlarini tizimli tahlil qilish
+? 1C server klasteri nim uchun ishlatiladi? 
++Yuksaklashuvchanlik va yukni taqsimlash
+= Server va mijoz o'rtasida yukni taqsimlash
+= Faqatgina tizimdagi rasm jarayonlarini yukni taqsimlash
+= Faqatgina tizimdagi brauzer jarayonlarini yukni taqsimlash
+? Konfiguratsiyani yangilash jarayonida nimalarga e'tibor beriladi? 
+= Faqatgina tizimdagi printer rangi va foydalanuvchilarni ogohlantirish
++Moslik, migratsiya va foydalanuvchilarni ogohlantirish
+= Faqatgina tizimdagi sichqoncha va foydalanuvchilarni ogohlantirish
+= Hisobot tuzilmasi va foydalanuvchilarni ogohlantirish
+? 1C da hisobot konstruktori nimani beradi? 
+= Faqatgina kompyuter xotirasi va parametrlar bilan yig'ish imkonini
++Hisobot tuzilmasini vizual va parametrlar bilan yig'ish imkonini
+= Qidiruv faqat grafik va parametrlar bilan yig'ish imkonini
+= Faqatgina tizimdagi rasm va parametrlar bilan yig'ish imkonini
+? Filtrlash va qidiruv farqi nimada? 
+= Qidiruv faqat grafik uchun jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Filtrlash - ro'yxatni cheklash; qidiruv - matn bo'yicha topishni tahlil qilish
+= Filtrlash faqat printer uchun jarayonlarini alohida vizual ko'rinishini tahlil qilish
+= Ular har doim bir xil jarayonlarini alohida vizual ko'rinishini tahlil qilish
+? Subkontolar (subconto) hisob-kitobda nimani aniqlaydi? 
++ Analitik kesim va tafsilot darajasini tahlil qilish
+= Qidiruv faqat grafik uchun tizimli tahlil qilish
+= Faqatgina tizimdagi printer chegarasi parametrlarini sozlash
+= Turli maqsadlar uchun hisob siyosati va tuzilmani tahlil qilish 
+? BU/NU (buxgalteriya va boshqaruv hisobi) ajratilishi nimani anglatadi? 
+= Hujjat faqat grafik va hisob siyosati hamda tuzilmani
+= Faqatgina tizimdagi fayl va hisob siyosati hamda tuzilmani
++ Turli maqsadlar uchun hisob siyosati va tuzilmani
+= Faqatgina tizimdagi internet va hisob siyosati hamda tuzilmani
+? 1C da hujjatning o'tkazilmagan holati nimani anglatadi? 
+= Faqatgina tizimdagi fayl formati registrlarga ta'sir qilmagan
+= Ular farqsiz registrlarga ta'sir qilmagan
++ Hujjat hali registrlarga ta'sir qilmagan
+= Hujjat faqat brauzerda registrlarga ta'sir qilmagan
+? 1C da hujjatning o'tkazilgan holati nimani anglatadi? 
+= Hujjat internetga registr yozuvlari hosil bo'lgan
++ Hujjat asosida registr yozuvlari hosil bo'lgan
+= Ro'yxat va hujjat registr yozuvlari hosil bo'lgan
+= Faqatgina Microsoft Excel registr yozuvlari hosil bo'lgan
+? 1C da ro'yxat (catalog) va hujjat o'rtasidagi asosiy farq? 
+= Ular farqsiz ma'lumotlar, operatsiya va harakat
++ Ro'yxat — doimiy ma'lumotlar; hujjat — operatsiya va harakat
+= Hujjat faqat rasm ma'lumotlar, operatsiya va harakat
+= Ro'yxat faqat hisobot ma'lumotlar, operatsiya va harakat
+? 1C da sanalar bo'yicha cheklov (period) nim uchun ishlatiladi? 
+= Hujjat internetga yuklangan vaqt oralig'iga bog'lash
+= Faqatgina Microsoft Excel vaqt oralig'iga bog'lash
+= Ro'yxat va hujjatni vaqt oralig'iga bog'lash
++ Hisobot va qidiruvni ma'lum vaqt oralig'iga bog'lash
+? 1C da ombor qoldiqlarini ko'rsatuvchi hisobot qaysi turga yaqin? 
+= Faqatgina interfeysdagi harakatlanuvchi grafik animatsiyalar bilan ishlash
++ Ro'yxat va qoldiq tahlili hisobotlari
+= Faqatgina tizim ichidagi audio musiqa pleyerini boshqarish va ishga tushirish
+= Faqatgina veb-brauzer uchun mo'ljallangan tashqi plagin va kengaytmalarni yuklash
+? 1C da narx turlari (masalan, o'rtacha) qaysi kontekstda muhim? 
+= Faqatgina internet brauzeridagi baholash sxemalarida
+= Ro'yxat va qoldiq tahlili baholash sxemalarida
++ Inventarizatsiya va baholash sxemalarida
+= Faqatgina Microsoft Excel elektron baholash sxemalarida
+? 1C da valyuta kurslari odatda qayerda saqlanadi? 
++ Ma'lumotnomalar yoki alohida jadval/registrlar bo'yicha sxema bo'yicha sozlash
+= Sanoat texnikalarini ishlab chiqarishda uning texnik parametrlarini sozlash
+= Faqatgina tizimdagi brauzer tarixida jarayonlarini va uning texnik parametrlarini sozlash
+= Korxonaning buxgalteriya hisob-kitob tizimi uning texnik parametrlarini sozlash
+? 1C da kontragent nima? 
+= Korxonaning buxgalteriya hisob-kitob turi
+= Internet orqali ishlovchi maxsus xizmat turi
++ Tashqi yoki ichki hamkor (mijoz, ta'minotchi va hokazo) 
+= Faqatgina Microsoft Excel satrlarini formatlash turi 
+? 1C da shartnomalar odatda qanday ob'ekt bilan bog'lanadi? 
+= Faqatgina dizayn loyihasidagi hujjatlar va ma'lumotnomalar bilan
+= Grafik tasvirlar bilan hujjatlar va ma'lumotnomalar bilan
+= Dastur sozlamalarini hujjatlar va ma'lumotnomalar bilan
++ Hujjatlar va ma'lumotnomalar bilan (sxema bo'yicha)
+? 1C da bank hisob-kitoblari integratsiyasi nimani anglatadi? 
+= Qurilmalar ro'yxati va bank hujjatlari operatsiyalarini moslashtirish
+= Hisobot turi va bank hujjatlari operatsiyalarini moslashtirish
+= Faqatgina chop etish qurilmasi va bank hujjatlari operatsiyalarini moslashtirish
++ Bank hujjatlari va dastur operatsiyalarini moslashtirish
+? 1C da elektron hujjat aylanishi (EDI) nimaga xizmat qiladi? 
+= Ma'lumot bazasini yaratish almashinuv
+= Foydalanuvchi rejimini sozlash almashinuv
++ Tashqi tizimlar bilan standartlashtirilgan almashinuv
+= Faqatgina Microsoft Excel dasturidagi almashinuv
+ ? 1C da chek va KKM integratsiyasi nimani talab qiladi? 
++ Tovar va to'lov operatsiyalarini qoidalarga muvofiq qayd etish
+= Faqatgina printerni kalibrlash va uning texnik sozlamalarini to'g'rilash
+= Matn faylini saqlash jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Grafik yaratish jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+ ? 1C da ish vaqti hisobi qaysi modul bilan bog'liq bo'lishi mumkin? 
+= Faqatgina tizim ichidagi audio kadrlar va ish haqi sxemasi bo'yicha
++ Kadrlar va ish haqi sxemasi bo'yicha
+= Hisobotlarni saqlashga kadrlar va ish haqi sxemasi bo'yicha
+= Grafik fayllarga kadrlar va ish haqi sxemasi bo'yicha
+ ? 1C da ishlab chiqarish buyurtmasi nimani boshqaradi? 
+= Ma'lumotlarni tahlil qilish va chiqarish uchun tahlil qilish
++ Ishlab chiqarish jarayonlari va resurslar rejasini tahlil qilish
+= Dastur kodini tuzish uchun ko'rinishda tizimli tahlil qilish
+= Faqatgina Microsoft Excel satrlarini formatlashni tahlil qilish
+ ? 1C da sifat nazorati hujjatlari nimani qayd etadi? 
+= Avtomobil ta'mirlash servisining hujjati
++ Tekshiruv natijalari va muvofiqlik
+= Servis xizmatlari va xizmat ko'rsatish hujjati
+= Faqatgina printer qurilmasi hujjati 
+ ? 1C da ishlab chiqarish qoldiqlari nimani aks ettiradi? 
+= Faqatgina Microsoft Excel jarayonlardagi yarim tayyor mahsulot va holat
+= Faqatgina tizimdagi internet jarayonlardagi yarim tayyor mahsulot va holat
+= Faqatgina veb-brauzer jarayonlardagi yarim tayyor mahsulot va holat
++ Jarayonlardagi yarim tayyor mahsulot va holat
+
+? 1C da budjetlash moduli nimaga yordam beradi? 
+= Hisobot shablonini reja va moliyaviy boshqaruv
+= Server sozlamalarini reja va moliyaviy boshqaruv
++ Reja va fakt bo'yicha moliyaviy boshqaruv 
+= Faqatgina kompyuter xotirasidagi reja va moliyaviy boshqaruv
+? 1C da CRM elementlari nimani qamrab oladi? 
+= Faqatgina internet brauzeridagi mijozlar va savdo voronikasi
+= Mahsulot xususiyatlarini mijozlar va savdo voronikasi
+= Foydalanuvchi huquqlarini mijozlar va savdo voronikasi
++ Mijozlar bilan munosabatlar va savdo voronikasi
+? 1C da logistik va yetkazib berish moduli nimani optimallashtiradi? 
+= Yangi baza yaratish, ma'lumotlarni import qilishni 
+= Maket yaratish, himoyalash, chop etishni
++ Yetkazib berish marshrutlari va ombor oqimini
+= Faqatgina internet brauzerining kesh xotirasini
+? 1C da ishlab chiqarish rejasi va MRP tushunchasi nimani bog'laydi? 
+= Ehtiyoj va resurslarni ishlab chiqarish jarayonlarini uyg'unlashtirish
+= Ehtiyoj va resurslarni taqsimlash  jarayonlarini uyg'unlashtirish
+= Ehtiyoj va resurslarni rejalashtirish jarayonlarini uyg'unlashtirish
++ Ehtiyoj va resurslarni ishlab chiqarish bilan uyg'unlashtirish
+? 1C da shartnoma bo'yicha hisob-kitob nimani kuzatadi? 
+= Bajarilish, to'lov va qarz holatlarini tahlil qilish
+= Bajarilish, to'lov va qarz holatlarini boshqarish
++ Bajarilish, to'lov va qarz holatlarini tashkil etish
+= Bajarilish, to'lov va qarz holatlarini nazorat qilish
+? 1C da avans va hisob-kitob qoldiqlari nimani aks ettiradi? 
+= Tovarlar, mijozlar va kassalar bo‘yicha holatni boshqarish
+= Noaniq yozuv jarayonlarini boshqarish va tahlil qilish
++ Oldindan to'lovlar va hisobdan chiqarish holatini boshqarish
+= Faqatgina kompyuter xotirasidagi audio musiqa fayllarini boshqarish
+ ? 1C da bank va kassa operatsiyalari farqi nimada? 
+= Bank va kassa operatsiyalarini tahlil qilish
++Bank — bank hisobvaraqlari; kassa — naqd pul operatsiyalari
+= Bank va kassa ma’lumotlarini boshqarish
+= Bank va kassa jarayonlarini nazorat qilish
+? 1C da valyuta operatsiyalari qaysi ma'lumotlarga bog'liq? 
+= Kurslar, valyuta va hisob siyosatini tahlil qilish
++Kurslar, valyuta va hisob siyosatiga
+= Kurslar, valyuta va hisob siyosatini boshqarish
+= Kurslar, valyuta va hisob siyosatini nazorat qilish
+? 1C da qarz va debitor-kreditor hisobi nimani ko'rsatadi? 
+= Moliyaviy resurslar va miqdorlarni hisoblash
+= Internet so'rovlarini yuborish
++ Pul majburiyatlari va talablarini
+= Pul majburiyatlari va talablarini tahlil qilish
+? 1C da inventarizatsiya hujjati nimani tasdiqlaydi? 
+= Internet so'rovlarini yuborishni tahlil qilish 
+= Strukturaviy va statistik ma'lumotlarni tahlil qilish
+= Rasm pikseli jarayonlarini tahlil qilish
++Haqiqiy qoldiqlar va hisob-kitob farqlarini tahlil qilish
+? 1C da narx va chegirmalar siyosati nimani boshqaradi? 
++ Savdo shartlari va rentabellik bilan ishlash
+= Faqatgina interfeys bilan ishlash
+= Server manzilini bilan ishlash
+= Internet linkini bilan ishlash
+? 1C da ishlab chiqarish xarajatlari yig'imi nimani anglatadi? 
+= Ma'lumotlar bazasini ishlatish va xarajatlarni jamlashni tahlil qilish
+= Serverni ishga tushirishda xarajatlarni jamlashni tahlil qilish
++Mahsulot tannarxini tuzish uchun xarajatlarni jamlashni tahlil qilish
+= Veb-brauzer plaginlari va xarajatlarni jamlashni tahlil qilish
+? 1C da bo'linmalar va markazlar nimaga xizmat qiladi? 
+= Excel katak fonini tashkilot bo‘yicha bo‘lish
++Tahlil va hisobotni tashkilot tuzilmasi bo‘yicha bo‘lish
+= Inventarizatsiya va narxni tashkilot bo‘yicha bo‘lish
+= Rasm fayllarini tashkilot bo‘yicha bo‘lish
+ ? 1C da loyiha hisobi (project) nimani kuzatadi? 
+= Moliya hisobi tizimini hisoblashni tahlil qilish
++ Loyiha bo'yicha xarajat va daromadlarni tahlil qilish
+= Tizimga oid ob'ektlar to'plamini tahlil qilish 
+= Hujjatga bog'liq tizimli tahlil qilish
+? 1C da shaxsiy hisob va subhisoblar nimani aniqlaydi? 
+= Hujjat yo'qoladi tizimli tahlil qilish
+= Server restart bo'ladi tizimli tahlil qilish
++ Hisob plandagi detallashtirish darajasini tahlil qilish
+= Ma’lumotlar va jarayonlar jamlanmasini tahlil qilish
+? 1C da operatsion hisobot va boshqaruv hisoboti farqi? 
+= Operatsion - kunlik jarayonlar; boshqaruv -hisobot va nazorat qilish
+= Operatsion - kunlik jarayonlar; boshqaruv - rejalashtirish va tahlil qilish
+= Operatsion - kunlik jarayonlar; boshqaruv - strategik qarorlar qabul qilish
++Operatsion - kunlik jarayonlar; boshqaruv - KPI va tahlil
+? 1C da ichki nazorat va audit izlari nimani ta'minlaydi? 
+= Faqatgina printerni kalibrlash sozlamalarini to'g'rilash
+= Soddalashtirilgan tovar aylanishini tahlil qilish
+= Og'irlik rejimi vizual ko'rinishda tizimli tahlil qilish
++ O'zgarishlar va kirishlarni kuzatish imkonini tahlil qilish
+? 1C da ma'lumotlarni eksport qilish (masalan, Excel) nimaga xizmat qiladi? 
+= Tashqi tahlil va almashinuv uchun integratsiya
++ Tashqi tahlil va almashinuv uchun tahlil qilish
+= Tashqi tahlil va almashinuv uchun boshqaruv
+= Tashqi tahlil va almashinuv uchun nazorat
+? 1C da import qilish jarayonida nimaga e'tibor beriladi? 
+= Tizim xavfsizligini jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Ma'lumotlarni zaxiralashni jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Xizmat ishlari va kafolatni hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
++ Ustunlar mosligi, kodlash va takrorlanishlarni boshqarishni tizimli tahlil qilish 
+? 1C da foydalanuvchi interfeysidagi panel va bo'limlar nimani tashkil qiladi? 
+= Ish jarayonini tezlashtirish va xatoliklarni kamaytirish uchun
+= Fayl hajmini oshirish uchun jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
++ Navigatsiya va ish maydonini hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tizimdagi Excel formulalarini jarayonlarini texnik parametrlarini sozlash
+? 1C da tezkor tugmalar va buyruq paneli nimani tezlashtiradi? 
+= Grafik hajmini oshirish uchun jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Foydalanuvchi izohlarini ko'paytirish uchun zaruriy mexanizmlarini to'liq ta'minlash
++ Takrorlanuvchi amallarni hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+ = Faqatgina tizimdagi internet tezligini jarayonlarini va uning texnik parametrlarini sozlash
+? 1C da kontekstli menyular nimani beradi? 
+= Faqatgina tizim ichidagi audio musiqa pleyerini boshqarish va ishga tushirish
+= Faqatgina Microsoft Excel elektron jadvalidagi kataklar fon rangini o'zgartirish
++ Ob'ekt holatiga mos amallarni hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+= Faqatgina tashqi grafik fayllar va turli xildagi rasmlarni tizimga import qilish
+? 1C da xabarnomalar va ogohlantirishlar qayerda ko'rinadi? 
+= Mahsulot variantlari rejalashtirilgan ma'lumotlarda tahlil qilish
+= Hisob-kitob bo'limlarida tizimli tahlil qilish
++ Status xabarlari va tizim bildirishnomalarida tahlil qilish
+= Faqatgina tizimdagi brauzer tarixida jarayonlarini parametrlarini sozlash
+? 1C da import qilish jarayonida nimaga e'tibor beriladi? 
+= User Name hamda uning barcha zaruriy mexanizmlarini to'liq boshqarishga 
+= Quyi panelda hamda uning barcha mexanizmlarini boshqarishga
+= Uzun operatsiyalarning holatini ko'rsatishni boshqarishga
++ Ustunlar mosligi, kodlash va takrorlanishlarni boshqarishga
+? 1C da foydalanuvchi interfeysidagi panel va bo'limlar nimani tashkil qiladi? 
+= Ma'lumotlarni ketma-ket qayta ishlash va uzatish sxemasi to'liq ta'minlash
+= Qalin mijoz (thick client) hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
++ Dastur funksiyalariga qulay kirish va boshqaruv tizimini tashkil qilishni ta’minlashga
+= Seans davomida saqlanadigan va sozlanadigan qiymatlarni ta’minlashga
+? 1C da tezkor tugmalar va buyruq paneli nimani tezlashtiradi? 
+= Belgilangan voqeada avtomatik ravishda kodni ishga tushirish jarayonlarni tezlashtiradi
+= Foydalanuvchi izohlarini ko'paytirish uchun uchun jarayonlarni tezlashtiradi
++ Foydalanuvchi amallarini bajarish va navigatsiya jarayonini tezlashtiradi.
+= Belgilangan vaqtda yoki intervallarda fon vazifalar jarayonini tezlashtiradi.
+? 1C da kontekstli menyular nimani beradi? 
+= Tarmoqlar o'rtasida ma'lumotlarni sinxronlashtirish buyruqlariga tezkor kirishni beradi
+= Katta hajmdagi matn maydonlarida qidiruvga tezkor kirishni beradi
++ Tanlangan obyekt yoki amal uchun mos buyruqlarga tezkor kirishni beradi
+= So'rovlar va tanlashlarni tezlashtirishga kirishni beradi
+? 1C da xabarnomalar va ogohlantirishlar qayerda ko'rinadi? 
+= Mahsulot variantlari rejalashtirilgan ma'lumotlarida
+= Hisob-kitob bo'limlarida jarayonlarida
++ Status xabarlari va tizim bildirishnomalarida
+= Saqlanmagan o'zgarishlarni yo'qotish xavflarida
+? 1C da sessiya va ulanish uzilishi nimaga olib kelishi mumkin? 
+= Moslik, migratsiya va foydalanuvchilarni ogohlantirish xavfiga
+= Yuksaklashuvchanlik va yukni taqsimlash xavfiga
++ Saqlanmagan o'zgarishlarni yo'qotish xavfiga
+= Hujjat asosida registr yozuvlari hosil bo'lish xavfiga
+? 1C da zaxira nusxa (backup) nimani himoya qiladi? 
+= Bank hujjatlari va dastur operatsiyalarini moslashtirishni
+= Ishlab chiqarish jarayonlari va resurslar rejasini
+= Tashqi tizimlar bilan standartlashtirilgan almashinuvlarini
++ Ma'lumotlar bazasi va muhim sozlamalarni
+? 1C da tiklash (restore) jarayoni nimani talab qiladi? 
+= Foydalanuvchi konfiguratsiyasi bilan ishlashda
++ To'g'ri zaxira va mos versiya bilan ishlashda
+= Ishlash vaqtini va xatoliklar bilan ishlashda
+= Tovarlar va mahsulotlar kombinatsiyasi bilan ishlashda
+? 1C da versiya bilan moslik nima uchun muhim? 
++ Yangilanishda ma'lumotlar buzilmasligi uchun
+= Modeldagi kriteriyalar ro'yxatini saqlash uchun 
+= Vaqt bo'yicha kirim-chiqimlar va statistikalari uchun
+= Registrlar bo'yicha avto yozuvlar uchun
+? 1C da sinxron va asinxron chaqiriqlar farqi nimada? 
++ Sinxron -kutish; asinxron - fon jarayonlarida
+= Sinxron - faylni o‘chirish; asinxron -printerni yoqish jarayonlarida
+= Sinxron -internet tezligini oshirish; asinxron -monitorni sozlash jarayonlarida
+= Sinxron -foydalanuvchi yaratish; asinxron - ekran rangini almashtirish jarayonlarida
+ ? 1C da xotira va ishlash tezligi muammolarida birinchi qadam nima? 
+= Ish jarayonining matematik modeli tahlil qilish
+= Fayllarni jarayonlarini tahlil qilish
+= Grafik parametrlarini tahlil qilish
++ Profil va loglarni tahlil qilish
+? 1C da ma'lumotlar yaxlitligi (integrity) nimani anglatadi? 
+= Ma'lumotlar kiritishda jarayonlarini alohida vizual ko'rinishini
++ Ma’lumotlarning to‘g‘ri, izchil va o‘zaro mos holatda saqlanishi.
+= Hujjat metadata bilan jarayonlarini alohida ko'rinishini
+= Ma'lumotlar bazasi jadvalini jarayonlarini boshqa holatda saqlanishi
+? 1C da tranzaksiya tushunchasi nimani kafolatlaydi? 
+= Aylanish va qayta hisob uchun hamda uning barcha zaruriy mexanizm jarayonida
+= Yangi hisobot yaratish va ularni taxrirlash jarayonida
+= Operatsion yozuvlar hosil qilish jarayonida
++ Yoki barcha o'zgarishlar, yoki hech biri bajarilmadi (atomicity) shu jarayonida
+? 1C da blokirovka va konkurent kirish nimaga bog'liq? 
+= E-mail xabarnoma jarayonlarini alohida vizual ko'rinishini tizimli jarayoniga
+= Portfel diagrammasi jarayonlarini alohida vizual ko'rinish jarayoniga
+= Faqatgina tizim ichidagi audio musiqa pleyerini boshqarish jarayoniga
++ Ma’lumotlar bazasidagi yozuvlarni bir vaqtning o‘zida o‘zgartirish jarayoniga
+? 1C da jurnal yozuvlari nimani kuzatadi? 
++ Muhim operatsiyalar va o'zgarishlarni kuzatishda
+= Ish jarayonining matematik modelini kuzatishda
+= Moliyaviy resurslar va ularning harakatini kuzatishda
+= Modeldagi kriteriyalar ro'yxatini saqlashni kuzatishda
+? 1C da integratsiya API va veb-xizmatlar nimaga yordam beradi? 
+= Hujjat yoki hisobot ko'rinishi va standart blokiga
+= Ruxsatsiz kirish va ma'lumot sizib chiqish xavfini bartaraf etishga
+= Parol tarixi jarayonlarini alohida vizual ko'rinishiga
++ Tashqi tizimlar bilan avtomatlashtirilgan aloqasiga
+? 1C da xavfsizlik siyosati nimani belgilaydi? 
++ Kirish, ma'lumotlar va amallar chegaralarini
+= Standart ma'lumotlarni boshqarishni va tanlashni
+= Parol tarixi jarayonlarini alohida vizual ko'rinishini
+= Grafik parametrlarini jarayonlarini alohida vizual ko'rinishini
+ ? 1C da shifrlash va parol siyosati nimani kamaytiradi? 
++ Ruxsatsiz kirish va ma'lumot sizib chiqish xavfini
+= Modeldagi kriteriyalar ro'yxatini saqlashni
+= Fayllarni avtomatik tartiblash va nusxalash jarayonini
+= Monitor ekranining yorqinligini boshqarish tizimini
+? 1C da audit va foydalanuvchi harakatlari jurnali nimaga xizmat qiladi? 
++ Tekshiruv va javobgarlikni ta'minlashga
+= Fayllarni avtomatik o‘chirish va tizimni yopishga
+= Qurilmalarni almashtirish va internetni uzishga
+= Printer sozlamalarini yangilash va ekran yorqinligini oshirishga
+? 1C da test bazasi va ishlab chiqish muhiti nim uchun ishlatiladi? 
+= Ma’lumotlarni butunlay o‘chirish uchun 
+= Monitor ekranining yorqinligini boshqarish uchun
+= Internet tezligini avtomatik oshirish uchun 
++ O'zgarishlarni xavfsiz sinash uchun
+? 1C da konfiguratsiyani taqqoslash va nazorat qilish nimani yengillashtiradi? 
+= Moliyaviy resurslar va ularning harakati
+= Ish jarayonining matematik modeli
+= Struktura va shablonlar hamda uning barcha zaruriy mexanizmlarini
++ O'zgarishlarni kuzatish va xatolarni kamaytirishni
+? 1C da kodlash standartlari va modul tuzilishi nimaga yordam beradi? 
+= Ma’lumotlarni o‘chirish va tizimni bloklash darajasi sifatiga
++ Qo'llab-quvvatish va rivojlantirish sifatiga
+= Printer qurilmalarini almashtirish sifatiga
+= Fayllarni nusxalash va internet tezligini oshirish jarayoni sifatiga
+ ? 1C da xatoliklarni tutish va xabar berish mexanizmi nimani yaxshilaydi? 
+= Ma’lumotlarni arxivlash va serverni o‘chirish jarayoni 
+= Tarmoq kabellarini ulash va qurilmalarni almashtirish jarayoni
++ Diagnostika va foydalanuvchi tajribasinio’tkazish jarayoni
+= Fayllarni nusxalash va printer sozlamalarini yangilash tizimi jarayoni
+? 1C da ma'lumotlar migratsiyasi nimani anglatadi? 
+= Server qurilmalarini almashtirish va tarmoqni uzatish jarayonini
++ Eski strukturadan yangisiga o'tkazish jarayonini
+= Eski fayllarni o‘chirish va tizimni to‘xtatish jarayonini
+= Yangi foydalanuvchilarni ro‘yxatdan o‘tkazish amaliyotini
+? 1C da hisobotlarni jadvalga eksport va chop etish farqi? 
++ Eksport - fayl; chop - printer yoki PDF shaklida saqlash
+= Eksport – internetga ulanish; chop – ma’lumotni o‘chirish 
+= Eksport – foydalanuvchi yaratish; chop – bazani yangilash 
+= Eksport – dastur o‘rnatish; chop – serverga yuklash
+? 1C da PDF va Excel formatlari tanlashda nimani hisobga olish kerak? 
++ Keyingi qayta ishlash va hajm talablarini hisobga olish kerak
+= Keyingi qayta ishlash qo‘shimcha ishlov berishni hisobga olish kerak
+= Ikkinchi bosqich qayta ishlash mahsulotni takomillashtirish hisobga olish kerak
+= Keyingi ishlab chiqish jarayonni davom ettirishni hisobga olish kerak
+? 1C da ko'p valyutali hisob-kitobda nimaga e'tibor beriladi? 
+= Kurslar, qayta baholash – natijalarni qayta ko‘rib chiqishga
+= Mashg‘ulotlar, nazorat bahosi – qayta ko‘rsatkich aniqlashga
++ Kurslar, qayta baholash va farqlarga
+= Rebaholash – qayta tekshirishga
+? 1C da ombor va joylashuv (ombor-joy) farqi nimada? 
++ Ombor - saqlash joyi; joylashuv - aniq adresatsiya sxemasi bo'yicha
+= Ombor – mahsulot saqlash hududi; joylashuv – aniq manzil tizimi
+= Omborxona – materiallarni saqlash markazi; lokatsiya – tartibli manzil ko‘rinishi
+= Ombor hududi – resurslarni saqlash maydoni; adreslash – standartlashtirilgan joylashuv tartibi
+? 1C da seriya va partiya hisobi nimani kuzatadi? 
+= Seriyali ishlab chiqarish – mahsulot oqimi
++ Ishlab chiqarish partiyalari va muddati bo'yicha
+= Ishlab chiqarish partiyalari – mahsulot guruhlari
+= Ishlab chiqarish hajmi – tayyorlanadigan birliklar soni
+? 1C da sifat sertifikatlari va hujjatlar nimani qamrab oladi? 
++ Muvofiqlik va rasmiy tasdiqlarni
+= Reglamentga moslik – belgilangan qoidalarga rioyani
+= Standartlarga muvofiqlik – talablarni bajarishni
+= Muvofiqlik – belgilangan talablarga mosliknni
+? 1C da ishlab chiqarish normativlari nimani belgilaydi? 
+= Tizimning samarali ishlashi uchun barcha zaruriy sharoit va mexanizmlarni ta’minlash 
+= Resurs va vaqt me’yorlarini hamda barcha zaruriy vositalarni to‘liq ta’minlash 
+= Faoliyat uchun zarur bo‘lgan resurslar, boshqaruv mexanizmlarini to‘liq yo‘lga qo‘yish
++ Resurs va vaqt me'yorlarini hamda uning barcha zaruriy mexanizmlarini to'liq ta'minlash
+? 1C da ishlab chiqarish cheklovlari (resurs) nimani aks ettiradi? 
+= Foydalanuvchi interfeysi dizaynini
+= Ish jarayonini tezlashtirish va xatoliklarni kamaytirishni 
++ Ishlab chiqarish quvvati va navbatlarni
+= Soddalashtirilgan tovar aylanishini
+? 1C da xizmat ko'rsatish shartnomasi va buyurtma farqi? 
+= Shartnoma – umumiy kelishuv; buyurtma – aniq topshiriq hajmi
+= Ramka shartlar – hamkorlik asoslari; buyurtma – bajariladigan ish miqdori
++ Shartnoma - ramka shartlar; buyurtma- aniq ish hajmi
+= Ramka shartlar – hamkorlik qoidalari hajmi
+? 1C da kafolat va servis tarixchasi nimani saqlaydi? 
+= Inventarizatsiya, narx o'zgarishlari holatlarini 
+= Hujjat va hisobot ko'rinishini
++ Mijoz uskunalari va xizmat voqealarini
+= Hisobot ko'rinishini moslashtirishni
+? 1C da SLA va javob vaqtlarini kuzatish nimaga xizmat qiladi? 
+= Tezlik samaradorlihi boshqaruv – nazoratiga
+= Minimal funksiyalar – cheklangan foydalanishga 
+= Xavfsiz ulanish va cheklangan funksiyalariga
++ Xizmat sifatini boshqarish va hisobot berishga
+? 1C da mobil va masofaviy ish rejimi nimani talab qiladi? 
+= Minimal funksiyalar – cheklangan foydalanish strategiyasini
++ Xavfsiz ulanish va cheklangan funksiyalar strategiyasini
+= Ruxsatli funksiyalar – xavfsiz boshqaruv strategiyasini
+= Xavfsiz ulanish – himoyalangan aloqa strategiyasini
+? 1C da bulut va lokal server tanlashida nimani solishtirish kerak? 
+= Ishlash tezligi, monitoring – boshqaruv modelini
+= Himoya – ma’lumot xavfsizligini
++ Xavfsizlik, tezlik va boshqaruv modelini
+= Tezlik samaradorlihi boshqaruv – nazoratini
+? 1C da ma'lumotlar eksporti va integratsiya xatolari uchun umumiy yondashuv qanday? 
+= Xavfsizlik, tezlik va boshqaruv modelini tekshirish
++ Loglar, qayta urinish va ma'lumotlarni tekshirish
+= Kun tartibi jarayonlarini alohida vizual ko'rinishda tizimli tahlil qilish
+= Faqatgina tizimdagi vaqt jarayonlarini va uning texnik parametrlarini sozlash
+? 1C da foydalanuvchi qo'llanmasi va ichki yordam tizimi nimani yaxshilaydi? 
++ O'rganish va xatolarni kamaytirishni
+= Amaliyot – xatolarni kamaytirishni
+= Tahlil – kamchiliklarni topishni
+= Tuzatish – xatolarni kamaytirishni 
+? 1C da sinov (test) muhiti va prod muhiti farqi nimada? 
++ Sinov - tajriba; prod - asosiy ishlatish
+= Test – sinov muhiti; Live – ishchi muhit 
+= Demo – ko‘rgazmali versiya; Release – yakuniy versiya 
+= Sinov – ishlab chiqish muhiti; Prod – foydalanish muhiti
+? 1C da configuration ob'ektlarining nomlanishi nimaga yordam beradi? 
+= Sinov - tajriba; prod - asosiy ishlatishga
+= Fayl hajmi jarayonlarini alohida vizual ko'rinishga
++ Qidiruv va qo'llab-quvvatishni osonlashtirishga
+= Ma'lumotlarni tahlil qilish va chiqarishga
+? 1C da metadata va kod modullari o'rtasidagi farq? 
+= Kod ma'lumotlarni tahlil qiladi metada jadval chiqarishni belgilaydi
++ Metadata tuzilmani belgilaydi; kod xatti-harakatlarni
+= Kod faqat printer jarayonlarini alohida vizual ko'rinishi
+= Metadata faqat rasm jarayonlarini alohida vizual ko'rinishi
+? 1C da standart va maxsus konfiguratsiya farqi? 
+= Standart- brauzer jarayoni; maxsus- visual jarayon
+= Standart faqat musiqa jarayonlarini alohida vizual ko'rinishi
++ Standart - tayyor yechim; maxsus - sozlangan
+= Maxsus faqat brauzer jarayonlarini alohida vizual ko'rinishi
+? 1C da litsenziyalash va foydalanuvchi soni cheklovi nimani belgilaydi? 
+= Resurslar aylanishi va zaxira hisobini
++ Qaysi rejim va qancha foydalanuvchi ruxsat etilganini
+= Mahsulot xususiyatlarini hisoblash va variantlarni boshqarishni
+= Foydalanuvchi huquqlarini ro'yxatga olishni
+? 1C da texnik qo'llab-quvvatlash va yangilanish siyosati nimani ta'minlaydi? 
+= Vaqt bo'yicha qiymatlarni saqlashni ta’minlaydi
++ Barqaror ishlash va xavfsizlik patchlarini ta’minlaydi
+= Uzun operatsiyalarning holatini ko'rsatishni ta’minlaydi
+= Hisobot chiqarish jarayonlarini alohida vizual ko'rinishini ta’minlaydi
+? 1C da ma'lumotlar tozalashi va arxivlash strategiyasi nimaga xizmat qiladi? 
+= Barqaror ishlash va xavfsizlik patchlariga
+= Uzun operatsiyalarning holatini ko'rsatishga
++ Hajmni boshqarish va tezlikni saqlashga
+= Resurslar aylanishi va zaxira hisobiga
+? 1C da hisobot va dashboard farqi nimada? 
+= Hujjatning vizual ko'rinishi va strukturasini belgilovchi shablonda
++ Hisobot - ma'lumot chiqarish; dashboard - ko'rsatkichlar va vizualizatsiyada
+= Tizimdagi musiqa sifatini jarayonlarini va uning texnik parametrlarini sozlashda
+= Hujjatning vizual ko'rinishi va strukturasini belgilovchi shablonda
+? 1C da KPI va boshqaruv ko'rsatkichlari qaysi qatlamda ishlatiladi? 
+= Hujjat yoki hisobot maketini o'zgartirishda
++Tahlil va qaror qabul qilishda
+= Foydalanuvchilar hisobini yuritish vazifasida
+= Zaxira nusxalarini avtomatik yaratishda
+? 1C da ma'lumotlar sifati (to'g'ri kiritish) nimani kamaytiradi? 
++ Hisobot va qarorlardagi xatolarni
+= Vaqt bo'yicha qiymatlarni saqlashni
+= Hujjat yoki hisobot maketini o'zgartirishni
+= Vaqt bo'yicha qiymatlarni saqlashni
+? 1C da rollar va profillar bilan kirish sxemasi nimani soddalashtiradi? 
++ Ruxsatlarni guruhlash va boshqarishni
+= Operatsiya va ish jarayonlarini qayd etishni
+= Foydalanuvchilar hisobini yuritish vazifasini 
+= Moliyaviy va resurs hisoblarini yuritishni
+? 1C da ish jarayonlari (workflow) va kelishuvlar nimaga yordam beradi? 
+= Grafik bilan jarayonlarini alohida vizual ko'rinishiga
+= Hisobot va qarorlardagi xatolarni ko’rinishiga
+= Faqatgina tizim ichidagi audio musiqa pleyerini boshqarishga
++ Hujjatlar tasdiqlash va ketma-ketliklarni boshqarishga
+? 1C da integratsiya xatolari uchun diagnostika ro'yxati nimani tekshirish kerak? 
++ Ulanish, autentifikatsiya va ma'lumot formatini
+= Faqatgina internet brauzerining kesh xotirasini
+= Konfiguratsiya o'zgartirish jarayonlarini alohida vizual ko'rinishini
+= Fayl nomini o'zgartirish jarayonlarini alohida ko'rinishini
+? 1C da ma'lumotlar bazasini optimallashtirish va indekslarni yangilash nimaga ta'sir qiladi? 
+= Server yoki maxsus fayl rejimida saqlashga
++ So'rovlar tezligiga va barqarorlikka
+= Standart referensiya ma’lumotlari to‘plamiga
+= Korxonaning buxgalteriya hisob-kitob tizimiga
+? 1C da foydalanuvchi tajribasini yaxshilash (UX) uchun amaliy qoida nima? 
+= Faqatgina tashqi grafik fayllar va turli xildagi rasmlarni tizimga import qilish
++ Kerakli maydonlarni tartibga solish va xatolarni tushunarli ko'rsatish
+= Server yoki maxsus fayl rejimida saqlash
+= Internet brauzerining vaqtinchalik xotirasida ko’rsatish
+?1C da ma'lumotlarni sinxronlashtirish va dublikatlarni boshqarish nimani kamaytiradi? 
++ Nomuvofiqlik va takroriy yozuvlarni
+= Ma’lumotlar va jarayonlar jamlanmasini
+= Ma'lumotlar bazasini o'chirishni
+= Sanoat texnikalarini ishlab chiqarishni
+? 1C da hisobot parametrlari va filtrlarni oldindan sozlash nimani beradi? 
++ Takrorlanuvchi hisobotlarni tez yaratishni
+= Buxgalteriya, savdo va ombor boshqaruvini
+= Sanoat texnikalarini ishlab chiqarishni
+= Hisob-kitob va ish jarayonlarini avtomatlashtirishni
+? 1C da ma'lumotlar eksporti va BI tizimlariga uzatish nimani talab qiladi? 
+= Grafik tasvirlar va rasmlarning piksel o'lchamlarini tahrirlashni
++ Aniq maydonlar, vaqt oralig'i va kodlashni
+= Oddiy fayllarni saqlash va ko‘rishni
+= Dasturlash tillarida kod yozishni
+? 1C da konfiguratsiyani hujjatlashtirish nimaga yordam beradi? 
+= Buxgalteriya va boshqaruv dasturiga
++ Jamoa ishi va keyingi rivojlantirishga
+= Aniq maydonlar, vaqt oralig'iga va kodlashga
+= Moliya hisobi tizimini hisoblashga
+? 1C da sinov ssenariylari va regressiya testlari nimani kamaytiradi? 
+= Belgilangan vaqtda yoki intervallarda fon vazifalarini
++ Yangilanishdan keyingi buzilishlar xavfini
+= Zaxira nusxa va moslik rejasini tekshirishni
+= Jamoa ishi va keyingi rivojlantirishni
+? 1C da ma'lumotlar migratsiyasidan oldin nimani tekshirish tavsiya etiladi? 
+= Yangilanishdan keyingi buzilishlar xavfini tekshirish
+= Tarmoqlar o'rtasida ma'lumotlarni sinxronlashtirishni tekshirish
++ Zaxira nusxa va moslik rejasini tekshirish
+= Xatolarni kamaytirish va samaradorlikni tekshirish
+? 1C da foydalanuvchi o'qitish va rollar bo'yicha yo'riqnomalar nimani oshiradi? 
+= Veb-brauzer uchun mo'ljallangan tashqi plagin va kengaytmalarni yuklashni
+= Dastur interfeysidagi turli xil rasm animatsiyalarini ko'rsatishni
+= Microsoft Excel elektron jadvalidagi kataklar fon rangini o'zgartirishni
++ Xatolarni kamaytirish va samaradorlikni
+? 1C da monitoring va server yuklamasini kuzatish nimaga xizmat qiladi? 
++ Proaktiv muammalarni aniqlash va rejalashtirishga xizmat qiladi
+= Katta hajmdagi matn maydonlarida qidiruvga xizmat qiladi
+= Chop etish qurilmasining texnik diagnostikasi va holatini tekshirishga xizmat qiladi
+= Faqatgina grafik tasvirlar va rasmlarning piksel o'lchamlarini tahrirlashga xizmat qiladi
+? 1C da ma'lumotlar maxfiyligi va shaxsiy ma'lumotlarni himoya qilish nimani talab qiladi? 
+= Internet brauzerining kesh xotirasi va qidiruvlar tarixini saqlashni
++ Kirish nazorati, shifrlash va siyosatlarni
+= Dastur interfeysidagi turli xil rasm animatsiyalarini ko'rsatishni
+= Katta hajmdagi matn maydonlarida qidiruvni
